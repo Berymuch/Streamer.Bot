@@ -7,3 +7,5 @@ This is a collection of ~150 actions I've created to support my Twitch channel! 
 Additional files can be found in the action texts folder that support some of the functions present in the rest of the actions. Note that some rely on specific scenes/filters/sources to be present in OBS to function- these aspects of this bot will not work out of the box.
 
 All credit for the stremer bot application goes to its developers. You can get streamer bot at it's website here: https://streamer.bot/
+
+There is a TON here to document and I haven't done any of it hahaha- stay tuned!
