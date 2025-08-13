@@ -10,3 +10,7 @@ Additional files can be found in the action texts folder that support some of th
 All credit for the streamer bot application goes to its developers.
 
 There is a TON here to document and I haven't done any of it hahaha- stay tuned!
+
+INSTALLATION:
+
+To install these actions, simply drag and drop the .txt or .sb file you've chosen to download into the import window in streamer.bot. If this does not work or you are unbale to do so, simply open the downloaded .txt or .sb file in any text editor and copypaste the hash into the streamer.bot import window. Enjoy!
