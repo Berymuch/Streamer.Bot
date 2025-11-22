@@ -23,7 +23,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description
 ------ | ------
-!hug [name]\ !h [name] | Hug a targeted user in chat.
+!hug [name]\!h [name] | Hug a targeted user in chat.
 !bonk [name] \n !b [name] | Bonk a targeted user in chat.
 !boop [name] | Boop a targeted user in chat.
 !nut [number] | A sub-trigger for multiple other interactibles. See below for more.
