@@ -5,7 +5,7 @@ My collection of Streamer.Bot Actions: https://streamer.bot/
 
 **[Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md)**
 
-**[Actions List](coming soon)**
+**[Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md)**
 
 **INSTALLATION:**
 
