@@ -10,7 +10,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 ***
 
-##->General commands<-
+##General commands
 
 Command | Description
 ------ | ------
