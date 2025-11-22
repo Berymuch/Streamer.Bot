@@ -7,9 +7,13 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 > My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
 
 [General Commands](#General-commands)
+
 [Subscriber Commands](#Subscriber-commands)
+
 [Moderator Commands](#Moderator-commands)
+
 [Broadcaster Commands](#Broadcaster-commands)
+
 [Nut Commands](#Nut-commands)
 
 ***
@@ -114,8 +118,6 @@ Command | Description
 !vore [name] | Turn targeted user into a snack. Upon consumption, there's a small chance they might get timed out.
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated.
 !list | Display the entirety of the exclude dictionary in chat.
-[//]: (!bitrate | )
-[//]: (!hype | )
 [//]: (!prediction \n !pr | Create a prediction on the current stream. I'm not sure about the formatting here, please fix Bery!)
 
 ***
