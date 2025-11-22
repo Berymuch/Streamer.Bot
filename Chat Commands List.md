@@ -23,8 +23,8 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description
 ------ | ------
-!hug [name]\!h [name] | Hug a targeted user in chat.
-!bonk [name] \n !b [name] | Bonk a targeted user in chat.
+!hug [name] & !h [name] | Hug a targeted user in chat.
+!bonk [name] & !b [name] | Bonk a targeted user in chat.
 !boop [name] | Boop a targeted user in chat.
 !nut [number] | A sub-trigger for multiple other interactibles. See below for more.
 !helpmenut | Displays all available "!nut" variables in chat. See below for more.
@@ -33,40 +33,40 @@ Command | Description
 !unlurk | Notify the stream you're coming back from a lurk.
 !orb | Display current Global Consciousness Project Dot status in chat. Find out more [here](https://gcpdot.com/).
 !en | Force translate following text into English, sends back in chat.
-!quote [number] \n !q [number] | Display the quote at {quote #} position in chat.
-!quote \n !q | Display a random available quote in chat.
-!checkgoldstars \n !cgs | Display the amount of {golden stars} you have in chat.
-!convert \n !con | Converts values into other similar values. \n Available converts: \n c ↔ f \n floz ↔ mllbs \n  lbs ↔ kg \n  ft ↔ m ↔ in ↔ cm \n mi ↔ km
+!quote [number] & !q [number] | Display the quote at {quote #} position in chat.
+!quote & !q | Display a random available quote in chat.
+!checkgoldstars & !cgs | Display the amount of {golden stars} you have in chat.
+!convert & !con | Converts values into other similar values. \n Available converts: \n c ↔ f \n floz ↔ mllbs \n  lbs ↔ kg \n  ft ↔ m ↔ in ↔ cm \n mi ↔ km
 win | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal"
 lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
-!assets \n !github | Display Berymuch's current [GitHub](https://github.com/Berymuch) link in chat. 
-!followage \n !fa | Display the duration you have been following Berymuch in chat.
-!accountage \n !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat.
-!team \n !tm | Display Berymuch's current team [Go Beyond](https://www.twitch.tv/team/gobeyond) in chat.
-!fuzzyfact \n !ff | This command is closely tied to the "Fuzzy Fact" redeem. The command displays a random available line in chat, that was added through the redeem, that is always a random fact about somebody's original character.
-!burp \n !bp | Display the global counter for however many times Berymuch has burped on stream in chat.
-!song \n !s | Display the current song playing in chat as a [Spotify](https://open.spotify.com) link.
-!yarr \n !yr | Reminds you that you should, in fact, not yarr at him in chat.
-!iszemgay \n !izg | Reminds you that, in fact, Zem is quite very gay in chat.
-!pyramid \n !py | Displays your current emote pyramid made and broken counters in chat.
+!assets & !github | Display Berymuch's current [GitHub](https://github.com/Berymuch) link in chat. 
+!followage & !fa | Display the duration you have been following Berymuch in chat.
+!accountage & !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat.
+!team & !tm | Display Berymuch's current team [Go Beyond](https://www.twitch.tv/team/gobeyond) in chat.
+!fuzzyfact & !ff | This command is closely tied to the "Fuzzy Fact" redeem. The command displays a random available line in chat, that was added through the redeem, that is always a random fact about somebody's original character.
+!burp & !bp | Display the global counter for however many times Berymuch has burped on stream in chat.
+!song & !s | Display the current song playing in chat as a [Spotify](https://open.spotify.com) link.
+!yarr & !yr | Reminds you that you should, in fact, not yarr at him in chat.
+!iszemgay & !izg | Reminds you that, in fact, Zem is quite very gay in chat.
+!pyramid & !py | Displays your current emote pyramid made and broken counters in chat.
 !edge | Uh...
-!kofi \n !ko-fi \n !k | Displays Berymuch's current [Ko-Fi page](https://ko-fi.com/berymuch?ref=Twitch) link in chat.
-!kofitiers \n !km | Displays Berymuch's current [Ko-Fi memberships page](https://ko-fi.com/berymuch/tiers?ref=Twitch) link in chat.
-!koficommissions \n !kc | Displays Berymuch's current [Ko-Fi commissions page](https://ko-fi.com/berymuch/commissions?ref=Twitch) link in chat.
-!kofishop \n !ks | Displays Berymuch's current [Ko-Fi shop page](https://ko-fi.com/berymuch/shop?ref=Twitch) link in chat.
-!cute [name] \n !ct [name] | Display how cute targeted user is in chat, based on a truly accurate percentage.
-!gradebook \n !gb | Display Berymuch's (no longer supported) [gradebook](https://docs.google.com/spreadsheets/d/1gJP4wQiogY9OgoXydTWkHgyo_R1uM6xFlyqv1TIFcyg/edit?usp=sharing) in chat.
+!kofi, !ko-fi, & !k | Displays Berymuch's current [Ko-Fi page](https://ko-fi.com/berymuch?ref=Twitch) link in chat.
+!kofitiers & !km | Displays Berymuch's current [Ko-Fi memberships page](https://ko-fi.com/berymuch/tiers?ref=Twitch) link in chat.
+!koficommissions & !kc | Displays Berymuch's current [Ko-Fi commissions page](https://ko-fi.com/berymuch/commissions?ref=Twitch) link in chat.
+!kofishop & !ks | Displays Berymuch's current [Ko-Fi shop page](https://ko-fi.com/berymuch/shop?ref=Twitch) link in chat.
+!cute [name] & !ct [name] | Display how cute targeted user is in chat, based on a truly accurate percentage.
+!gradebook & !gb | Display Berymuch's (no longer supported) [gradebook](https://docs.google.com/spreadsheets/d/1gJP4wQiogY9OgoXydTWkHgyo_R1uM6xFlyqv1TIFcyg/edit?usp=sharing) in chat.
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat.
-!nom [name] [custom single-word place] \n !n [name] [custom single-word place] | Bite somebody. There's a chance to do something other than biting, a chance to bite yourself. Command also works as a selective counter.
+!nom [name] [custom single-word place] & !n [name] [custom single-word place] | Bite somebody. There's a chance to do something other than biting, a chance to bite yourself. Command also works as a selective counter.
 !gacha total | Display current gacha stats in chat.
 !watchstreak | Display current top 5 highest watchstreaks on this channel, as a leaderboard in chat.
-!death \n !d | Increase and display a global counter for each time Berymuch has died in-game.
+!death & !d | Increase and display a global counter for each time Berymuch has died in-game.
 !enter | Enter a prize wheel, if any.
-!unEnter \n !removeEntry | Remove your entry from the prize wheel, if any.
+!unEnter & !removeEntry | Remove your entry from the prize wheel, if any.
 !claim | Claim prize on prize wheel, if you have won.
-!safeword \n !sw | Display your current safeword in chat.
-!safeword [name] \n !sw [name] | Display the safeword of the targeted user in chat.
-!safeword [set/edit/change] \n !sw [set/edit/change] | Change your safeword.
+!safeword & !sw | Display your current safeword in chat.
+!safeword [name] & !sw [name] | Display the safeword of the targeted user in chat.
+!safeword [set/edit/change] & !sw [set/edit/change] | Change your safeword.
 bad bot | Publicly execute the chatbot!
 good bot | Publicly praise the chatbot uwu.
 
@@ -77,11 +77,11 @@ good bot | Publicly praise the chatbot uwu.
 
 Command | Description
 ------ | ------
-!headpat [name] \n !hp [name] | Headpat a targeted user in chat, and on-screen.
-!hornyjail [name] \n !hj [name]| Put targeted user in chat into the horny jail, with on-screen animation.
-!quoteadd [text] \n !qa [text] | [text] will be added as the newest available quote.
-!wolfkisser [name] \n !wk [name] | Give a wolfish kiss to a targeted user in chat, and on-screen.
-!hatchange [message] \n !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat.
+!headpat [name] & !hp [name] | Headpat a targeted user in chat, and on-screen.
+!hornyjail [name] & !hj [name]| Put targeted user in chat into the horny jail, with on-screen animation.
+!quoteadd [text] & !qa [text] | [text] will be added as the newest available quote.
+!wolfkisser [name] & !wk [name] | Give a wolfish kiss to a targeted user in chat, and on-screen.
+!hatchange [message] & !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat.
 @Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer.
 
 ***
@@ -91,34 +91,34 @@ Command | Description
 
 Command | Description
 ------ | ------
-!shoutout [name] \n !so [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
-!ncshoutout [name] \n !ncso [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
-!marker \n !m | Create a timestamp for current stream.
+!shoutout [name] & !so [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
+!ncshoutout [name] & !ncso [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
+!marker & !m | Create a timestamp for current stream.
 !clip | Create a clip, starting 30 seconds before, and ending at the time command was sent.
-!givegoldstar \n !ggs | Grant a single {golden star} to the targeted user.
-!removegoldstar \n !rgs | Remove a single {golden star} from the targeted user.
-!settitle [text] \n !st [text] | Set current title of the stream.
-!setgame [category] \n !sg [category] | Set current category of the stream.
+!givegoldstar & !ggs | Grant a single {golden star} to the targeted user.
+!removegoldstar & !rgs | Remove a single {golden star} from the targeted user.
+!settitle [text] & !st [text] | Set current title of the stream.
+!setgame [category] & !sg [category] | Set current category of the stream.
 !poll | Create a poll on the current stream. Use \| to separate it into: "!poll [pollname] \| [answer 1] \| [answer 2]" etc.
 !snoozead | Automatically snooze an incoming ad.
-!quotedelete [quote #] \n !qd [quote #] | Removes a targeted quote [quote #].
-!openEntries \n !entriesOpen| Open entries for the prize wheel.
-!closeEntries \n !entriesClose | Close entries for the prize wheel.
-!spinUser \n !userSpin \n !uSpin \n !spinU | Spin the custom-user prize wheel.
-!clearUserEntries \n !clearUser | Clear all entries from the prize-wheel.
-!alert \n !a | Display a sticky note on Berymuch's model saying "Bery DM's", aswell as play a clear sound. ==Use this to grab Berymuch's attention for important stuff that needs immediate attention that cannot be neglected.== Using this also automatically assumes you have already written your message in Berymuch's DMs **on Twitch**. As long as this improves viewing experience for one or more without it being annoying, make sure to use this and grab Berymuch's attention when he DOES end up missing stuff.
-!alertoff \n !ao | Disables the command above, aka "!alert".
-!chillstream \n !cs \n !chill | Toggle all redeem prices to become 1000 points more.
-!nommode on \n !nm on | Enable the "!nom" command.
-!nommode off \n !nm off | Disable the "!nom" command.
-!gachamode on \n !gm on | Enable the gacha passive interaction.
-!gachamode off \n !gm off | Disable the gacha passive interaction.
+!quotedelete [quote #] & !qd [quote #] | Removes a targeted quote [quote #].
+!openEntries & !entriesOpen| Open entries for the prize wheel.
+!closeEntries & !entriesClose | Close entries for the prize wheel.
+!spinUser, !userSpin, !uSpin, & !spinU | Spin the custom-user prize wheel.
+!clearUserEntries & !clearUser | Clear all entries from the prize-wheel.
+!alert & !a | Display a sticky note on Berymuch's model saying "Bery DM's", aswell as play a clear sound. ==Use this to grab Berymuch's attention for important stuff that needs immediate attention that cannot be neglected.== Using this also automatically assumes you have already written your message in Berymuch's DMs **on Twitch**. As long as this improves viewing experience for one or more without it being annoying, make sure to use this and grab Berymuch's attention when he DOES end up missing stuff.
+!alertoff & !ao | Disables the command above, aka "!alert".
+!chillstream & !cs \n !chill | Toggle all redeem prices to become 1000 points more.
+!nommode on & !nm on | Enable the "!nom" command.
+!nommode off & !nm off | Disable the "!nom" command.
+!gachamode on & !gm on | Enable the gacha passive interaction.
+!gachamode off & !gm off | Disable the gacha passive interaction.
 !vore [name] | Turn targeted user into a snack. Upon consumption, there's a small chance they might get timed out.
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated.
 !list | Display the entirety of the exclude dictionary in chat.
-!weather \n !w | Shows the current weather near Bery.
-!temp \n !t | As above. 
-!prediction \n !pr | Create a prediction on the current stream!
+!weather & !w | Shows the current weather near Bery.
+!temp & !t | As above. 
+!prediction & !pr | Create a prediction on the current stream!
 
 ***
 
@@ -127,7 +127,7 @@ Command | Description
 
 Command | Description
 ------ | ------
-!emergencymode \n !em | **Enable ONLY as a last resort.** Will disable most features, chat will become almost unusable for an average viewer.
+!emergencymode & !em | **Enable ONLY as a last resort.** Will disable most features, chat will become almost unusable for an average viewer.
 !roff | Enable all of the redeems.
 !ron | Disable all of the redeems.
 !noff | Disable all nuts.
