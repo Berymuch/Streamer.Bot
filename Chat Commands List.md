@@ -14,6 +14,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 ***
 
+<a name="General-commands"></a>
 ## General commands
 
 Command | Description
@@ -69,6 +70,7 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 
 ***
 
+<a name="Subscriber-commands"></a>
 ## Subscriber commands
 
 Command | Description
@@ -82,6 +84,7 @@ Command | Description
 
 ***
 
+<a name="Moderator-commands"></a>
 ## Moderator commands
 
 Command | Description
@@ -117,6 +120,7 @@ Command | Description
 
 ***
 
+<a name="Broadcaster-commands"></a>
 ## Broadcaster commands
 
 Command | Description
@@ -129,7 +133,9 @@ Command | Description
 
 ***
 
+<a name="Nut-commands"></a>
 ## Nut commands
+
 Nut number | Description | Idea owner
 :----: | ------ | ------
 1-100 | Throws this number of nuts at Berymuch. | !>[VectorVibes_](https://www.twitch.tv/VectorVibes_)
