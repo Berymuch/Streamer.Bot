@@ -43,4 +43,4 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description
 ------ | ------
- | 
+sdsa | sdasd
