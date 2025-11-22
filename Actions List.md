@@ -38,7 +38,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 <a name="Nut-Alts"></a>
 ## Nut Alts
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -47,7 +47,7 @@ placeholder | placeholder
 <a name="Auto-Translate"></a>
 ## Auto Translate
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -56,7 +56,7 @@ placeholder | placeholder
 <a name="Mustached_Maniac-ChatGPT"></a>
 ## Mustached_Maniac ChatGPT
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -65,7 +65,7 @@ placeholder | placeholder
 <a name="Passive-OBS-Interactions"></a>
 ## Passive OBS Interactions
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -74,7 +74,7 @@ placeholder | placeholder
 <a name="PiShock---Twitch-Interactions"></a>
 ## PiShock - Twitch Interactions
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -83,7 +83,7 @@ placeholder | placeholder
 <a name="PiShock-V2---Core"></a>
 ## PiShock V2 - Core
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -92,7 +92,7 @@ placeholder | placeholder
 <a name="PiShock-V2---Examples"></a>
 ## PiShock V2 - Examples
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -101,7 +101,7 @@ placeholder | placeholder
 <a name="PiShock-V2---Operations"></a>
 ## PiShock V2 - Operations
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -110,7 +110,7 @@ placeholder | placeholder
 <a name="Redeems"></a>
 ## Redeems
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -119,7 +119,7 @@ placeholder | placeholder
 <a name="Spinning-Prize-Wheel"></a>
 ## Spinning Prize Wheel
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -128,7 +128,7 @@ placeholder | placeholder
 <a name="Spinning-Prize-Wheel---Custom"></a>
 ## Spinning Prize Wheel - Custom
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -137,7 +137,7 @@ placeholder | placeholder
 <a name="Spinning-Prize-Wheel---User-Group"></a>
 ## Spinning Prize Wheel - User Group
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -146,7 +146,7 @@ placeholder | placeholder
 <a name="Translate-Actions"></a>
 ## Translate Actions
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
 
@@ -155,8 +155,6 @@ placeholder | placeholder
 <a name="Twitch-interactions"></a>
 ## Twitch Interactions
 
-Command | Description
+Action | Description
 ------ | ------
 placeholder | placeholder
-
-
