@@ -132,6 +132,7 @@ Command | Description
 !ron | Disable all of the redeems.
 !noff | Disable all nuts.
 !non | Enable all nuts.
+!quotedelete [value] & !qd [value] | The quote attached to [value] will be deleted.
 
 ***
 
