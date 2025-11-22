@@ -6,6 +6,8 @@
 
 **[Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md)**
 
+***
+
 **INSTALLATION:**
 
 >*To install these actions, simply drag and drop the .txt or .sb file you've chosen to download into the import window in streamer.bot. If this does not work or you are unable to do so, simply open the downloaded .txt or .sb file in any text editor and copypaste the hash into the streamer.bot import window. Enjoy!*
