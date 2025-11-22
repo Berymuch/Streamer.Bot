@@ -11,7 +11,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT)
 
-[Passive OBS Interactions](#General-commands)
+[Passive OBS Interactions](#Passive-OBS-Interactions)
 
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions)
 
