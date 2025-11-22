@@ -67,10 +67,8 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !safeword \n !sw | Display your current safeword in chat.
 !safeword [name] \n !sw [name] | Display the safeword of the targeted user in chat.
 !safeword [set/edit/change] \n !sw [set/edit/change] | Change your safeword.
-[//]: (bad bot | Publicly execute the chatbot!)
-[//]: (good bot | Publicly praise the chatbot uwu) 
-[//]: (!temp \n !t |) 
-[//]: (!weather \n !w |)
+bad bot | Publicly execute the chatbot!
+good bot | Publicly praise the chatbot uwu.
 
 ***
 
@@ -118,6 +116,8 @@ Command | Description
 !vore [name] | Turn targeted user into a snack. Upon consumption, there's a small chance they might get timed out.
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated.
 !list | Display the entirety of the exclude dictionary in chat.
+!weather \n !w | Shows the current weather near Bery.
+!temp \n !t | As above. 
 [//]: (!prediction \n !pr | Create a prediction on the current stream. I'm not sure about the formatting here, please fix Bery!)
 
 ***
