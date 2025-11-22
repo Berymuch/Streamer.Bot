@@ -1,5 +1,5 @@
 # Introduction
-Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for putting this site together and having the idea to do it!
+Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for giving me the idea and helping out with putting this site together!
 
 Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted by the user [Berymuch](https://www.twitch.tv/berymuch).
 
