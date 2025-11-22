@@ -1,5 +1,4 @@
 # Streamer.Bot
-My collection of Streamer.Bot Actions: https://streamer.bot/
 
 **NOTE: V1.1.5+ REQUIRE STREAMER.BOT V1.0.0+**
 
