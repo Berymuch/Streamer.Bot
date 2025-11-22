@@ -36,7 +36,7 @@ Command | Description
 !quote [number] & !q [number] | Display the quote at {quote #} position in chat.
 !quote & !q | Display a random available quote in chat.
 !checkgoldstars & !cgs | Display the amount of {golden stars} you have in chat.
-!convert & !con | Converts values into other similar values. \n Available converts: \n c ↔ f \n floz ↔ mllbs \n  lbs ↔ kg \n  ft ↔ m ↔ in ↔ cm \n mi ↔ km
+!convert & !con | Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km
 win | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal"
 lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !assets & !github | Display Berymuch's current [GitHub](https://github.com/Berymuch) link in chat. 
