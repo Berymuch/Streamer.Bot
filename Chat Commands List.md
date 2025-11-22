@@ -6,7 +6,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 > [!NOTE]
 > My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
 
-[TOC]
+[General Commands](#General-commands)
 
 ***
 
