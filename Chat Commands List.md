@@ -99,7 +99,7 @@ Command | Description
 !removegoldstar \n !rgs | Remove a single {golden star} from the targeted user.
 !settitle [text] \n !st [text] | Set current title of the stream.
 !setgame [category] \n !sg [category] | Set current category of the stream.
-!poll | Create a poll on the current stream. Use \|\ to separate it into: \"!poll\ \[pollname]\ \|\ \[answer 1]\ \|\ \[answer 2]"\ etc.
+!poll | Create a poll on the current stream. Use \|\ to separate it into: \"!poll [pollname]\ \| [answer 1] | [answer 2]"\ etc.
 !snoozead | Automatically snooze an incoming ad.
 !quotedelete [quote #] \n !qd [quote #] | Removes a targeted quote [quote #].
 !openEntries \n !entriesOpen| Open entries for the prize wheel.
