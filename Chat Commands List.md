@@ -118,7 +118,7 @@ Command | Description
 !list | Display the entirety of the exclude dictionary in chat.
 !weather \n !w | Shows the current weather near Bery.
 !temp \n !t | As above. 
-[//]: (!prediction \n !pr | Create a prediction on the current stream. I'm not sure about the formatting here, please fix Bery!)
+!prediction \n !pr | Create a prediction on the current stream!
 
 ***
 
