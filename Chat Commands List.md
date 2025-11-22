@@ -7,6 +7,10 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 > My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
 
 [General Commands](#General-commands)
+[Subscriber Commands](#Subscriber-commands)
+[Moderator Commands](#Moderator-commands)
+[Broadcaster Commands](#Broadcaster-commands)
+[Nut Commands](#Nut-commands)
 
 ***
 
@@ -78,7 +82,7 @@ Command | Description
 
 ***
 
-## Mod commands
+## Moderator commands
 
 Command | Description
 ------ | ------
@@ -125,7 +129,7 @@ Command | Description
 
 ***
 
-## Nut specific
+## Nut commands
 Nut number | Description | Idea owner
 :----: | ------ | ------
 1-100 | Throws this number of nuts at Berymuch. | !>[VectorVibes_](https://www.twitch.tv/VectorVibes_)
