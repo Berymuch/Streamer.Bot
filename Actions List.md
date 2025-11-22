@@ -1,1 +1,46 @@
-To be worked on...
+Work in Progress...
+
+# Introduction
+Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for giving me the idea and helping out with putting this site together!
+
+Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted by the user [Berymuch](https://www.twitch.tv/berymuch).
+
+> [!NOTE]
+> Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
+
+[!Nut Alts](#General-commands)
+
+[Auto Translate](#General-commands)
+
+[Mustached_Maniac ChatGPT v2](#General-commands)
+
+[Passive OBS interactions](#General-commands)
+
+[PiShock - Twitch Interactions](#General-commands)
+
+[PiShock V2 - Core](#General-commands)
+
+[PiShock V2 - Examples](#General-commands)
+
+[PiShock V2 - Operations](#General-commands)
+
+[Redeems](#General-commands)
+
+[Spinning Prize Wheel](#General-commands)
+
+[Spinning Prize Wheel - Custom](#General-commands)
+
+[Spinning Prize Wheel - User Group](#General-commands)
+
+[Translate Actions](#General-commands)
+
+[Twitch interactions](#General-commands)
+
+***
+
+<a name="General-commands"></a>
+## General commands
+
+Command | Description
+------ | ------
+ | 
