@@ -3,8 +3,8 @@ Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for putting this site toget
 
 Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted by the user [Berymuch](https://www.twitch.tv/berymuch).
 
-!!! note Before you start...
-	Need help, handsome? My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
+> [!NOTE]
+> My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
 
 [TOC]
 
