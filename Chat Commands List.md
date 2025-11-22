@@ -127,7 +127,7 @@ Command | Description
 
 Command | Description
 ------ | ------
-!emergencymode \n !em | ==Enable ONLY as a last resort.== Will disable most features, chat will become almost unusable for an average viewer.
+!emergencymode \n !em | **Enable ONLY as a last resort.** Will disable most features, chat will become almost unusable for an average viewer.
 !roff | Enable all of the redeems.
 !ron | Disable all of the redeems.
 !noff | Disable all nuts.
