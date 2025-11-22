@@ -1,9 +1,6 @@
-Work in Progress...
-
 # Introduction
-Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for giving me the idea and helping out with putting this site together!
 
-Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted by the user [Berymuch](https://www.twitch.tv/berymuch).
+Welcome to the web page made for listing all of the actions provided with the Botymuch streamer bot built and maintained by [Berymuch](https://www.twitch.tv/berymuch).
 
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
@@ -43,4 +40,4 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description
 ------ | ------
-sdsa | sdasd
+placeholder | placeholder
