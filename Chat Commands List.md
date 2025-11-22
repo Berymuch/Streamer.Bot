@@ -10,7 +10,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 ***
 
-##General commands
+## General commands
 
 Command | Description
 ------ | ------
@@ -65,7 +65,7 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 
 ***
 
-##->Subscriber commands<-
+## Subscriber commands
 
 Command | Description
 ------ | ------
@@ -76,7 +76,7 @@ Command | Description
 !hatchange [message] \n !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat.
 @Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer.
 
-##->Mod commands<-
+## Mod commands
 
 Command | Description
 ------ | ------
@@ -111,7 +111,7 @@ Command | Description
 
 ***
 
-##->Broadcaster commands<-
+## Broadcaster commands
 
 Command | Description
 ------ | ------
@@ -123,7 +123,7 @@ Command | Description
 
 ***
 
-##->Nut specific<-
+## Nut specific
 Nut number | Description | Idea owner
 :----: | ------ | ------
 1-100 | Throws this number of nuts at Berymuch. | !>[VectorVibes_](https://www.twitch.tv/VectorVibes_)
