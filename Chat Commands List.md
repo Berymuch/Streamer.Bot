@@ -76,6 +76,8 @@ Command | Description
 !hatchange [message] \n !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat.
 @Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer.
 
+***
+
 ## Mod commands
 
 Command | Description
