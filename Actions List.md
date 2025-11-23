@@ -40,7 +40,9 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Grifter Nut | placeholder
+Help me nut | placeholder
+Nut 666 | placeholder
 
 ***
 
@@ -49,7 +51,8 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+User Auto-translate | placeholder
+User Auto-translate File & Command | placeholder
 
 ***
 
@@ -58,7 +61,12 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+_ChatGPT Set-Up UI_ | placeholder
+ChatGPT Answers v2 | placeholder
+ChatGPT Random Messaging v2 | placeholder
+ChatGPT Recall Behavior | placeholder
+ChatGPT Set Bot Behavior | placeholder
+ChatGPT Shoutouts v2 | placeholder
 
 ***
 
@@ -67,7 +75,13 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Audio Info Cycler | placeholder
+Clock Cycler | placeholder
+Member of the now | placeholder
+Now Playing Enabler/Disabler | placeholder
+Now Playing text & graphic cycler | placeholder
+Now Playing Text Updater | placeholder
+Orb Present User Image Cycler | placeholder
 
 ***
 
@@ -76,7 +90,19 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Random - Operation Roulette | placeholder
+Shock - Bits | placeholder
+Shock - Subs (1-4) | placeholder
+Shock - Subs (Tier 2) | placeholder
+Shock - Subs (Tier 3) | placeholder
+Shock - Subs Bombs | placeholder
+Vibrate - Amazon'd | placeholder
+Vibrate - Deflate | placeholder
+Vibrate - Destroy | placeholder
+Vibrate - Drop | placeholder
+Vibrate - No Horny | placeholder
+Vibrate - Pets | placeholder
+Vibrate - Plap | placeholder
 
 ***
 
@@ -85,7 +111,11 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+!!PiShock Code | placeholder
+!PiShock Setup | placeholder
+PiShock ConfigForm | placeholder
+PiShock LoginForm | placeholder
+PiShock ShareCodeForm | placeholder
 
 ***
 
@@ -94,7 +124,10 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+PiShock - Climbing Shock | placeholder
+PiShock - Generic Shock | placeholder
+PiShock - Operation Roulette | placeholder
+PiShock - Pre-vibrate Shock | placeholder
 
 ***
 
@@ -103,7 +136,10 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+PiShock Operate | placeholder
+PiShock OperateBeep | placeholder
+PiShock OperateShock | placeholder
+PiShock OperateVibrate | placeholder
 
 ***
 
@@ -112,7 +148,10 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Build-a-Nut Redemption | placeholder
+Run an Ad | placeholder
+Za Warudo Screenshot VTuber | placeholder
+Za warudo! | placeholder
 
 ***
 
@@ -121,7 +160,11 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Spinning Prize Wheel 0. Code | placeholder
+Spinning Prize Wheel 1. Settings | placeholder
+Spinning Prize Wheel 2. Import | placeholder
+Spinning Prize Wheel Send Group Data | placeholder
+Spinning Prize Wheel Winner | placeholder
 
 ***
 
@@ -130,7 +173,10 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Spinning Prize Wheel 0. Spin (Custom) | placeholder
+Spinning Prize Wheel Add Custom Entry | placeholder
+Spinning Prize Wheel Clear Custom Entries | placeholder
+Spinning Prize Wheel Remove Custom Entry | placeholder
 
 ***
 
@@ -139,7 +185,15 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Spinning Prize Wheel 0. Spin (User Group) | placeholder
+Spinning Prize Wheel Clear Entries | placeholder
+Spinning Prize Wheel Clear Winners | placeholder
+Spinning Prize Wheel Command Add User to Group | placeholder
+Spinning Prize Wheel Command Remove User from Group | placeholder
+Spinning Prize Wheel Entries Close | placeholder
+Spinning Prize Wheel Entries Open | placeholder
+Spinning Prize Wheel Winner Announce | placeholder
+Spinning Prize Wheel Winner Claim | placeholder
 
 ***
 
@@ -148,7 +202,7 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+User Translate v2.1 | placeholder
 
 ***
 
@@ -157,4 +211,51 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
+Ad (Warning) | placeholder
+Bits Thanks (101+) | placeholder
+Bits Thanks (General) | placeholder
+Chat (1st 2nd 3rd chatter) | placeholder
+Chat (1st 2nd 3rd reset chatter) | placeholder
+Clip (Create) | placeholder
+Donation (Ko-Fi) | placeholder
+Donation (Streamlabs) | placeholder
+Follow | placeholder
+Goal Begin | placeholder
+Goal End | placeholder
+Goal Progress | placeholder
+Hype Train (End) | placeholder
+Hype Train (Level-up) | placeholder
+Hype Train (Start) | placeholder
+Hype Train (Updated) | placeholder
+Lost Bot connection to Twitch | placeholder
+Poll (Archived) | placeholder
+Poll (Command) | placeholder
+Poll (Vote Received) | placeholder
+Power-up (Gigantify Emote) | placeholder
+Power-up (Message Effects) | placeholder
+Power-up (On-Screen Celebration) | placeholder
+Prediction (Start) | placeholder
+Pyramid (Broken) | placeholder
+Pyramid (Check) | placeholder
+Pyramid (Success) | placeholder
+Raid (Received) | placeholder
+Raid (Sent) | placeholder
+Raid (Start) | placeholder
+Shoutout (Clip) | placeholder
+Shoutout (No-clip) | placeholder
+Shoutout (Received) | placeholder
+Stream End | placeholder
+Stream Startup | placeholder
+Stream Update | placeholder
+Sub (Basic) | placeholder
+Sub (Gift Bomb) | placeholder
+Sub (Gifted Upgrade) | placeholder
+Sub (Gifted) | placeholder
+Sub (Pay It Forward) | placeholder
+Sub (Prime Upgrade) | placeholder
+Sub (Resubscription) | placeholder
+Watch Streak (Main) | placeholder
+Watch Streak (Top 5) | placeholder
+Watchstreak (Unset) | placeholder
+placeholder | placeholder
 placeholder | placeholder
