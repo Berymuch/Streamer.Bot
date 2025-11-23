@@ -7,14 +7,13 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 *Current Action count: 196*
 
-Column 1 | Column 2 | Column 3
+Column 1 | Column 2 | Column 3 | Column 4
 ------ | ------ | ------
-[Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands)
-[Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands)
-[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions)
-[PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations)
-[Redeems](#Redeems) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
-[Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Translate Actions](#Translate-Actions) | [Twitch interactions](#Twitch-interactions)
+[Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions)
+[Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions)
+[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
+[PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
+[Redeems](#Redeems) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
 
 ***
 
