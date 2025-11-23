@@ -7,7 +7,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 *Current Action count: 196*
 
- |  | 
+Column 1 | Column 2 | Column 3
 ------ | ------ | ------
 [Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands)
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands)
