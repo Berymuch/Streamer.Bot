@@ -6,22 +6,39 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
 
 [Nut Alts](#Nut-Alts)
+
 [Auto Translate](#Auto-Translate)
+
 [Broadcaster Commands](#Broadcaster-Commands)
+
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion)
+
 [Chat Commands](#Chat-Commands)
+
 [Mod Commands](#Mod-Commands)
+
 [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT)
+
 [Passive OBS Interactions](#Passive-OBS-Interactions)
+
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions)
+
 [PiShock V2 - Core](#PiShock-V2---Core)
+
 [PiShock V2 - Examples](#PiShock-V2---Examples)
+
 [PiShock V2 - Operations](#PiShock-V2---Operations)
+
 [Redeems](#Redeems)
+
 [Spinning Prize Wheel](#Spinning-Prize-Wheel)
+
 [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
+
 [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
+
 [Translate Actions](#Translate-Actions)
+
 [Twitch interactions](#Twitch-interactions)
 
 ***
@@ -52,7 +69,9 @@ User Auto-translate File & Command | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Emergency Mode | placeholder
+Redeems off | placeholder
+Redeems on | placeholder
 
 ***
 
@@ -61,7 +80,20 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Conversion C to F | placeholder
+Conversion CM to In | placeholder
+Conversion Command Check | placeholder
+Conversion F to C | placeholder
+Conversion fluid ounces to milliliters | placeholder
+Conversion Ft to CM | placeholder
+Conversion Ft to M | placeholder
+Conversion In to CM | placeholder
+Conversion Kg to lbs | placeholder
+Conversion KM to MI | placeholder
+Conversion lbs to Kg | placeholder
+Conversion M to Ft | placeholder
+Conversion Mi to KM | placeholder
+Conversion milliliters to fluid ounces | placeholder
 
 ***
 
@@ -70,7 +102,53 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Account age | placeholder
+Bad bot | placeholder
+Boop | placeholder
+Burp Counter Increase | placeholder
+Chat Bonk | placeholder
+Chat headpats  | placeholder
+Chat horny jail | placeholder
+Chat wolfkisser | placeholder
+Check Gold Stars | placeholder
+Commands List | placeholder
+Cute | placeholder
+Death Counter Decrease | placeholder
+Death Counter Increase | placeholder
+Deer | placeholder
+Discord info | placeholder
+Edge | placeholder
+Emotes (Lose) | placeholder
+Emotes (Win) | placeholder
+Follow Age | placeholder
+FuzzyFact (Command) | placeholder
+Gacha chat | placeholder
+Get song info | placeholder
+Get Team Info | placeholder
+GitHub | placeholder
+Good bot | placeholder
+Grade Book | placeholder
+Hug | placeholder
+Is Zem Gay | placeholder
+Kofi Commissions | placeholder
+Kofi Link | placeholder
+Kofi Memberships | placeholder
+Kofi Shop Link | placeholder
+Lurk | placeholder
+Magic 8Ball | placeholder
+Nom | placeholder
+Quote Add | placeholder
+Quote Delete | placeholder
+Quote Show | placeholder
+Safeword | placeholder
+Safeword check | placeholder
+Stream Babies | placeholder
+The Orb | placeholder
+Tongue is out | placeholder
+Unlurk | placeholder
+Vanish | placeholder
+Weather | placeholder
+Yarr | placeholder
 
 ***
 
@@ -79,7 +157,19 @@ placeholder | placeholder
 
 Action | Description
 ------ | ------
-placeholder | placeholder
+Bottomcheck | placeholder
+bottomcheck timer | placeholder
+Gacha mode | placeholder
+Give Gold Stars | placeholder
+Nom mode | placeholder
+Redeem Cost Modifier | placeholder
+Remove Gold Stars | placeholder
+Set game | placeholder
+Set game fail | placeholder
+Set Marker | placeholder
+Set Title | placeholder
+Snooze Ad | placeholder
+The V Word | placeholder
 
 ***
 
