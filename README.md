@@ -1,4 +1,4 @@
-# Botymuch (Powered by: Streamer.Bot)
+# Botymuch (Powered by [Streamer.Bot](https://streamer.bot/))
 
 **NOTE: V1.1.5+ REQUIRE STREAMER.BOT V1.0.0+**
 
