@@ -22,7 +22,7 @@ Column 1 | Column 2 | Column 3 | Column 4
 
 Action | Uses OBS Scenes/Filters | Description
 ------ | ------ | ------
-Grifter Nut | Yes | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device
+Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device
 Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs
 Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the associated code in Vnyan. Vnyan is unable to toggle Scene filters, so this code runs to do that.
 
