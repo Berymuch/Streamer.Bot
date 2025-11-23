@@ -22,9 +22,9 @@ Column 1 | Column 2 | Column 3 | Column 4
 
 Action | Description
 ------ | ------
-Grifter Nut | placeholder
-Help me nut | placeholder
-Nut 666 | placeholder
+Grifter Nut | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device
+Help me nut | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs
+Nut 666 | Used to activate specific filters in OBS in tandem with the associated code in Vnyan. Vnyan is unable to toggle Scene filters, so this code runs to do that.
 
 ***
 
