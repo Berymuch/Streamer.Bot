@@ -2,7 +2,7 @@
 
 **NOTE: V1.1.5+ REQUIRE STREAMER.BOT V1.0.0+**
 
-**[Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md)**
+**[Chat Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md)**
 
 **[Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md)**
 
