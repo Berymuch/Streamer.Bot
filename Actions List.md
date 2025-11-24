@@ -21,8 +21,8 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 Action | Uses OBS Scenes/Filters | Description
 ------ | ------ | ------
-Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device
-Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs
+Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device.
+Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
 Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the associated code in Vnyan. Vnyan is unable to toggle Scene filters, so this code runs to do that.
 
 ***
@@ -30,21 +30,20 @@ Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the asso
 <a name="Auto-Translate"></a>
 ## Auto Translate
 
-Action | Description
------- | ------
-User Auto-translate | placeholder
-User Auto-translate File & Command | placeholder
-
+Action | Uses OBS Scenes/Filters | Description
+------ | ------ | ------
+User Auto-translate | No | Automatically detects and translates non-English text in chat. Cna be set up to translate to other languages as desired in the Sub-actions window.
+User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore.
 ***
 
 <a name="Broadcaster-Commands"></a>
 ## Broadcaster Commands
 
-Action | Description
------- | ------
-Emergency Mode | placeholder
-Redeems off | placeholder
-Redeems on | placeholder
+Action | Uses OBS Scenes/Filters | Description
+------ | ------ | ------
+Emergency Mode | Yes | A general kill switch to be used in the event of something like a hate raid or other negative channel event.
+Redeems off | No | Turns all specified redeems off.
+Redeems on | No | Turns all specified redeems on.
 
 ***
 
