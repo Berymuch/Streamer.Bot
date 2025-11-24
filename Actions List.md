@@ -32,8 +32,8 @@ Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the asso
 
 Action | Uses OBS Scenes/Filters | Description
 ------ | ------ | ------
-User Auto-translate | No | Automatically detects and translates non-English text in chat. Can be set up to translate to other languages as desired and contains other options in the sub-actions window. **This action was created by the user Rez1**.
-User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore. **This action was created by the user Rez1**.
+User Auto-translate | No | Automatically detects and translates non-English text in chat. Can be set up to translate to other languages as desired and contains other options in the sub-actions window.<br/><br/>**This action was created by the user Rez1**.
+User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore.<br/><br/>**This action was created by the user Rez1**.
 ***
 
 <a name="Broadcaster-Commands"></a>
