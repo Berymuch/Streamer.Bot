@@ -5,7 +5,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
 
-*Current Action count: 196*
+*Current Action count: 187*
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 ------ | ------ | ------ | ------ | ------
@@ -320,9 +320,7 @@ Lost Bot connection to Twitch | placeholder
 Poll (Archived) | placeholder
 Poll (Command) | placeholder
 Poll (Vote Received) | placeholder
-Power-up (Gigantify Emote) | placeholder
-Power-up (Message Effects) | placeholder
-Power-up (On-Screen Celebration) | placeholder
+Power-up Events | placeholder
 Prediction (Start) | placeholder
 Pyramid (Broken) | placeholder
 Pyramid (Check) | placeholder
@@ -333,16 +331,8 @@ Raid (Start) | placeholder
 Shoutout (Clip) | placeholder
 Shoutout (No-clip) | placeholder
 Shoutout (Received) | placeholder
-Stream End | placeholder
-Stream Startup | placeholder
-Stream Update | placeholder
-Sub (Basic) | placeholder
-Sub (Gift Bomb) | placeholder
-Sub (Gifted Upgrade) | placeholder
-Sub (Gifted) | placeholder
-Sub (Pay It Forward) | placeholder
-Sub (Prime Upgrade) | placeholder
-Sub (Resubscription) | placeholder
+Stream Status Events | placeholder
+Sub Events | placeholder
 Watch Streak (Main) | placeholder
 Watch Streak (Top 5) | placeholder
 Watchstreak (Unset) | placeholder
