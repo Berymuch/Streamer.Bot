@@ -174,3 +174,4 @@ Nut number | Description | Idea owner
 1963 | Snipe Berymuch's head off. | [FuscusPelis](https://www.twitch.tv/fuscuspellis)
 clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymuch](https://www.twitch.tv/Berymuch)
 3.14 | Throw a pie at Berymuch... Ha, get it?... | [Berymuch](https://www.twitch.tv/Berymuch)
+63 | BIG BAYONETTA STEPPIES | [Swelterdemon](https://www.twitch.tv/swelterdemon)
