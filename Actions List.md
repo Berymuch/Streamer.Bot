@@ -50,22 +50,22 @@ Redeems on | No | Turns all specified redeems on.
 <a name="Chat-Command-Unit-Conversion"></a>
 ## Chat Command Unit Conversion
 
-Action | Description
------- | ------
-Conversion C to F | placeholder
-Conversion CM to In | placeholder
-Conversion Command Check | placeholder
-Conversion F to C | placeholder
-Conversion fluid ounces to milliliters | placeholder
-Conversion Ft to CM | placeholder
-Conversion Ft to M | placeholder
-Conversion In to CM | placeholder
-Conversion Kg to lbs | placeholder
-Conversion KM to MI | placeholder
-Conversion lbs to Kg | placeholder
-Conversion M to Ft | placeholder
-Conversion Mi to KM | placeholder
-Conversion milliliters to fluid ounces | placeholder
+Action | Uses OBS Scenes/Filters | Description
+------ | ------ | ------
+Conversion C to F | No | Controls behavior that uses user input to convert from celsius to farenheit.
+Conversion CM to In | No | Controls behavior that uses user input to convert from centimeters to inches.
+Conversion Command Check | No | Controls behavior that uses user input to return a list of associated command functions.
+Conversion F to C | No | Controls behavior that uses user input to convert from farenheit to celsius.
+Conversion fluid ounces to milliliters | No | Controls behavior that uses user input to convert from ounces to milliliters.
+Conversion Ft to CM | No | Controls behavior that uses user input to convert from feet to centimeters.
+Conversion Ft to M | No | Controls behavior that uses user input to convert from feet to meters.
+Conversion In to CM | No | Controls behavior that uses user input to convert from inches to centimeters.
+Conversion Kg to lbs | No | Controls behavior that uses user input to convert from kilograms to pounds.
+Conversion KM to MI | No | Controls behavior that uses user input to convert from kilometers to miles.
+Conversion lbs to Kg | No | Controls behavior that uses user input to convert from pounds to kilograms.
+Conversion M to Ft | No | Controls behavior that uses user input to convert from meters to feet.
+Conversion Mi to KM | No | Controls behavior that uses user input to convert from miles to kilometers.
+Conversion milliliters to fluid ounces | No | Controls behavior that uses user input to convert from milliliters to fluid ounces.
 
 ***
 
