@@ -72,55 +72,55 @@ Conversion milliliters to fluid ounces | No | Controls behavior that uses user i
 <a name="Chat-Commands"></a>
 ## Chat Commands
 
-Action | Description
------- | ------
-Account age | placeholder
-Bad bot | placeholder
-Boop | placeholder
-Burp Counter Increase | placeholder
-Chat Bonk | placeholder
-Chat headpats  | placeholder
-Chat horny jail | placeholder
-Chat wolfkisser | placeholder
-Check Gold Stars | placeholder
-Commands List | placeholder
-Cute | placeholder
-Death Counter Decrease | placeholder
-Death Counter Increase | placeholder
-Deer | placeholder
-Discord info | placeholder
-Edge | placeholder
-Emotes (Lose) | placeholder
-Emotes (Win) | placeholder
-Follow Age | placeholder
-FuzzyFact (Command) | placeholder
-Gacha chat | placeholder
-Get song info | placeholder
-Get Team Info | placeholder
-GitHub | placeholder
-Good bot | placeholder
-Grade Book | placeholder
-Hug | placeholder
-Is Zem Gay | placeholder
-Kofi Commissions | placeholder
-Kofi Link | placeholder
-Kofi Memberships | placeholder
-Kofi Shop Link | placeholder
-Lurk | placeholder
-Magic 8Ball | placeholder
-Nom | placeholder
-Quote Add | placeholder
-Quote Delete | placeholder
-Quote Show | placeholder
-Safeword | placeholder
-Safeword check | placeholder
-Stream Babies | placeholder
-The Orb | placeholder
-Tongue is out | placeholder
-Unlurk | placeholder
-Vanish | placeholder
-Weather | placeholder
-Yarr | placeholder
+Action | Uses OBS Scenes/Filters | Description
+------ | ------ | ------
+Account age | No | Returns the account age/creation date for your user account as a message to chat.
+Bad bot | No | Tells the chatbot/botymuch that he is a bad boy :,c.
+Boop | No | Boops target user on the nose a randomm amount of times between 1 and 13 and sends a message to chat.
+Burp Counter Increase | No | Increments a counter to track burps while streaming and sends a message to chat.
+Chat Bonk | No | Bonks target user and sends a message to chat.
+Chat headpats  | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a headpatting aesthetic. The name for both the command user and the target user are also displayed.
+Chat horny jail | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a hornyjail aesthetic. The name for both the command user and the target user are also displayed.
+Chat wolfkisser | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a wolfkisser aesthetic. The name for both the command user and the target user are also displayed.
+Check Gold Stars | No | Gives target user a goldstar/increments their current gold stars by 1. This is saved as a per user persisted variable.
+Commands List | No | Links to a list of all channel commands.
+Cute | No | Generates a random unmber between 50 and 10000 and uses it to specify target user's cute percentage.
+Death Counter Decrease | No | placeholder
+Death Counter Increase | No | placeholder
+Deer | No | placeholder
+Discord info | No | placeholder
+Edge | No | placeholder
+Emotes (Lose) | No | placeholder
+Emotes (Win) | No | placeholder
+Follow Age | No | placeholder
+FuzzyFact (Command) | No | placeholder
+Gacha chat | No | placeholder
+Get song info | No | placeholder
+Get Team Info | No | placeholder
+GitHub | No | placeholder
+Good bot | No | placeholder
+Grade Book | No | placeholder
+Hug | No | placeholder
+Is Zem Gay | No | placeholder
+Kofi Commissions | No | placeholder
+Kofi Link | No | placeholder
+Kofi Memberships | No | placeholder
+Kofi Shop Link | No | placeholder
+Lurk | No | placeholder
+Magic 8Ball | No | placeholder
+Nom | No | placeholder
+Quote Add | No | placeholder
+Quote Delete | No | placeholder
+Quote Show | No | placeholder
+Safeword | No | placeholder
+Safeword check | No | placeholder
+Stream Babies | No | placeholder
+The Orb | No | placeholder
+Tongue is out | No | placeholder
+Unlurk | No | placeholder
+Vanish | No | placeholder
+Weather | No | placeholder
+Yarr | No | placeholder
 
 ***
 
