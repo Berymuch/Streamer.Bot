@@ -8,7 +8,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 *Current Action count: 187*
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
------- | ------ | ------ | ------ | ------
+:---: | :---: | :---: | :---: | :---:
 [Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions) | [Redeems](#Redeems)
 [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
@@ -20,7 +20,7 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 ## Nut Alts
 
 Action | Uses OBS Scenes/Filters | Description
------- | ------ | ------
+:---: | :---: | :---:
 Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device.
 Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
 Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the associated code in Vnyan. Vnyan is unable to toggle Scene filters, so this code runs to do that.
@@ -31,7 +31,7 @@ Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the asso
 ## Auto Translate
 
 Action | Uses OBS Scenes/Filters | Description
------- | ------ | ------
+:---: | :---: | :---:
 User Auto-translate | No | Automatically detects and translates non-English text in chat. Can be set up to translate to other languages as desired and contains other options in the sub-actions window.<br/><br/>**This action was created by the user Rez1**.
 User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore.<br/><br/>**This action was created by the user Rez1**.
 ***
@@ -40,7 +40,7 @@ User Auto-translate File & Command | No | Used to filter specified words and/or 
 ## Broadcaster Commands
 
 Action | Uses OBS Scenes/Filters | Description
------- | ------ | ------
+:---: | :---: | :---:
 Emergency Mode | Yes | A general kill switch to be used in the event of something like a hate raid or other negative channel event.
 Redeems off | No | Turns all specified redeems off.
 Redeems on | No | Turns all specified redeems on.
@@ -51,7 +51,7 @@ Redeems on | No | Turns all specified redeems on.
 ## Chat Command Unit Conversion
 
 Action | Uses OBS Scenes/Filters | Description
------- | ------ | ------
+:---: | :---: | :---:
 Conversion C to F | No | Controls behavior that uses user input to convert from celsius to farenheit.
 Conversion CM to In | No | Controls behavior that uses user input to convert from centimeters to inches.
 Conversion Command Check | No | Controls behavior that uses user input to return a list of associated command functions.
@@ -73,7 +73,7 @@ Conversion milliliters to fluid ounces | No | Controls behavior that uses user i
 ## Chat Commands
 
 Action | Uses OBS Scenes/Filters | Description
------- | ------ | ------
+:---: | :---: | :---:
 Account age | No | Returns the account age/creation date for your user account as a message to chat.
 Bad bot | No | Tells the chatbot/botymuch that he is a bad boy :,c.
 Boop | No | Boops target user on the nose a randomm amount of times between 1 and 13 and sends a message to chat.
