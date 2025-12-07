@@ -5,7 +5,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
 
-*Current Action count: 187*
+*Current Action count: 159*
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 :---: | :---: | :---: | :---: | :---:
