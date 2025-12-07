@@ -298,43 +298,19 @@ User Translate v2.1 | placeholder
 <a name="Twitch-interactions"></a>
 ## Twitch Interactions
 
-Action | Description
------- | ------
-Ad (Warning) | placeholder
-Bits Thanks (101+) | placeholder
-Bits Thanks (General) | placeholder
-Chat (1st 2nd 3rd chatter) | placeholder
-Chat (1st 2nd 3rd reset chatter) | placeholder
-Clip (Create) | placeholder
-Donation (Ko-Fi) | placeholder
-Donation (Streamlabs) | placeholder
-Follow | placeholder
-Goal Begin | placeholder
-Goal End | placeholder
-Goal Progress | placeholder
-Hype Train (End) | placeholder
-Hype Train (Level-up) | placeholder
-Hype Train (Start) | placeholder
-Hype Train (Updated) | placeholder
-Lost Bot connection to Twitch | placeholder
-Poll (Archived) | placeholder
-Poll (Command) | placeholder
-Poll (Vote Received) | placeholder
-Power-up Events | placeholder
-Prediction (Start) | placeholder
-Pyramid (Broken) | placeholder
-Pyramid (Check) | placeholder
-Pyramid (Success) | placeholder
-Raid (Received) | placeholder
-Raid (Sent) | placeholder
-Raid (Start) | placeholder
-Shoutout (Clip) | placeholder
-Shoutout (No-clip) | placeholder
-Shoutout (Received) | placeholder
-Stream Status Events | placeholder
-Sub Events | placeholder
-Watch Streak (Main) | placeholder
-Watch Streak (Top 5) | placeholder
-Watchstreak (Unset) | placeholder
-placeholder | placeholder
-placeholder | placeholder
+Action | Uses OBS Scenes/Filters | Description
+:---: | :---: | :---:
+Ads | yes | placeholder
+Channel | yes | placeholder
+Channel Goal | yes | placeholder
+Chat | yes | placeholder
+Connections | yes | placeholder
+Donation | yes | placeholder
+General | yes | placeholder
+Hype Train | yes | placeholder
+Poll | yes | placeholder
+Power-up | yes | placeholder
+Prediction | yes | placeholder
+Pyramid | yes | placeholder
+Raid | yes | placeholder
+Sub | yes | placeholder
