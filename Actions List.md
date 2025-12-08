@@ -11,7 +11,7 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 :---: | :---: | :---: | :---: | :---:
 [Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions) | [Redeems](#Redeems)
-[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
+[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Auto Translate](#Apix-Originals)
 [PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
 
 ***
@@ -27,6 +27,21 @@ Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the asso
 
 ***
 
+<a name="Apix-Originals"></a>
+## Apix Originals
+
+Action | Uses OBS Scenes/Filters | Description
+:---: | :---: | :---:
+Bottomcheck | No | Placeholder
+Bottomcheck Timer | No | Placeholder
+Gacha chat | No | Placeholder
+Gacha mode | No | Placeholder
+Leash | No | Placeholder
+Leash Switch | No | Placeholder
+Nom mode | No | Placeholder
+
+***
+
 <a name="Auto-Translate"></a>
 ## Auto Translate
 
@@ -34,6 +49,7 @@ Action | Uses OBS Scenes/Filters | Description
 :---: | :---: | :---:
 User Auto-translate | No | Automatically detects and translates non-English text in chat. Can be set up to translate to other languages as desired and contains other options in the sub-actions window.<br/><br/>**This action was created by the user Rez1**.
 User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore.<br/><br/>**This action was created by the user Rez1**.
+
 ***
 
 <a name="Broadcaster-Commands"></a>
@@ -129,19 +145,11 @@ Yarr | No | placeholder
 
 Action | Description
 ------ | ------
-Bottomcheck | placeholder
-bottomcheck timer | placeholder
-Gacha mode | placeholder
 Give Gold Stars | placeholder
-Nom mode | placeholder
 Redeem Cost Modifier | placeholder
 Remove Gold Stars | placeholder
-Set game | placeholder
-Set game fail | placeholder
-Set Marker | placeholder
-Set Title | placeholder
-Snooze Ad | placeholder
 The V Word | placeholder
+Watchstreak (Unset) | placeholder
 
 ***
 
