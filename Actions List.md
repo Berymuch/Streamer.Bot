@@ -11,7 +11,7 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 :---: | :---: | :---: | :---: | :---:
 [Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions) | [Redeems](#Redeems)
-[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Auto Translate](#Apix-Originals)
+[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Apix Originals](#Apix-Originals)
 [PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
 
 ***
