@@ -32,10 +32,12 @@ Action | Uses OBS Scenes/Filters | Description
 :---: | :---: | :---:
 Bottomcheck | No | Placeholder
 Bottomcheck Timer | No | Placeholder
+Deer | No | placeholder
 Gacha chat | No | Placeholder
 Gacha mode | No | Placeholder
 Leash | No | Placeholder
 Leash Switch | No | Placeholder
+Nom | No | placeholder
 Nom mode | No | Placeholder
 Push | No | Placeholder
 Safeword | No | Placeholder
@@ -104,7 +106,6 @@ Commands List | No | Links to a list of all channel commands.
 Cute | No | Generates a random unmber between 50 and 10000 and uses it to specify target user's cute percentage.
 Death Counter Decrease | No | placeholder
 Death Counter Increase | No | placeholder
-Deer | No | placeholder
 Discord info | No | placeholder
 Edge | No | placeholder
 Emotes (Lose) | No | placeholder
@@ -126,7 +127,6 @@ Kofi Memberships | No | placeholder
 Kofi Shop Link | No | placeholder
 Lurk | No | placeholder
 Magic 8Ball | No | placeholder
-Nom | No | placeholder
 Quote Add | No | placeholder
 Quote Delete | No | placeholder
 Quote Show | No | placeholder
