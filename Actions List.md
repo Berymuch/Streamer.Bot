@@ -5,7 +5,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
 
-*Current Action count: 157*
+*Current Action count: 158*
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 :---: | :---: | :---: | :---: | :---:
@@ -22,8 +22,6 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 Action | Uses OBS Scenes/Filters | Description
 :---: | :---: | :---:
 Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device.
-Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
-Nut 666 | Yes | Used to activate specific filters in OBS in tandem with the associated code in Vnyan. Vnyan is unable to toggle Scene filters, so this code runs to do that.
 
 ***
 
@@ -39,6 +37,9 @@ Gacha mode | No | Placeholder
 Leash | No | Placeholder
 Leash Switch | No | Placeholder
 Nom mode | No | Placeholder
+Push | No | Placeholder
+Safeword | No | Placeholder
+Safeword Check | No | Placeholder
 
 ***
 
@@ -116,6 +117,7 @@ Get Team Info | No | placeholder
 GitHub | No | placeholder
 Good bot | No | placeholder
 Grade Book | No | placeholder
+Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
 Hug | No | placeholder
 Is Zem Gay | No | placeholder
 Kofi Commissions | No | placeholder
