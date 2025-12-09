@@ -67,6 +67,8 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !safeword & !sw | Display your current safeword in chat.
 !safeword [name] & !sw [name] | Display the safeword of the targeted user in chat.
 !safeword [set/edit/change] & !sw [set/edit/change] | Change your safeword.
+!rotate [name] | Rotates the target name exactly a random amount of degrees.
+!push [name] | Pushes the target name with a random outcome and amount of force.
 bad bot | Publicly execute the chatbot!
 good bot | Publicly praise the chatbot uwu.
 
