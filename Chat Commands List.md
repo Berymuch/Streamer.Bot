@@ -69,6 +69,7 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !safeword [set/edit/change] & !sw [set/edit/change] | Change your safeword.
 !rotate [name] | Rotates the target name exactly a random amount of degrees.
 !push [name] | Pushes the target name with a random outcome and amount of force.
+!roll [amount of dice]d[amount of faces]| (General version) Approximately roll the specified number and type of dice and get an result.
 bad bot | Publicly execute the chatbot!
 good bot | Publicly praise the chatbot uwu.
 
@@ -79,6 +80,7 @@ good bot | Publicly praise the chatbot uwu.
 
 Command | Description
 ------ | ------
+!roll [amount of dice]d[amount of faces]| (Subscriber version) More accurately roll the specified number and type of dice and get a result, and also throw objects at my avatar's face!
 !headpat [name] & !hp [name] | Headpat a targeted user in chat, and on-screen.
 !hornyjail [name] & !hj [name]| Put targeted user in chat into the horny jail, with on-screen animation.
 !quoteadd [text] & !qa [text] | [text] will be added as the newest available quote.
