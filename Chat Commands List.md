@@ -181,3 +181,4 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 3.14 | Throw a pie at Berymuch... Ha, get it?... | [Berymuch](https://www.twitch.tv/Berymuch)
 63 | BIG BAYONETTA STEPPIES | [Swelterdemon](https://www.twitch.tv/swelterdemon)
 789 | BIG PATRICK SLURPEES | [Wolfen_ll](https://www.twitch.tv/wolfen_ll)
+659 | Gremlin detected! | [Itzapix_](https://www.twitch.tv/Itzapix_)
