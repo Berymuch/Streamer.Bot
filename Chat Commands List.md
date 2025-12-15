@@ -137,6 +137,7 @@ Command | Description
 !gachamode off & !gm off | Disable the gacha passive interaction.
 !nommode on & !nm on | Enable the "!nom" command.
 !nommode off & !nm off | Disable the "!nom" command.
+!vore | Consume target user.
 
 ***
 
