@@ -113,10 +113,6 @@ Command | Description
 !alert & !a | Display a sticky note on Berymuch's model saying "Bery DM's", aswell as play a clear sound. ==Use this to grab Berymuch's attention for important stuff that needs immediate attention that cannot be neglected.== Using this also automatically assumes you have already written your message in Berymuch's DMs **on Twitch**. As long as this improves viewing experience for one or more without it being annoying, make sure to use this and grab Berymuch's attention when he DOES end up missing stuff.
 !alertoff & !ao | Disables the command above, aka "!alert".
 !chillstream & !cs \n !chill | Toggle all redeem prices to become 1000 points more.
-!nommode on & !nm on | Enable the "!nom" command.
-!nommode off & !nm off | Disable the "!nom" command.
-!gachamode on & !gm on | Enable the gacha passive interaction.
-!gachamode off & !gm off | Disable the gacha passive interaction.
 !vore [name] | Turn targeted user into a snack. Upon consumption, there's a small chance they might get timed out.
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated.
 !list | Display the entirety of the exclude dictionary in chat.
@@ -137,6 +133,10 @@ Command | Description
 !noff | Disable all nuts.
 !non | Enable all nuts.
 !quotedelete [value] & !qd [value] | The quote attached to [value] will be deleted.
+!gachamode on & !gm on | Enable the gacha passive interaction.
+!gachamode off & !gm off | Disable the gacha passive interaction.
+!nommode on & !nm on | Enable the "!nom" command.
+!nommode off & !nm off | Disable the "!nom" command.
 
 ***
 
