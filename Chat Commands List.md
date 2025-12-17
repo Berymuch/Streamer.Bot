@@ -119,6 +119,8 @@ Command | Description
 !weather & !w | Shows the current weather near Bery.
 !temp & !t | As above. 
 !prediction & !pr | Create a prediction on the current stream!
+!nutban & !nb [Twitch Username (case sensitive)| Bans the specified user from using Nut Commands.
+!nutunban & !nub [Twitch Username (case sensitive)| Unbans the specified user from using Nut Commands.
 
 ***
 
