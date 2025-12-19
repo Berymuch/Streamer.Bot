@@ -72,6 +72,9 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result.
 bad bot | Publicly execute the chatbot!
 good bot | Publicly praise the chatbot uwu.
+!flip[message] | Flips the message.
+!unflip [message] | Unflips the message :o.
+!angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c!
 
 ***
 
