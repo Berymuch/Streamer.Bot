@@ -173,7 +173,7 @@ Nut number | Description | Idea owner
 777 | Omae Wa Mou Shindeiru! | [Berymuch](https://www.twitch.tv/Berymuch)
 1007 | GOTTEM | [Berymuch](https://www.twitch.tv/Berymuch)
 1313 | Throw a few bells into Berymuch, each having a random sound upon hitting. *Ignores nuts queue.* | [AerialAbhorsen](https://www.twitch.tv/AerialAbhorsen)
-1142 | Toss some pickles! | *UNKNOWN*
+1142 | Toss some pickles! | [Berymuch](https://www.twitch.tv/Berymuch)
 3114 | Delicious Nutella | [Berymuch](https://www.twitch.tv/Berymuch)
 9999 | Max damage nut | [Berymuch](https://www.twitch.tv/Berymuch)
 1994 | Play an old song, throwing a few things to the beat. | [TannykK](https://www.twitch.tv/tannykk)
