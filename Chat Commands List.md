@@ -182,7 +182,7 @@ Nut number | Description | Idea owner
 2099 | Enter the wufferverse | [JadeSettRadio](https://www.twitch.tv/JadeSettRadio)
 9653 | Shock Berymuch's model with an electric nut. | [WolfStarGaming](https://www.twitch.tv/wolfstargaming)
 707988 | The box protects! | [HalloweenFoxy](https://www.twitch.tv/halloweenfoxy)
-1963 | Snipe Berymuch's head off. | [FuscusPelis](https://www.twitch.tv/fuscuspellis)
+1963 | GET DOWN MR. PRESIDENT! | [FuscusPelis](https://www.twitch.tv/fuscuspellis)
 clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymuch](https://www.twitch.tv/Berymuch)
 3.14 | Throw a pie at Berymuch... Ha, get it?... | [Berymuch](https://www.twitch.tv/Berymuch)
 63 | BIG BAYONETTA STEPPIES | [Swelterdemon](https://www.twitch.tv/swelterdemon)
