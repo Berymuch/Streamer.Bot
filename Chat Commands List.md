@@ -75,6 +75,7 @@ good bot | Publicly praise the chatbot uwu.
 !flip[message] | Flips the message.
 !unflip [message] | Unflips the message :o.
 !angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c!
+!fold [name] | Folds the targetted name with a random outcome and amount of folds. Be careful...
 
 ***
 
