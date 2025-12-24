@@ -9,19 +9,19 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 :---: | :---: | :---: | :---: | :---:
-[Nut Alts](#Nut-Alts) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
+[Luponium Extras](#Luponium-Extras) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
 [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions) | [Redeems](#Redeems)
 [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Apix Originals](#Apix-Originals)
 [PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
 
 ***
 
-<a name="Nut-Alts"></a>
-## Nut Alts
+<a name="Luponium-Extras"></a>
+## Luponium Extras
 
 Action | Uses OBS Scenes/Filters | Description
 :---: | :---: | :---:
-Grifter Nut | No | Used in tandom with the Vnyan redeem by the same name to activate vibrations on a pishock device.
+Flip & Unflip Chat Commands | No | Used ito flip, angryflip, and unflip entered text!
 
 ***
 
