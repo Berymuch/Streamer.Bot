@@ -42,6 +42,7 @@ Nom mode | No | Placeholder
 Push | No | Placeholder
 Safeword | No | Placeholder
 Safeword Check | No | Placeholder
+Sniff | No | Placeholder
 
 ***
 
