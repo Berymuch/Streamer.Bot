@@ -190,3 +190,4 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 659 | Gremlin detected! | [Itzapix_](https://www.twitch.tv/Itzapix_)
 34 | ...L-listen- I can explain...! | [lunai0](https://bsky.app/profile/lunai0.bsky.social)
 59 | I CAN BREAK THESE CHAINS! | [Sabadar](https://www.twitch.tv/Sabadar)
+8 | Hit that wolf with the leaf blower! | [Grizzbear7](https://www.twitch.tv/grizzbear7)
