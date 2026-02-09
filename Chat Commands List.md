@@ -123,7 +123,7 @@ Command | Description
 !list | Display the entirety of the exclude dictionary in chat.
 !weather & !w | Shows the current weather near Bery.
 !temp & !t | As above. 
-!prediction & !pr | Create a prediction on the current stream! (!prediction resolve [choice#]) ends the prediction early with the choice# specified as the winner, and (!prediction cancel) terminates the prediction.
+!prediction & !pr | Format: !prediction [title] |choice1|choice2|choice 3|choice 4|choice 5. Creates a prediction on the current stream! (!prediction resolve [choice]) ends the prediction early with the choice specified as the winner, and (!prediction cancel) terminates the prediction.
 !nutban & !nb [Twitch Username] (case sensitive) | Bans the specified user from using Nut Commands.
 !nutunban & !nub [Twitch Username] (case sensitive) | Unbans the specified user from using Nut Commands.
 
