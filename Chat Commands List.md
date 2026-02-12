@@ -82,7 +82,7 @@ good bot | Publicly praise the chatbot uwu.
 ***
 
 <a name="Subscriber-commands"></a>
-## Subscriber commands
+## Subscriber enhanced commands
 
 Command | Description
 ------ | ------
