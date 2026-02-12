@@ -23,6 +23,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description
 ------ | ------
+!clip | Create a clip, starting 30 seconds before, and ending at the time command was sent.
 !hug [name] & !h [name] | Hug a targeted user in chat.
 !bonk [name] & !b [name] | Bonk a targeted user in chat.
 !boop [name] | Boop a targeted user in chat.
@@ -103,7 +104,6 @@ Command | Description
 !shoutout [name] & !so [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
 !ncshoutout [name] & !ncso [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.
 !marker & !m | Create a timestamp for current stream.
-!clip | Create a clip, starting 30 seconds before, and ending at the time command was sent.
 !givegoldstar & !ggs | Grant a single {golden star} to the targeted user.
 !removegoldstar & !rgs | Remove a single {golden star} from the targeted user.
 !settitle [text] & !st [text] | Set current title of the stream.
