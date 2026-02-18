@@ -78,6 +78,8 @@ good bot | Publicly praise the chatbot uwu.
 !angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c!
 !fold [name] | Folds the targetted name with a random outcome and amount of folds. Be careful...
 !sniff [name] | Sniffs the targetted user and tells you how they smell! If there is no target specified, you sniff yourself.
+!cook [name] | Cooks something nice for the targetted user!
+!ban [name] | Returns an awful reason to ban the targetted user!
 
 ***
 
