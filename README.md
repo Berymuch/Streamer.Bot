@@ -8,7 +8,7 @@
 **INSTALLATION:**
 
 > [!NOTE]
-> v1.1.5+ Require Streamer.bot v1.0.0+
+> Botymuch v1.1.5+ Require Streamer.bot v1.0.0+
 
 >*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick/Trovo integrations are in development.*
 >
