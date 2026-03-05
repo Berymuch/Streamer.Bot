@@ -79,7 +79,6 @@ good bot | Publicly praise the chatbot uwu.
 !fold [name] | Folds the targetted name with a random outcome and amount of folds. Be careful...
 !sniff [name] | Sniffs the targetted user and tells you how they smell! If there is no target specified, you sniff yourself.
 !cook [name] | Cooks something nice for the targetted user!
-!ban [name] | Returns an awful reason to ban the targetted user!
 
 ***
 
@@ -95,6 +94,7 @@ Command | Description
 !wolfkisser [name] & !wk [name] | Give a wolfish kiss to a targeted user in chat, and on-screen.
 !hatchange [message] & !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat.
 @Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer.
+!ban [name] | Returns an awful reason to ban the targetted user!
 
 ***
 
