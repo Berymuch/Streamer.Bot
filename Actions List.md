@@ -35,13 +35,9 @@ Bottomcheck Timer | No | Placeholder
 Deer | No | placeholder
 Gacha chat | No | Placeholder
 Gacha mode | No | Placeholder
-Leash | No | Placeholder
-Leash Switch | No | Placeholder
 Nom | No | placeholder
 Nom mode | No | Placeholder
 Push | No | Placeholder
-Safeword | No | Placeholder
-Safeword Check | No | Placeholder
 Sniff | No | Placeholder
 
 ***
@@ -121,7 +117,6 @@ Good bot | No | placeholder
 Grade Book | No | placeholder
 Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
 Hug | No | placeholder
-Is Zem Gay | No | placeholder
 Kofi Commissions | No | placeholder
 Kofi Link | No | placeholder
 Kofi Memberships | No | placeholder
