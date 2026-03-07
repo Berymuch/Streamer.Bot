@@ -65,9 +65,6 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis"
 !enter | Enter a prize wheel, if any.
 !unEnter & !removeEntry | Remove your entry from the prize wheel, if any.
 !claim | Claim prize on prize wheel, if you have won.
-!safeword & !sw | Display your current safeword in chat.
-!safeword [name] & !sw [name] | Display the safeword of the targeted user in chat.
-!safeword [set/edit/change] & !sw [set/edit/change] | Change your safeword.
 !rotate [name] | Rotates the target name exactly a random amount of degrees.
 !push [name] | Pushes the target name with a random outcome and amount of force.
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result.
