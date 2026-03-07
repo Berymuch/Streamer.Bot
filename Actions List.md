@@ -30,8 +30,6 @@ Flip & Unflip Chat Commands | No | Used ito flip, angryflip, and unflip entered 
 
 Action | Uses OBS Scenes/Filters | Description
 :---: | :---: | :---:
-Bottomcheck | No | Placeholder
-Bottomcheck Timer | No | Placeholder
 Deer | No | placeholder
 Gacha chat | No | Placeholder
 Gacha mode | No | Placeholder
