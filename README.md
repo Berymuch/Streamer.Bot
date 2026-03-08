@@ -8,7 +8,7 @@
 **INSTALLATION:**
 
 > [!NOTE]
-> Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code heirarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
+> Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code hierarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
 
 >*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick/Trovo integrations are in development.*
 >
