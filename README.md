@@ -18,7 +18,7 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 To install the actions, download the latest version and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window. Be sure to update filepaths in the "CONFIG ME" action at the top of the Twitch Events group in order to enable Stream/Moderation/Summary event logging.
 
-Note that some actions rely on specific scenes/filters/sources to be present in OBS to function- these aspects of this bot will not work out of the box.
+Note that some actions rely on specific scenes/filters/sources to be present in OBS to function- these aspects of this bot will not work out of the box but can be modified to suit your needs.
 
 All credit for the streamer bot application goes to its developers.
 
