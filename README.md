@@ -11,8 +11,6 @@
 > Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code hierarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
 
 >*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick/Trovo integrations are in development.*
->
->To install these actions, simply drag and drop the .txt or .sb file you've chosen to download into the import window in streamer.bot. If this does not work or you are unable to do so, simply open the downloaded .txt or .sb file in any text editor and copypaste the hash into the streamer.bot import window. Enjoy!
 
 This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. 
 
