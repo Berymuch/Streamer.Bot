@@ -22,7 +22,7 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 3.  **OPTIONAL** If you plan to use the built in SFX features, download the "Streamerbot SFX" folder above and place it wherever (ensure the organization of the folder is unchanged), and update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to it. The file path should resemble "yourfilepath/Streamerbot SFX".
 
-4.  **OPTIONAL** If you plan to use the built in Squawk TTS features, update the write filepath to your preferred location in the "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
+4.  **OPTIONAL** If you plan to use the built in Squawk TTS features, update the write filepath to your preferred location in "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
 
 Note that some actions rely on specific scenes/filters/sources to be present in OBS to function- these aspects of this bot will not work out of the box but can be modified to suit your needs. Eventually a method will be provided to autopopulate OBS sources once the bot progresses further along the developmental roadmap.
 
