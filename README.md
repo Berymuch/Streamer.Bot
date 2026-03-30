@@ -16,7 +16,9 @@
 
 This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. 
 
-**Installation:**
+**INSTALLATION:**
+
+:red_square:***ALWAYS*** backup your streamerbot prior to updating :red_square:
 
 1.  Download the latest version and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
