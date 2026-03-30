@@ -20,7 +20,7 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
 
-3.  **OPTIONAL** If you plan to use the built-in SFX features, download the "Streamerbot SFX" folder above and place it wherever (ensure the organization of the folder is unchanged), and update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to it. The file path should resemble "yourfilepath/Streamerbot SFX". Do not rename/reorganize the contents of the "Streamerbot SFX" folder (it will break things), but do feel free to add files to it as desired.
+3.  **OPTIONAL** If you plan to use the built-in SFX features, download and extract the "Streamerbot SFX.zip" archive above and place the resulting folder wherever and update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to the folders location. The file path should resemble "yourfilepath/Streamerbot SFX". Do not rename/reorganize the contents of the "Streamerbot SFX" folder (it will break things), but do feel free to add files to it as desired.
 
 4.  **OPTIONAL** If you plan to use the built-in Squawk TTS features, update the write filepath to your preferred location in "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
 
