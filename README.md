@@ -20,9 +20,9 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 1.  Download the latest version and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
-2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events group in order to enable Stream/Moderation/Summary event logging.
+2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
 
-3.  **OPTIONAL** If you plan to use the built in SFX features, download the folder "Streamerbot SFX" folder above and place it wherever (ensure the organization of the folder is unchanged), and update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point at it. The file path should resemble "yourfilepath/Streamerbot SFX".
+3.  **OPTIONAL** If you plan to use the built in SFX features, download the "Streamerbot SFX" folder above and place it wherever (ensure the organization of the folder is unchanged), and update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to it. The file path should resemble "yourfilepath/Streamerbot SFX".
 
 4.  **OPTIONAL** If you plan to use the built in Squawk TTS features, update the write filepath to your preferred location in the "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
 
