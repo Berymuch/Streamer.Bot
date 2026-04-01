@@ -16,7 +16,7 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 :red_square: ***ALWAYS*** backup your streamerbot prior to updating :red_square:
 
-1.  Download the latest version and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
+1.  Download the latest version of the .sb file and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
 2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
 
