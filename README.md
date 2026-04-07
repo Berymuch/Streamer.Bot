@@ -24,6 +24,8 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 4.  **OPTIONAL** If you plan to use the built-in Squawk TTS features, update the write filepath to your preferred location in "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
 
+5.  **OPTIONAL** Certain functions of the bot are set to look towards specifically named OBS sources. In order to use them, you must first connect your OBS websocket to streamerbot then create sources of the type and name provided in the file above. A guide on how to connect via the OBS websocket can be found here: https://www.youtube.com/watch?v=u4GWb6NaNsw
+
 Note that some actions rely on specific scenes/filters/sources to be present in OBS to function- these aspects of this bot will not work out of the box but can be modified to suit your needs. Eventually a method will be provided to autopopulate OBS sources once the bot progresses further along the developmental roadmap.
 
 All credit for the streamer bot application goes to its developers.
