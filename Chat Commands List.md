@@ -77,6 +77,7 @@ good bot | Publicly praise the chatbot uwu.
 !sniff [name] | Sniffs the targetted user and tells you how they smell! If there is no target specified, you sniff yourself.
 !cook [name] | Cooks something nice for the targetted user!
 !proverb | Posts a random Chinese proverb in chat!
+!kdr |  Tells you your FPS stats along with a crisp gamer burn!
 
 ***
 
