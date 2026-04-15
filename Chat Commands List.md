@@ -79,7 +79,7 @@ good bot | Publicly praise the chatbot uwu.
 !proverb | Posts a random Chinese proverb in chat!
 !kdr & !noob | Tells you your FPS stats along with a crisp gamer burn!
 !quickmath [blank or value 1-100] | Start a chat game where the first user to reply with the correct answer wins. Questions are randomized by default, and you can also specify question difficulty by including a number from 1-100 after the command!
-!bighug @ !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE
+!bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE
 
 ***
 
