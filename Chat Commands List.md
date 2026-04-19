@@ -198,3 +198,4 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 15 | Fires of festive and randomized fireworks! Someone's Birthday? A special event? Bery just died? FIREWORKS :D! | [Semphelis](https://www.twitch.tv/semphelis)
 5473 | SAVE THE THING BERY | [JadeSettRadio](https://www.twitch.tv/JadeSettRadio)
 7484 | When I was, a young wolp~ | [RiccyThicc7484](https://www.twitch.tv/RiccyThicc7484)
+1992 | Kirby just has a lot of love to give | [StevenLucario_](https://www.twitch.tv/stevenlucario_)
