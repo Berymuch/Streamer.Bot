@@ -1,0 +1,108 @@
+
+<!-- saved from url=(0034)https://vrflad.com/shoutouthd.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Streamer.bot Shout out player</title>
+ 
+<script>
+//Thanks for the help from Nate1280,  WhipStickGoStop and itsBarrex!
+//Updated to handle twitch changing the clip location for newer videos.
+//Fixes also in place to improve stability.
+
+function showVideo () {
+ videoElement = document.getElementById('videoplayer')
+ videoElement.style.visibility="visible";
+    videoElement.play();
+    
+}
+function shoutout()
+{
+    let firstrun = true;
+
+// parse url params
+ const urlParams = new URLSearchParams(window.location.search);
+ const user = urlParams.get('user');
+ const image = urlParams.get('image');
+ const video = urlParams.get('video');
+ const time = urlParams.get('time');
+ document.getElementById('imagebox2').innerHTML="<img src='"+image+"' width='100%'/>";
+ const thumbnailUrl = urlParams.get('thumbnail_url');
+ videoSrc = thumbnailUrl.replace(/(.*)-preview-.*/, '$1.mp4');
+ // generate mp4 url
+ //Check to see if the URL is a new or old format
+ 
+  if (true)
+      {
+  // Update 23rd Feb 2025 - need to get the URL always via gql now.     
+  // Update Sept 2024 - Need to get url via gql - how I wish Twitch just let us to get access to this via URL. Ideally I'd do this via streamer bot but want to keep the implementation as simple as possible.      
+   // build gql request
+   // generate clip Id from embed url passed in
+             const match = video.match(/clip=([^"]+)/); 
+const fullClipId = match ? match[1] : null;
+const match2=fullClipId.match(/([^/]+)$/);
+const clipId = match2 ? match2[1] : null;
+      // const clipId = video.match(/clip=([^"]+)/);
+       
+   const url = "https://gql.twitch.tv/gql";
+    const query = {
+        operationName: "VideoAccessToken_Clip",
+        variables: {
+            platform: "web",            
+            slug: clipId
+        },
+        extensions: {
+            persistedQuery: {
+                version: 1,
+                sha256Hash: "6fd3af2b22989506269b9ac02dd87eb4a6688392d67d94e41a6886f1e9f5c00f"
+            }
+        }
+    };
+var xhr = new XMLHttpRequest();
+    xhr.open("POST", url, false); // I know this is horrible to make the request synchronous, but here we should be ok
+    xhr.setRequestHeader("Content-Type", "text/plain;charset=UTF-8"); // not what you'd expect, but it's what is used.
+    xhr.setRequestHeader("Client-ID", "kimne78kx3ncx6brgo4mv6wki5h1ko");
+    xhr.send(JSON.stringify(query));
+    if (xhr.status === 200) {
+        console.log(JSON.parse(xhr.responseText));
+    } else {
+        console.error("Request failed with status: " + xhr.status);
+        return null;
+    }   
+       const clipInfo = JSON.parse(xhr.responseText);
+       const clipData = clipInfo.data;
+       const clipSource= clipData.clip.videoQualities[0].sourceURL;
+       const clipSig = clipData.clip.playbackAccessToken.signature;
+       const clipToken = clipData.clip.playbackAccessToken.value
+      
+       videoSrc=clipSource+"?sig="+clipSig+"&token="+encodeURI(clipToken);
+       console.log(videoSrc);
+  }
+ //new format generation
+// apply mp4 to video element so it's ready to play
+ const videoElement = document.getElementById('videoplayer');
+ videoElement.style.visibility="hidden";
+ videoElement.src = videoSrc;
+ videoElement.load();
+ videoElement.play();
+ videoElement.pause();
+//Give the clip a second to preload before showing it.
+setTimeout('showVideo();',1000);    
+}
+function cleanup()
+{
+document.getElementById('videocontainer').innerHTML="";
+document.getElementById('imagebox2').innerHTML="";
+}
+</script>
+
+
+</head>
+<body onload="shoutout();">
+
+
+<div id="videocontainer" style="position:absolute; left: 0px; top: 0px; width: 100%;z-index:10" ;="" text-align:="" center="">
+<video id="videoplayer" style="width:100%" autoplay="" onended="setTimeout(&#39;cleanup()&#39;,500);"></video>
+</div>
+<div id="imagebox2" style="position:absolute; height: 66%; width: 37.5%;  text-align: center; z-index: 1; left:50%; top:50%; transform: translate(-50%, -50%);"><img src="./shoutouthd_files/null" width="100%"></div>
+
+
+</body><div><template shadowrootmode="open"><link href="chrome-extension://jffbochibkahlbbmanpmndnhmeliecah/picture-in-picture.css" type="text/css" rel="stylesheet"><div class="vivaldi-picture-in-picture-container initial transparent"><input type="button" class="vivaldi-picture-in-picture-button" aria-label="picture-in-picture-button"></div></template></div></html>
