@@ -30,6 +30,8 @@ This is a collection of hundreds of actions/commands I've created and collected 
 
 5.  Certain functions of the bot are set to look towards specifically named OBS sources. In order to use them, you must first connect your OBS websocket to streamerbot then [create sources of the type and name provided in the source setup file above](https://github.com/Berymuch/Streamer.Bot/blob/main/Botymuch%20OBS%20source%20setup.txt). A guide on how to connect via the OBS websocket can be found here: https://www.youtube.com/watch?v=u4GWb6NaNsw
 
+6. If you don't already have a local clip shoutout player, download the "shoutouthd.html" file above and follow the setup instructions in "CONFIG ME (OPTIONAL)". You will need to add a new Scene to OBS, and inside of it create a new Browser source. In the browser source properties, Ensure the browser source URL is set to "about:blank" and that "control audio via OBS" and "refresh browser when scene becomes active" are both checked. Credit for this implementation goes out to my buddy [Liminality](https://www.twitch.tv/liminality)!
+
 Note that some actions rely on specific scenes/filters/transitions/sources to be present in OBS to function- these aspects of this bot will not work out of the box but can be modified to suit your needs. Eventually a method will be provided to autopopulate OBS sources once the bot progresses further along the developmental roadmap.
 
 All credit for the streamer bot application goes to its developers.
