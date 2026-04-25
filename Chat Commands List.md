@@ -77,7 +77,7 @@ good bot | Publicly praise the chatbot uwu. | [Berymuch](https://www.twitch.tv/B
 !cook [name] | Cooks something nice for the targetted user! | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !proverb | Posts a random Chinese proverb in chat! | [Berymuch](https://www.twitch.tv/Berymuch)
 !kdr & !noob | Tells you your FPS stats along with a crisp gamer burn! | [Berymuch](https://www.twitch.tv/Berymuch)
-!quickmath [blank or value 1-100] [ante amount]| Start a chat game where the first user to reply with the correct answer wins. Questions are randomized by default, reward Silver Stars when answered correctly, and you can also specify question difficulty by including a number from 1-5 after the command! This command also allows you to bet chat points/stars as a wager and extra reward for whoever answers the question correctly first. | [Berymuch](https://www.twitch.tv/Berymuch)
+!quickmath [blank or value 1-5] [ante amount]| Start a chat game where the first user to reply with the correct answer wins. Questions are randomized by default, reward Silver Stars when answered correctly, and you can also specify question difficulty by including a number from 1-5 after the command! This command also allows you to bet chat points/stars as a wager and extra reward for whoever answers the question correctly first. | [Berymuch](https://www.twitch.tv/Berymuch)
 !bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
