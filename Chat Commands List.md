@@ -61,9 +61,9 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis" 
 !gacha total | Display current gacha stats in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchstreak | Display current top 5 highest watchstreaks on this channel, as a leaderboard in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !death & !d | Increase and display a global counter for each time Berymuch has died in-game. | [Berymuch](https://www.twitch.tv/Berymuch)
-!enter | Enter a prize wheel, if any. | TBD
-!unEnter & !removeEntry | Remove your entry from the prize wheel, if any. | TBD
-!claim | Claim prize on prize wheel, if you have won. | TBD
+!enter | Enter a prize wheel, if any. | [Rondhi](https://www.twitch.tv/Rondhi)
+!unEnter & !removeEntry | Remove your entry from the prize wheel, if any. | [Rondhi](https://www.twitch.tv/Rondhi)
+!claim | Claim prize on prize wheel, if you have won. | [Rondhi](https://www.twitch.tv/Rondhi)
 !rotate [name] | Rotates the target name exactly a random amount of degrees. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !push [name] | Pushes the target name with a random outcome and amount of force. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -93,7 +93,7 @@ Command | Description | Credit
 !quoteadd [text] & !qa [text] | [text] will be added as the newest available quote. | [Berymuch](https://www.twitch.tv/Berymuch)
 !wolfkisser [name] & !wk [name] | Give a wolfish kiss to a targeted user in chat, and on-screen. | [Berymuch](https://www.twitch.tv/Berymuch)
 !hatchange [message] & !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat. | [Berymuch](https://www.twitch.tv/Berymuch)
-@Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer. | TBD
+@Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
 !ban [name] | Returns an awful reason to ban the targetted user! | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
@@ -113,10 +113,10 @@ Command | Description | Credit
 !poll | Create a poll on the current stream. Use \| to separate it into: "!poll [pollname] \| [answer 1] \| [answer 2]" etc. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !snoozead | Automatically snooze an incoming ad. | [Berymuch](https://www.twitch.tv/Berymuch)
 !quotedelete [quote #] & !qd [quote #] | Removes a targeted quote [quote #]. | [Berymuch](https://www.twitch.tv/Berymuch)
-!openEntries & !entriesOpen| Open entries for the prize wheel. | TBD
-!closeEntries & !entriesClose | Close entries for the prize wheel. | TBD
-!spinUser, !userSpin, !uSpin, & !spinU | Spin the custom-user prize wheel. | TBD
-!clearUserEntries & !clearUser | Clear all entries from the prize-wheel. | TBD
+!openEntries & !entriesOpen| Open entries for the prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
+!closeEntries & !entriesClose | Close entries for the prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
+!spinUser, !userSpin, !uSpin, & !spinU | Spin the custom-user prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
+!clearUserEntries & !clearUser | Clear all entries from the prize-wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !alert & !a | Display a sticky note on Berymuch's model saying "Bery DM's", aswell as play a clear sound. ==Use this to grab Berymuch's attention for important stuff that needs immediate attention that cannot be neglected.== Using this also automatically assumes you have already written your message in Berymuch's DMs **on Twitch**. As long as this improves viewing experience for one or more without it being annoying, make sure to use this and grab Berymuch's attention when he DOES end up missing stuff. | [Berymuch](https://www.twitch.tv/Berymuch)
 !alertoff & !ao | Disables the command above, aka "!alert". | [Berymuch](https://www.twitch.tv/Berymuch)
 !chillstream & !cs \n !chill | Toggle all redeem prices to become 1000 points more. | [Berymuch](https://www.twitch.tv/Berymuch)
