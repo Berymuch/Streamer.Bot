@@ -186,7 +186,7 @@ Command | Description | Credit
 !nommode on & !nm on | Enable the "!nom" command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !nommode off & !nm off | Disable the "!nom" command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !vore | Consumes target user. | [Berymuch](https://www.twitch.tv/Berymuch)
-!tummytimeout | Used in tandem with the vore command (works with my VNyan logic).
+!tummytimeout | Used in tandem with the vore command (works with my VNyan logic). | [Berymuch](https://www.twitch.tv/Berymuch)
 !deathsreset |  Resets death counter for current game. | [Berymuch](https://www.twitch.tv/Berymuch)
 !deathsresettotal | Resets global total death counter. | [Berymuch](https://www.twitch.tv/Berymuch)
 !deathsset |  Sets death counter for the current game to the value specified. | [Berymuch](https://www.twitch.tv/Berymuch)
