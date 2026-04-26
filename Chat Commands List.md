@@ -53,7 +53,7 @@ Command | Description | Credit
 !flip [message] | Flips the message. | [Luposity](https://www.twitch.tv/Luposity)
 !unflip [message] | Unflips the message :o. |[Luposity](https://www.twitch.tv/Luposity)
 !angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c! |[Luposity](https://www.twitch.tv/Luposity)
-!convert & !con | Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
+!convert & !con [value][units]| Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
 !en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦\\\ **DATA TRACKING INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦 
 !accountage & !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
