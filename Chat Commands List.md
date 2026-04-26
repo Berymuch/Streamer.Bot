@@ -25,7 +25,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 
 Command | Description | Credit
 ------ | :------: | ------:
-🟦🟦🟦 | 🟦🟦🟦 **ANIMAL FACTS** 🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦 \\\ **ANIMAL FACTS** //🟦🟦🟦 | 🟦🟦🟦
 !bear | Posts a bear fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !cat | Posts a cat fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !deer | Posts a deer fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -36,7 +36,7 @@ Command | Description | Credit
 !Wolf | Posts a wolf fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !Wolfdragon, !wagon, !drolf, & !wolgon | Posts a wolf-dragon fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !Worg | Posts a worg fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦 **TARGETTED INTERACTIONS** 🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦\\\ **TARGETTED INTERACTIONS** //🟦🟦🟦 | 🟦🟦🟦
 !bonk [name] & !b [name] | Bonk a targeted user in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !boop [name] | Boop a targeted user in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !cook [name] | Cooks something nice for the targetted user! | [ItzApix_](https://www.twitch.tv/ItzApix_)
@@ -49,13 +49,13 @@ Command | Description | Credit
 !push [name] | Pushes the target name with a random outcome and amount of force. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !rotate [username] | Randomly rotates target user. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !sniff [name] | Sniffs the targetted user and tells you how they smell! If there is no target specified, you sniff yourself. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-🟦🟦🟦 | 🟦🟦🟦 **CHAT MESSAGE MODIFICATION** 🟦🟦🟦 | 🟦🟦🟦 
+🟦🟦🟦 | 🟦🟦🟦\\\ **CHAT MESSAGE MODIFICATION** //🟦🟦🟦 | 🟦🟦🟦 
 !flip [message] | Flips the message. | [Luposity](https://www.twitch.tv/Luposity)
 !unflip [message] | Unflips the message :o. |[Luposity](https://www.twitch.tv/Luposity)
 !angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c! |[Luposity](https://www.twitch.tv/Luposity)
 !convert & !con | Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
 !en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦 **DATA TRACKING INTERRACTIONS** 🟦🟦🟦 | 🟦🟦🟦 
+🟦🟦🟦 | 🟦🟦🟦\\\ **DATA TRACKING INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦 
 !accountage & !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkgoldstars & !cgs | Display the amount of {golden stars} you have in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkswearjar & !csj | Posts the contents in the swear jar to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -69,7 +69,7 @@ Command | Description | Credit
 !temp, !t, !weather, & !w | Shows the current weather near the streamer. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchtime & !wt | Posts the user's watchtime to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchstreak [username or # or rank or leave blank] | Display current top 5 highest watchstreaks on this channel as a leaderboard in chat. if additional input is included after the command, will post more precise information. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-🟦🟦🟦 | 🟦🟦🟦 **USER SPECIFIC INTERRACTIONS** 🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦\\\ **USER SPECIFIC INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !edge | Uh... | [Berymuch](https://www.twitch.tv/Berymuch)
 !lurk | Notify the stream you're beginning a lurk. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
@@ -79,7 +79,7 @@ Command | Description | Credit
 !unEnter & !removeEntry | Remove your entry from the prize wheel, if any. | [Rondhi](https://www.twitch.tv/Rondhi)
 !claim | Claim prize on prize wheel, if you have won. | [Rondhi](https://www.twitch.tv/Rondhi)
 !vanish | Holds the user accountable. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦 **GENERAL INTERRACTIONS** 🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦\\\ **GENERAL INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦
 bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
 !bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE | [Berymuch](https://www.twitch.tv/Berymuch)
 !burp & !bp | Display the global counter for however many times Berymuch has burped on stream in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
