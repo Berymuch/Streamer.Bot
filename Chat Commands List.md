@@ -59,7 +59,7 @@ lose | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis" 
 !love [any input] | Shows how much the user loves the input text. | [Berymuch](https://www.twitch.tv/Berymuch)
 !lucario | Posts a lucario fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !lurk | Notify the stream you're beginning a lurk. | [Berymuch](https://www.twitch.tv/Berymuch)
-!nom [name] [custom single-word place] & !n [name] [custom single-word place] | Bite somebody. There's a chance to do something other than biting, a chance to bite yourself. Command also works as a selective counter. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!nom [name] [location] & !n [name] [location] | Bite somebody. There's a chance to do something other than biting, a chance to bite yourself. Command also works as a selective counter. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !noob & !kdr | Tells you your FPS stats along with a crisp gamer burn! | [Berymuch](https://www.twitch.tv/Berymuch)
 !nut [number] | A sub-trigger for multiple other interactibles. See below for more. | [Berymuch](https://www.twitch.tv/Berymuch)
 !orb | Shares info about The Orb in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
