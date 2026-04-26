@@ -71,7 +71,9 @@ Command | Description | Credit
 !watchstreak [username or # or rank or leave blank] | Display current top 5 highest watchstreaks on this channel as a leaderboard in chat. if additional input is included after the command, will post more precise information. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 🟦🟦🟦 | 🟦🟦🟦\\\ **USER SPECIFIC INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
 !edge | Uh... | [Berymuch](https://www.twitch.tv/Berymuch)
+good bot | Publicly praise the chatbot uwu. | [Berymuch](https://www.twitch.tv/Berymuch)
 !lurk | Notify the stream you're beginning a lurk. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !noob & !kdr | Tells you your FPS stats along with a crisp gamer burn! | [Berymuch](https://www.twitch.tv/Berymuch)
 !unlurk | Notify the stream you're coming back from a lurk. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
@@ -80,13 +82,11 @@ Command | Description | Credit
 !claim | Claim prize on prize wheel, if you have won. | [Rondhi](https://www.twitch.tv/Rondhi)
 !vanish | Holds the user accountable. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦\\\ **GENERAL INTERRACTIONS** //🟦🟦🟦 | 🟦🟦🟦
-bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
 !bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE | [Berymuch](https://www.twitch.tv/Berymuch)
 !burp & !bp | Display the global counter for however many times Berymuch has burped on stream in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !clip | Create a clip, starting 30 seconds before, and ending at the time command was sent. | [Berymuch](https://www.twitch.tv/Berymuch)
 !coinflip | Flips a coin and posts the result to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !fuzzyfact & !ff | This command is closely tied to the "Fuzzy Fact" redeem. The command displays a random available line in chat, that was added through the redeem, that is always a random fact about somebody's original character. | [Berymuch](https://www.twitch.tv/Berymuch)
-good bot | Publicly praise the chatbot uwu. | [Berymuch](https://www.twitch.tv/Berymuch)
 !itsout | Make the tongue of the current model get back into the mouth. | [Berymuch](https://www.twitch.tv/Berymuch)
 lose & l | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis" | [Berymuch](https://www.twitch.tv/Berymuch)
 !nut [number] | A sub-trigger for multiple other interactibles. See below for more. | [Berymuch](https://www.twitch.tv/Berymuch)
