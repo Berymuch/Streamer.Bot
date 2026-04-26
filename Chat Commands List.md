@@ -183,6 +183,9 @@ Command | Description | Credit
 ------ | ------ | ------
 !chillstream, !chill, & !cs | Dynamically increases the costs of specified channel redeems. Gives people an option to still spend points at the cost of having to spend more. | [Berymuch](https://www.twitch.tv/Berymuch)
 !emergencymode & !em | **Enable ONLY as a last resort.** Will disable most features, chat will become almost unusable for an average viewer. | [Berymuch](https://www.twitch.tv/Berymuch)
+!resetbody & !rb | Resets avatar bone sizes to default. | [Berymuch](https://www.twitch.tv/Berymuch)
+!poolsopened & !po | Opens up the VNyan pool. | [Berymuch](https://www.twitch.tv/Berymuch)
+!poolsclosed & !pc | Closes the VNyan pool. | [Berymuch](https://www.twitch.tv/Berymuch)
 !roff | Enable all of the redeems. | [Berymuch](https://www.twitch.tv/Berymuch)
 !ron | Disable all of the redeems. | [Berymuch](https://www.twitch.tv/Berymuch)
 !noff | Disable all nuts. | [Berymuch](https://www.twitch.tv/Berymuch)
