@@ -24,7 +24,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 ## General commands
 
 Command | Description | Credit
------- | :------: | ------:
+------ | :------: | ------
 🟦🟦🟦 | 🟦🟦🟦 \\\ **ANIMAL FACTS** //🟦🟦🟦 | 🟦🟦🟦
 !bear | Posts a bear fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !cat | Posts a cat fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
