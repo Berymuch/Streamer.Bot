@@ -162,7 +162,7 @@ Command | Description | Credit
 !shoutout [name] & !so [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play.  | [Berymuch](https://www.twitch.tv/Berymuch), [ItzApix_](https://www.twitch.tv/ItzApix_), & [Liminality](https://www.twitch.tv/liminality)
 !ncshoutout [name] & !ncso [name] | Makes a sound, gives a shoutout to targeted user, with their name displayed on screen as well as in chat, including their last played game. A random clip from their channel will play. | [Berymuch](https://www.twitch.tv/Berymuch)
 !snoozead | Automatically snooze an incoming ad. | [Berymuch](https://www.twitch.tv/Berymuch)
-!swearjar & !sj | Increases the contents of the swear jar by  10 bits. | [Berymuch](https://www.twitch.tv/Berymuch)
+!swearjar & !sj [value or leave blank]| Increases the contents of the swear jar by  10 bits or, if a value is specified, 10 * that value. | [Berymuch](https://www.twitch.tv/Berymuch)
 !entryTextAdd, !addTextEntry, !addCustom, & !customAdd | Adds an entry to the custom prize wheel | [Rondhi](https://www.twitch.tv/Rondhi)
 !clearTextFile & !clearCustom | Clears the custom wheel entries text file. | [Rondhi](https://www.twitch.tv/Rondhi)
 !entryTextRemove, !removeTextEntry, !removeCustom, & !customRemove | Removes specified entry from the custom text file. | [Rondhi](https://www.twitch.tv/Rondhi)
