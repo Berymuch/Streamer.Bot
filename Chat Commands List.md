@@ -250,6 +250,7 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 1963 | GET DOWN MR. PRESIDENT! | [FuscusPelis](https://www.twitch.tv/fuscuspellis)
 1992 | Kirby just has a lot of love to give | [StevenLucario_](https://www.twitch.tv/stevenlucario_)
 1994 | Play an old song, throwing a few things to the beat. | [TannykK](https://www.twitch.tv/tannykk)
+2002 | DON'T TELL ME HOW TO LIVE MY LIFE SPRINGSTEEN. | [TheEarthling](https://www.twitch.tv/TheEarthling)
 2099 | Enter the wufferverse | [JadeSettRadio](https://www.twitch.tv/JadeSettRadio)
 3114 | Delicious Nutella | [Berymuch](https://www.twitch.tv/Berymuch)
 5473 | SAVE THE THING BERY | [JadeSettRadio](https://www.twitch.tv/JadeSettRadio)
