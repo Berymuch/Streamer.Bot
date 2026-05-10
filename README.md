@@ -10,9 +10,9 @@ Command Documentation | Action Documentation | OBS Documentation | SFX Files | C
 
 ***
 **INSTALLATION:**
-***
 
 :red_square: ***ALWAYS*** backup your streamerbot prior to updating :red_square:
+***
 
 *REQUIRED:*
 
