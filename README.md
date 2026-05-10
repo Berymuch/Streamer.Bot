@@ -14,13 +14,13 @@ Command Documentation | Action Documentation | OBS Documentation | SFX Files | C
 
 :red_square: ***ALWAYS*** backup your streamerbot prior to updating :red_square:
 
-*/// REQUIRED ///*
+*REQUIRED:*
 
 1.  Download the latest version of the .sb file and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
 2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
 
-*/// OPTIONAL ///*
+*OPTIONAL:*
 
 3.  If you plan to use the built-in SFX features, download and extract the "Streamerbot SFX.zip" archive above and place the resulting folder wherever. Update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to the extracted folder's location. The file path should resemble "yourfilepath/Streamerbot SFX". Do not rename/reorganize the contents of the "Streamerbot SFX" folder (it will break things), but do feel free to add files to it as desired.
 
