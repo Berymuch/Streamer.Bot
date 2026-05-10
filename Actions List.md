@@ -20,15 +20,15 @@ PiShock | Commands | Prizewheel & Chat GPT | Twitch API
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Disabler/Enabler (Nuts) | Placeholder | Placeholder | Placeholder | Placeholder
-Disabler/Enabler (PiShock) | Placeholder | Placeholder | Placeholder | Placeholder
-Disabler/Enabler (Redeems) | Placeholder | Placeholder | Placeholder | Placeholder
-Disabler/Enabler (Share Browser) | Placeholder | Placeholder | Placeholder | Placeholder
-Disabler/Enabler (Share Screen) | Placeholder | Placeholder | Placeholder | Placeholder
-Emergency Mode | Yes | No | A general kill switch to be used in the event of something like a hate raid or other negative channel event. | Placeholder
-Gacha Mode | Placeholder | Placeholder | Placeholder | Placeholder
-Nom mode | Placeholder | Placeholder | Placeholder | Placeholder
-Watchstreak (Unset) | Placeholder | Placeholder | Placeholder | Placeholder
+Disabler/Enabler (Nuts) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (PiShock) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Redeems) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Share Browser) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Share Screen) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Emergency Mode | Yes | No | A general kill switch to be used in the event of something like a hate raid or other negative channel event. | [Berymuch](https://www.twitch.tv/Berymuch)
+Gacha Mode | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Nom mode | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Watchstreak (Unset) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -59,17 +59,17 @@ Conversion milliliters to fluid ounces | No | No | Controls behavior that uses u
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Burp Counter Increase | Placeholder | Placeholder | Placeholder | Placeholder
+Burp Counter Increase | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Chat Gacha | Placeholder | Placeholder | Placeholder | Placeholder
-Interactive Commands | Placeholder | Placeholder | Placeholder | Placeholder
-Links | Placeholder | Placeholder | Placeholder | Placeholder
-Quick Maths | Placeholder | Placeholder | Placeholder | Placeholder
-Quotes | Placeholder | Placeholder | Placeholder | Placeholder
-Sub-Enhanced Commands | Placeholder | Placeholder | Placeholder | Placeholder
+Interactive Commands | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Links | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Quick Maths | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Quotes | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Sub-Enhanced Commands | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 User Auto-translate | Placeholder | Placeholder | Placeholder | Placeholder
 User Auto-translate File & Command | Placeholder | Placeholder | Placeholder | Placeholder
 User Translate v2.1 | placeholder | placeholder | placeholder | placeholder
-Weather | Placeholder | Placeholder | Placeholder | Placeholder
+Weather | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -78,12 +78,12 @@ Weather | Placeholder | Placeholder | Placeholder | Placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Deathcounter | Placeholder | Placeholder | Placeholder | Placeholder
-Deathcounter-(re)Set without changing total | Placeholder | Placeholder | Placeholder | Placeholder
-Deathcounter-Add | Placeholder | Placeholder | Placeholder | Placeholder
-Deathcounter-Rem | Placeholder | Placeholder | Placeholder | Placeholder
-Deathcounter-Reset-Total-Deaths | Placeholder | Placeholder | Placeholder | Placeholder
-Deathcounter-Set | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-(re)Set without changing total | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Add | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Rem | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Reset-Total-Deaths | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Set | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -92,11 +92,11 @@ Deathcounter-Set | Placeholder | Placeholder | Placeholder | Placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Alert | Placeholder | Placeholder | Placeholder | Placeholder
-Ban User | Placeholder | Placeholder | Placeholder | Placeholder
-Gold Stars | Placeholder | Placeholder | Placeholder | Placeholder
-Redeem Cost Modifier | Placeholder | Placeholder | Placeholder | Placeholder
-Swear Jar | Placeholder | Placeholder | Placeholder | Placeholder
+Alert | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Ban User | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Gold Stars | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Redeem Cost Modifier | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Swear Jar | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -105,12 +105,12 @@ Swear Jar | Placeholder | Placeholder | Placeholder | Placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-_ChatGPT Set-Up UI_ | Placeholder | Placeholder | Placeholder | Placeholder
-ChatGPT Answers v2 | Placeholder | Placeholder | Placeholder | Placeholder
-ChatGPT Random Messaging v2 | Placeholder | Placeholder | Placeholder | Placeholder
-ChatGPT Recall Behavior | Placeholder | Placeholder | Placeholder | Placeholder
-ChatGPT Set Bot Behavior | Placeholder | Placeholder | Placeholder | Placeholder
-ChatGPT Shoutouts v2 | Placeholder | Placeholder | Placeholder | Placeholder
+_ChatGPT Set-Up UI_ | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Answers v2 | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Random Messaging v2 | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Recall Behavior | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Set Bot Behavior | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Shoutouts v2 | Placeholder | Placeholder | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
 
 ***
 
@@ -119,14 +119,14 @@ ChatGPT Shoutouts v2 | Placeholder | Placeholder | Placeholder | Placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :---: | :---:
-Now Playing Enabler/Disabler | Placeholder | Placeholder | Placeholder | Placeholder
-Onscreen Clock | Placeholder | Placeholder | Placeholder | Placeholder
-Orb Present User Image Cycler | Placeholder | Placeholder | Placeholder | Placeholder
-Random Bot Chat Messages | Placeholder | Placeholder | Placeholder | Placeholder
-Scene Switch (Streamdeck) | Placeholder | Placeholder | Placeholder | Placeholder
-Stream Duration Timer | Placeholder | Placeholder | Placeholder | Placeholder
-Stream Labels Cycler | Placeholder | Placeholder | Placeholder | Placeholder
-Team Member Advertisement | Placeholder | Placeholder | Placeholder | Placeholder
+Now Playing Enabler/Disabler | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Onscreen Clock | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Orb Present User Image Cycler | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Random Bot Chat Messages | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Scene Switch (Streamdeck) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Stream Duration Timer | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Stream Labels Cycler | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Team Member Advertisement | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -135,10 +135,10 @@ Team Member Advertisement | Placeholder | Placeholder | Placeholder | Placeholde
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock Information | placeholder | placeholder | placeholder | placeholder
-Random Events | placeholder | placeholder | placeholder | placeholder
-Shock Events | placeholder | placeholder | placeholder | placeholder
-Vibrate Events | placeholder | placeholder | placeholder | placeholder
+PiShock Information | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Random Events | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Shock Events | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Vibrate Events | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -184,13 +184,13 @@ PiShock OperateVibrate | placeholder | placeholder | placeholder | placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Nut Commands | placeholder | placeholder | placeholder | placeholder
-Redeem TTS Bot Source Visibility | placeholder | placeholder | placeholder | placeholder
-Run an Ad | placeholder | placeholder | placeholder | placeholder
-Tummy Timeout & Vore | placeholder | placeholder | placeholder | placeholder
-VIP Nut Redemption | placeholder | placeholder | placeholder | placeholder
-Za Warudo Screenshot VTuber | placeholder | placeholder | placeholder | placeholder
-Za Warudo! | placeholder | placeholder | placeholder | placeholder
+Nut Commands | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Redeem TTS Bot Source Visibility | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Run an Ad | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Tummy Timeout & Vore | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+VIP Nut Redemption | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Za Warudo Screenshot VTuber | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Za Warudo! | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -241,28 +241,28 @@ Spinning Prize Wheel Winner Claim | placeholder | placeholder | placeholder | pl
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Ads | yes | placeholder | placeholder | placeholder
-Ads Timer | placeholder | placeholder | placeholder | placeholder
-Channel | yes | placeholder | placeholder | placeholder
-Channel Goal | yes | placeholder | placeholder | placeholder
-Charity | placeholder | placeholder | placeholder | placeholder
-Chat | yes | placeholder | placeholder | placeholder
-Connections | yes | placeholder | placeholder | placeholder
-Donations | yes | placeholder | placeholder | placeholder
-General | yes | placeholder | placeholder | placeholder
-Guest Star | placeholder | placeholder | placeholder | placeholder
-Hype Train | yes | placeholder | placeholder | placeholder
-Moderation | placeholder | placeholder | placeholder | placeholder
-Poll | yes | placeholder | placeholder | placeholder
-Power-up | yes | placeholder | placeholder | placeholder
-Prediction | yes | placeholder | placeholder | placeholder
-Raid | placeholder | placeholder | placeholder | placeholder
-Shared Chat | placeholder | placeholder | placeholder | placeholder
-Subscriptions | placeholder | placeholder | placeholder | placeholder
-Pyramid Core | placeholder | placeholder | placeholder | placeholder
-Pyramid Writeline | placeholder | placeholder | placeholder | placeholder
-Watch Streak Core | placeholder | placeholder | placeholder | placeholder
-Watch Streak Writeline | placeholder | placeholder | placeholder | placeholder
+Ads | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Ads Timer | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Channel | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Channel Goal | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Charity | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Chat | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Connections | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Donations | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+General | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Guest Star | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Hype Train | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Moderation | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Poll | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Power-up | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Prediction | yes | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Raid | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Shared Chat | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Subscriptions | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Pyramid Core | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Pyramid Writeline | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Watch Streak Core | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Watch Streak Writeline | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -271,8 +271,8 @@ Watch Streak Writeline | placeholder | placeholder | placeholder | placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-𝘼𝙋𝙄𝙓 Logging Core | placeholder | placeholder | placeholder | placeholder
-𝘼𝙋𝙄𝙓 Logging Debug | placeholder | placeholder | placeholder | placeholder
-𝘼𝙋𝙄𝙓 Logging Intake | placeholder | placeholder | placeholder | placeholder
-𝘼𝙋𝙄𝙓 Logging Setup | placeholder | placeholder | placeholder | placeholder
-𝘼𝙋𝙄𝙓 Logging Writeline | placeholder | placeholder | placeholder | placeholder
+𝘼𝙋𝙄𝙓 Logging Core | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Debug | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Intake | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Setup | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Writeline | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
