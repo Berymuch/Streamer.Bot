@@ -36,20 +36,20 @@ Nom mode | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twit
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Conversion C to F | No | No | Controls behavior that uses user input to convert from celsius to farenheit. | Placeholder
-Conversion CM to In | No | No | Controls behavior that uses user input to convert from centimeters to inches. | Placeholder
-Conversion Command Check | No | No | Controls behavior that uses user input to return a list of associated command functions. | Placeholder
-Conversion F to C | No | No | Controls behavior that uses user input to convert from farenheit to celsius. | Placeholder
-Conversion fluid ounces to milliliters | No | No | Controls behavior that uses user input to convert from ounces to milliliters. | Placeholder
-Conversion Ft to CM | No | No | Controls behavior that uses user input to convert from feet to centimeters. | Placeholder
-Conversion Ft to M | No | No | Controls behavior that uses user input to convert from feet to meters. | Placeholder
-Conversion In to CM | No | No | Controls behavior that uses user input to convert from inches to centimeters. | Placeholder
-Conversion Kg to lbs | No | No | Controls behavior that uses user input to convert from kilograms to pounds. | Placeholder
-Conversion KM to MI | No | No | Controls behavior that uses user input to convert from kilometers to miles. | Placeholder
-Conversion lbs to Kg | No | No | Controls behavior that uses user input to convert from pounds to kilograms. | Placeholder
-Conversion M to Ft | No | No | Controls behavior that uses user input to convert from meters to feet. | Placeholder
-Conversion Mi to KM | No | No | Controls behavior that uses user input to convert from miles to kilometers. | Placeholder
-Conversion milliliters to fluid ounces | No | No | Controls behavior that uses user input to convert from milliliters to fluid ounces. | Placeholder
+Conversion C to F | No | No | Controls behavior that uses user input to convert from celsius to farenheit. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion CM to In | No | No | Controls behavior that uses user input to convert from centimeters to inches. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion Command Check | No | No | Controls behavior that uses user input to return a list of associated command functions. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion F to C | No | No | Controls behavior that uses user input to convert from farenheit to celsius. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion fluid ounces to milliliters | No | No | Controls behavior that uses user input to convert from ounces to milliliters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion Ft to CM | No | No | Controls behavior that uses user input to convert from feet to centimeters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion Ft to M | No | No | Controls behavior that uses user input to convert from feet to meters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion In to CM | No | No | Controls behavior that uses user input to convert from inches to centimeters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion Kg to lbs | No | No | Controls behavior that uses user input to convert from kilograms to pounds. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion KM to MI | No | No | Controls behavior that uses user input to convert from kilometers to miles. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion lbs to Kg | No | No | Controls behavior that uses user input to convert from pounds to kilograms. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion M to Ft | No | No | Controls behavior that uses user input to convert from meters to feet. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion Mi to KM | No | No | Controls behavior that uses user input to convert from miles to kilometers. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
+Conversion milliliters to fluid ounces | No | No | Controls behavior that uses user input to convert from milliliters to fluid ounces. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
 
 ***
 
@@ -59,15 +59,15 @@ Conversion milliliters to fluid ounces | No | No | Controls behavior that uses u
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
 Burp Counter Increase | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Chat Gacha | Placeholder | Placeholder | Placeholder | Placeholder
+Chat Gacha | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Interactive Commands | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Links | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Quick Maths | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Quotes | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Sub-Enhanced Commands | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-User Auto-translate | Placeholder | Placeholder | Placeholder | Placeholder
-User Auto-translate File & Command | Placeholder | Placeholder | Placeholder | Placeholder
-User Translate v2.1 | placeholder | placeholder | placeholder | placeholder
+User Auto-translate | Placeholder | Placeholder | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Auto-translate File & Command | Placeholder | Placeholder | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Translate v2.1 | placeholder | placeholder | placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 Weather | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
@@ -146,11 +146,11 @@ Vibrate Events | placeholder | placeholder | placeholder | [Berymuch](https://ww
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-!!PiShock Code | placeholder | placeholder | placeholder | placeholder
-!PiShock Setup | placeholder | placeholder | placeholder | placeholder
-PiShock ConfigForm | placeholder | placeholder | placeholder | placeholder
-PiShock LoginForm | placeholder | placeholder | placeholder | placeholder
-PiShock ShareCodeForm | placeholder | placeholder | placeholder | placeholder
+!!PiShock Code | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+!PiShock Setup | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock ConfigForm | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock LoginForm | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock ShareCodeForm | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -159,10 +159,10 @@ PiShock ShareCodeForm | placeholder | placeholder | placeholder | placeholder
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock - Climbing Shock | placeholder | placeholder | placeholder | placeholder
-PiShock - Generic Shock | placeholder | placeholder | placeholder | placeholder
-PiShock - Operation Roulette | placeholder | placeholder | placeholder | placeholder
-PiShock - Pre-vibrate Shock | placeholder | placeholder | placeholder | placeholder
+PiShock - Climbing Shock | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Generic Shock | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Operation Roulette | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Pre-vibrate Shock | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -171,10 +171,10 @@ PiShock - Pre-vibrate Shock | placeholder | placeholder | placeholder | placehol
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock Operate | placeholder | placeholder | placeholder | placeholder
-PiShock OperateBeep | placeholder | placeholder | placeholder | placeholder
-PiShock OperateShock | placeholder | placeholder | placeholder | placeholder
-PiShock OperateVibrate | placeholder | placeholder | placeholder | placeholder
+PiShock Operate | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateBeep | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateShock | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateVibrate | placeholder | placeholder | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -198,11 +198,11 @@ Za Warudo! | placeholder | placeholder | placeholder | [Berymuch](https://www.tw
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Code | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel 1. Settings | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel 2. Import | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Send Group Data | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Winner | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel 0. Code | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 1. Settings | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 2. Import | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Send Group Data | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -211,10 +211,10 @@ Spinning Prize Wheel Winner | placeholder | placeholder | placeholder | placehol
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (Custom) | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Add Custom Entry | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Clear Custom Entries | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Remove Custom Entry | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel 0. Spin (Custom) | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Add Custom Entry | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Custom Entries | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Remove Custom Entry | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -223,15 +223,15 @@ Spinning Prize Wheel Remove Custom Entry | placeholder | placeholder | placehold
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (User Group) | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Clear Entries | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Clear Winners | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Command Add User to Group | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Command Remove User from Group | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Entries Close | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Entries Open | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Winner Announce | placeholder | placeholder | placeholder | placeholder
-Spinning Prize Wheel Winner Claim | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel 0. Spin (User Group) | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Entries | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Winners | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Add User to Group | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Remove User from Group | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Close | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Open | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Announce | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Claim | placeholder | placeholder | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
