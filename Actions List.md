@@ -7,314 +7,273 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 
 *Current Action count: 158*
 
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5
-:---: | :---: | :---: | :---: | :---:
-[Luponium Extras](#Luponium-Extras) | [Auto Translate](#Auto-Translate) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions) | [Spinning Prize Wheel](#Spinning-Prize-Wheel)
-[Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [Translate Actions](#Translate-Actions) | [Redeems](#Redeems)
-[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Apix Originals](#Apix-Originals)
-[PiShock V2 - Core](#PiShock-V2---Core) | [PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
-
-***
-
-<a name="Luponium-Extras"></a>
-## Luponium Extras
-
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Flip & Unflip Chat Commands | No | Used ito flip, angryflip, and unflip entered text!
-
-***
-
-<a name="Apix-Originals"></a>
-## Apix Originals
-
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Deer | No | placeholder
-Gacha chat | No | Placeholder
-Gacha mode | No | Placeholder
-Nom | No | placeholder
-Nom mode | No | Placeholder
-Push | No | Placeholder
-Sniff | No | Placeholder
-
-***
-
-<a name="Auto-Translate"></a>
-## Auto Translate
-
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-User Auto-translate | No | Automatically detects and translates non-English text in chat. Can be set up to translate to other languages as desired and contains other options in the sub-actions window.<br/><br/>**This action was created by the user Rez1**.
-User Auto-translate File & Command | No | Used to filter specified words and/or phrases that the auto-translate action will ignore.<br/><br/>**This action was created by the user Rez1**.
+Column 1 | Column 2 | Column 3 | Column 4
+:---: | :---: | :---: | :---:
+[PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions)
+[Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging)
+[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
+[PiShock V2 - Core](#PiShock-V2---Core) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Redeems](#Redeems) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
 
 ***
 
 <a name="Broadcaster-Commands"></a>
 ## Broadcaster Commands
 
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Emergency Mode | Yes | A general kill switch to be used in the event of something like a hate raid or other negative channel event.
-Redeems off | No | Turns all specified redeems off.
-Redeems on | No | Turns all specified redeems on.
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Disabler/Enabler (Nuts) | Placeholder | Placeholder | Placeholder | Placeholder
+Disabler/Enabler (PiShock) | Placeholder | Placeholder | Placeholder | Placeholder
+Disabler/Enabler (Redeems) | Placeholder | Placeholder | Placeholder | Placeholder
+Disabler/Enabler (Share Browser) | Placeholder | Placeholder | Placeholder | Placeholder
+Disabler/Enabler (Share Screen) | Placeholder | Placeholder | Placeholder | Placeholder
+Emergency Mode | Yes | No | A general kill switch to be used in the event of something like a hate raid or other negative channel event. | Placeholder
+Gacha Mode | Placeholder | Placeholder | Placeholder | Placeholder
+Nom mode | Placeholder | Placeholder | Placeholder | Placeholder
+Watchstreak (Unset) | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
 <a name="Chat-Command-Unit-Conversion"></a>
 ## Chat Command Unit Conversion
 
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Conversion C to F | No | Controls behavior that uses user input to convert from celsius to farenheit.
-Conversion CM to In | No | Controls behavior that uses user input to convert from centimeters to inches.
-Conversion Command Check | No | Controls behavior that uses user input to return a list of associated command functions.
-Conversion F to C | No | Controls behavior that uses user input to convert from farenheit to celsius.
-Conversion fluid ounces to milliliters | No | Controls behavior that uses user input to convert from ounces to milliliters.
-Conversion Ft to CM | No | Controls behavior that uses user input to convert from feet to centimeters.
-Conversion Ft to M | No | Controls behavior that uses user input to convert from feet to meters.
-Conversion In to CM | No | Controls behavior that uses user input to convert from inches to centimeters.
-Conversion Kg to lbs | No | Controls behavior that uses user input to convert from kilograms to pounds.
-Conversion KM to MI | No | Controls behavior that uses user input to convert from kilometers to miles.
-Conversion lbs to Kg | No | Controls behavior that uses user input to convert from pounds to kilograms.
-Conversion M to Ft | No | Controls behavior that uses user input to convert from meters to feet.
-Conversion Mi to KM | No | Controls behavior that uses user input to convert from miles to kilometers.
-Conversion milliliters to fluid ounces | No | Controls behavior that uses user input to convert from milliliters to fluid ounces.
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Conversion C to F | No | No | Controls behavior that uses user input to convert from celsius to farenheit. | Placeholder
+Conversion CM to In | No | No | Controls behavior that uses user input to convert from centimeters to inches. | Placeholder
+Conversion Command Check | No | No | Controls behavior that uses user input to return a list of associated command functions. | Placeholder
+Conversion F to C | No | No | Controls behavior that uses user input to convert from farenheit to celsius. | Placeholder
+Conversion fluid ounces to milliliters | No | No | Controls behavior that uses user input to convert from ounces to milliliters. | Placeholder
+Conversion Ft to CM | No | No | Controls behavior that uses user input to convert from feet to centimeters. | Placeholder
+Conversion Ft to M | No | No | Controls behavior that uses user input to convert from feet to meters. | Placeholder
+Conversion In to CM | No | No | Controls behavior that uses user input to convert from inches to centimeters. | Placeholder
+Conversion Kg to lbs | No | No | Controls behavior that uses user input to convert from kilograms to pounds. | Placeholder
+Conversion KM to MI | No | No | Controls behavior that uses user input to convert from kilometers to miles. | Placeholder
+Conversion lbs to Kg | No | No | Controls behavior that uses user input to convert from pounds to kilograms. | Placeholder
+Conversion M to Ft | No | No | Controls behavior that uses user input to convert from meters to feet. | Placeholder
+Conversion Mi to KM | No | No | Controls behavior that uses user input to convert from miles to kilometers. | Placeholder
+Conversion milliliters to fluid ounces | No | No | Controls behavior that uses user input to convert from milliliters to fluid ounces. | Placeholder
 
 ***
 
 <a name="Chat-Commands"></a>
 ## Chat Commands
 
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Account age | No | Returns the account age/creation date for your user account as a message to chat.
-Bad bot | No | Tells the chatbot/botymuch that he is a bad boy :,c.
-Boop | No | Boops target user on the nose a randomm amount of times between 1 and 13 and sends a message to chat.
-Burp Counter Increase | No | Increments a counter to track burps while streaming and sends a message to chat.
-Chat Bonk | No | Bonks target user and sends a message to chat.
-Chat headpats  | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a headpatting aesthetic. The name for both the command user and the target user are also displayed.
-Chat horny jail | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a hornyjail aesthetic. The name for both the command user and the target user are also displayed.
-Chat wolfkisser | Yes | Queries the Twitch API for that target user's PFP and displays it graphically with a wolfkisser aesthetic. The name for both the command user and the target user are also displayed.
-Check Gold Stars | No | Gives target user a goldstar/increments their current gold stars by 1. This is saved as a per user persisted variable.
-Commands List | No | Links to a list of all channel commands.
-Cute | No | Generates a random unmber between 50 and 10000 and uses it to specify target user's cute percentage.
-Death Counter Decrease | No | placeholder
-Death Counter Increase | No | placeholder
-Discord info | No | placeholder
-Edge | No | placeholder
-Emotes (Lose) | No | placeholder
-Emotes (Win) | No | placeholder
-Follow Age | No | placeholder
-FuzzyFact (Command) | No | placeholder
-Gacha chat | No | placeholder
-Get song info | No | placeholder
-Get Team Info | No | placeholder
-GitHub | No | placeholder
-Good bot | No | placeholder
-Grade Book | No | placeholder
-Help me nut | No | Links to a webpage with explanations and descriptions of all valid Nut values as defined in my Vnyan Nodegraphs.
-Hug | No | placeholder
-Kofi Commissions | No | placeholder
-Kofi Link | No | placeholder
-Kofi Memberships | No | placeholder
-Kofi Shop Link | No | placeholder
-Lurk | No | placeholder
-Magic 8Ball | No | placeholder
-Quote Add | No | placeholder
-Quote Delete | No | placeholder
-Quote Show | No | placeholder
-Safeword | No | placeholder
-Safeword check | No | placeholder
-Stream Babies | No | placeholder
-The Orb | No | placeholder
-Tongue is out | No | placeholder
-Unlurk | No | placeholder
-Vanish | No | placeholder
-Weather | No | placeholder
-Yarr | No | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Burp Counter Increase | Placeholder | Placeholder | Placeholder | Placeholder
+Chat Gacha | Placeholder | Placeholder | Placeholder | Placeholder
+Interactive Commands | Placeholder | Placeholder | Placeholder | Placeholder
+Links | Placeholder | Placeholder | Placeholder | Placeholder
+Quick Maths | Placeholder | Placeholder | Placeholder | Placeholder
+Quotes | Placeholder | Placeholder | Placeholder | Placeholder
+Sub-Enhanced Commands | Placeholder | Placeholder | Placeholder | Placeholder
+User Auto-translate | Placeholder | Placeholder | Placeholder | Placeholder
+User Auto-translate File & Command | Placeholder | Placeholder | Placeholder | Placeholder
+User Translate v2.1 | placeholder | placeholder | placeholder | placeholder
+Weather | Placeholder | Placeholder | Placeholder | Placeholder
+
+***
+
+<a name="Chat-Commands"></a>
+## Deathcounter
+
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Deathcounter | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter-(re)Set without changing total | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter-Add | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter-Rem | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter-Reset-Total-Deaths | Placeholder | Placeholder | Placeholder | Placeholder
+Deathcounter-Set | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
 <a name="Mod-Commands"></a>
-## Mod Commands
+## Moderator Commands
 
-Action | Description
------- | ------
-Give Gold Stars | placeholder
-Redeem Cost Modifier | placeholder
-Remove Gold Stars | placeholder
-The V Word | placeholder
-Watchstreak (Unset) | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Alert | Placeholder | Placeholder | Placeholder | Placeholder
+Ban User | Placeholder | Placeholder | Placeholder | Placeholder
+Gold Stars | Placeholder | Placeholder | Placeholder | Placeholder
+Redeem Cost Modifier | Placeholder | Placeholder | Placeholder | Placeholder
+Swear Jar | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
 <a name="Mustached_Maniac-ChatGPT"></a>
 ## Mustached_Maniac ChatGPT
 
-Action | Description
------- | ------
-_ChatGPT Set-Up UI_ | placeholder
-ChatGPT Answers v2 | placeholder
-ChatGPT Random Messaging v2 | placeholder
-ChatGPT Recall Behavior | placeholder
-ChatGPT Set Bot Behavior | placeholder
-ChatGPT Shoutouts v2 | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+_ChatGPT Set-Up UI_ | Placeholder | Placeholder | Placeholder | Placeholder
+ChatGPT Answers v2 | Placeholder | Placeholder | Placeholder | Placeholder
+ChatGPT Random Messaging v2 | Placeholder | Placeholder | Placeholder | Placeholder
+ChatGPT Recall Behavior | Placeholder | Placeholder | Placeholder | Placeholder
+ChatGPT Set Bot Behavior | Placeholder | Placeholder | Placeholder | Placeholder
+ChatGPT Shoutouts v2 | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
 <a name="Passive-OBS-Interactions"></a>
 ## Passive OBS Interactions
 
-Action | Description
------- | ------
-Audio Info Cycler | placeholder
-Clock Cycler | placeholder
-Member of the now | placeholder
-Now Playing Enabler/Disabler | placeholder
-Now Playing text & graphic cycler | placeholder
-Now Playing Text Updater | placeholder
-Orb Present User Image Cycler | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Now Playing Enabler/Disabler | Placeholder | Placeholder | Placeholder | Placeholder
+Onscreen Clock | Placeholder | Placeholder | Placeholder | Placeholder
+Orb Present User Image Cycler | Placeholder | Placeholder | Placeholder | Placeholder
+Random Bot Chat Messages | Placeholder | Placeholder | Placeholder | Placeholder
+Scene Switch (Streamdeck) | Placeholder | Placeholder | Placeholder | Placeholder
+Stream Duration Timer | Placeholder | Placeholder | Placeholder | Placeholder
+Stream Labels Cycler | Placeholder | Placeholder | Placeholder | Placeholder
+Team Member Advertisement | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
 <a name="PiShock---Twitch-Interactions"></a>
 ## PiShock - Twitch Interactions
 
-Action | Description
------- | ------
-Random - Operation Roulette | placeholder
-Shock - Bits | placeholder
-Shock - Subs (1-4) | placeholder
-Shock - Subs (Tier 2) | placeholder
-Shock - Subs (Tier 3) | placeholder
-Shock - Subs Bombs | placeholder
-Vibrate - Amazon'd | placeholder
-Vibrate - Deflate | placeholder
-Vibrate - Destroy | placeholder
-Vibrate - Drop | placeholder
-Vibrate - No Horny | placeholder
-Vibrate - Pets | placeholder
-Vibrate - Plap | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+PiShock Information | placeholder | placeholder | placeholder | placeholder
+Random Events | placeholder | placeholder | placeholder | placeholder
+Shock Events | placeholder | placeholder | placeholder | placeholder
+Vibrate Events | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="PiShock-V2---Core"></a>
 ## PiShock V2 - Core
 
-Action | Description
------- | ------
-!!PiShock Code | placeholder
-!PiShock Setup | placeholder
-PiShock ConfigForm | placeholder
-PiShock LoginForm | placeholder
-PiShock ShareCodeForm | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+!!PiShock Code | placeholder | placeholder | placeholder | placeholder
+!PiShock Setup | placeholder | placeholder | placeholder | placeholder
+PiShock ConfigForm | placeholder | placeholder | placeholder | placeholder
+PiShock LoginForm | placeholder | placeholder | placeholder | placeholder
+PiShock ShareCodeForm | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="PiShock-V2---Examples"></a>
 ## PiShock V2 - Examples
 
-Action | Description
------- | ------
-PiShock - Climbing Shock | placeholder
-PiShock - Generic Shock | placeholder
-PiShock - Operation Roulette | placeholder
-PiShock - Pre-vibrate Shock | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+PiShock - Climbing Shock | placeholder | placeholder | placeholder | placeholder
+PiShock - Generic Shock | placeholder | placeholder | placeholder | placeholder
+PiShock - Operation Roulette | placeholder | placeholder | placeholder | placeholder
+PiShock - Pre-vibrate Shock | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="PiShock-V2---Operations"></a>
 ## PiShock V2 - Operations
 
-Action | Description
------- | ------
-PiShock Operate | placeholder
-PiShock OperateBeep | placeholder
-PiShock OperateShock | placeholder
-PiShock OperateVibrate | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+PiShock Operate | placeholder | placeholder | placeholder | placeholder
+PiShock OperateBeep | placeholder | placeholder | placeholder | placeholder
+PiShock OperateShock | placeholder | placeholder | placeholder | placeholder
+PiShock OperateVibrate | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="Redeems"></a>
 ## Redeems
 
-Action | Description
------- | ------
-Build-a-Nut Redemption | placeholder
-Run an Ad | placeholder
-Za Warudo Screenshot VTuber | placeholder
-Za warudo! | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Nut Commands | placeholder | placeholder | placeholder | placeholder
+Redeem TTS Bot Source Visibility | placeholder | placeholder | placeholder | placeholder
+Run an Ad | placeholder | placeholder | placeholder | placeholder
+Tummy Timeout & Vore | placeholder | placeholder | placeholder | placeholder
+VIP Nut Redemption | placeholder | placeholder | placeholder | placeholder
+Za Warudo Screenshot VTuber | placeholder | placeholder | placeholder | placeholder
+Za Warudo! | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="Spinning-Prize-Wheel"></a>
 ## Spinning Prize Wheel
 
-Action | Description
------- | ------
-Spinning Prize Wheel 0. Code | placeholder
-Spinning Prize Wheel 1. Settings | placeholder
-Spinning Prize Wheel 2. Import | placeholder
-Spinning Prize Wheel Send Group Data | placeholder
-Spinning Prize Wheel Winner | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Spinning Prize Wheel 0. Code | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel 1. Settings | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel 2. Import | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Send Group Data | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Winner | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="Spinning-Prize-Wheel---Custom"></a>
 ## Spinning Prize Wheel - Custom
 
-Action | Description
------- | ------
-Spinning Prize Wheel 0. Spin (Custom) | placeholder
-Spinning Prize Wheel Add Custom Entry | placeholder
-Spinning Prize Wheel Clear Custom Entries | placeholder
-Spinning Prize Wheel Remove Custom Entry | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Spinning Prize Wheel 0. Spin (Custom) | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Add Custom Entry | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Clear Custom Entries | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Remove Custom Entry | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="Spinning-Prize-Wheel---User-Group"></a>
 ## Spinning Prize Wheel - User Group
 
-Action | Description
------- | ------
-Spinning Prize Wheel 0. Spin (User Group) | placeholder
-Spinning Prize Wheel Clear Entries | placeholder
-Spinning Prize Wheel Clear Winners | placeholder
-Spinning Prize Wheel Command Add User to Group | placeholder
-Spinning Prize Wheel Command Remove User from Group | placeholder
-Spinning Prize Wheel Entries Close | placeholder
-Spinning Prize Wheel Entries Open | placeholder
-Spinning Prize Wheel Winner Announce | placeholder
-Spinning Prize Wheel Winner Claim | placeholder
-
-***
-
-<a name="Translate-Actions"></a>
-## Translate Actions
-
-Action | Description
------- | ------
-User Translate v2.1 | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Spinning Prize Wheel 0. Spin (User Group) | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Clear Entries | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Clear Winners | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Command Add User to Group | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Command Remove User from Group | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Entries Close | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Entries Open | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Winner Announce | placeholder | placeholder | placeholder | placeholder
+Spinning Prize Wheel Winner Claim | placeholder | placeholder | placeholder | placeholder
 
 ***
 
 <a name="Twitch-interactions"></a>
 ## Twitch Interactions
 
-Action | Uses OBS Scenes/Filters | Description
-:---: | :---: | :---:
-Ads | yes | placeholder
-Channel | yes | placeholder
-Channel Goal | yes | placeholder
-Chat | yes | placeholder
-Connections | yes | placeholder
-Donation | yes | placeholder
-General | yes | placeholder
-Hype Train | yes | placeholder
-Poll | yes | placeholder
-Power-up | yes | placeholder
-Prediction | yes | placeholder
-Pyramid | yes | placeholder
-Raid | yes | placeholder
-Sub | yes | placeholder
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+Ads | yes | placeholder | placeholder | placeholder
+Ads Timer | placeholder | placeholder | placeholder | placeholder
+Channel | yes | placeholder | placeholder | placeholder
+Channel Goal | yes | placeholder | placeholder | placeholder
+Charity | placeholder | placeholder | placeholder | placeholder
+Chat | yes | placeholder | placeholder | placeholder
+Connections | yes | placeholder | placeholder | placeholder
+Donations | yes | placeholder | placeholder | placeholder
+General | yes | placeholder | placeholder | placeholder
+Guest Star | placeholder | placeholder | placeholder | placeholder
+Hype Train | yes | placeholder | placeholder | placeholder
+Moderation | placeholder | placeholder | placeholder | placeholder
+Poll | yes | placeholder | placeholder | placeholder
+Power-up | yes | placeholder | placeholder | placeholder
+Prediction | yes | placeholder | placeholder | placeholder
+Raid | placeholder | placeholder | placeholder | placeholder
+Shared Chat | placeholder | placeholder | placeholder | placeholder
+Subscriptions | placeholder | placeholder | placeholder | placeholder
+Pyramid Core | placeholder | placeholder | placeholder | placeholder
+Pyramid Writeline | placeholder | placeholder | placeholder | placeholder
+Watch Streak Core | placeholder | placeholder | placeholder | placeholder
+Watch Streak Writeline | placeholder | placeholder | placeholder | placeholder
+
+***
+
+<a name="𝘼𝙋𝙄𝙓-Logging"></a>
+## 𝘼𝙋𝙄𝙓 Logging
+
+Action | OBS FX | SFX | Description | Credit
+:--- | :---: | :---: | :---: | :---:
+𝘼𝙋𝙄𝙓 Logging Core | placeholder | placeholder | placeholder | placeholder
+𝘼𝙋𝙄𝙓 Logging Debug | placeholder | placeholder | placeholder | placeholder
+𝘼𝙋𝙄𝙓 Logging Intake | placeholder | placeholder | placeholder | placeholder
+𝘼𝙋𝙄𝙓 Logging Setup | placeholder | placeholder | placeholder | placeholder
+𝘼𝙋𝙄𝙓 Logging Writeline | placeholder | placeholder | placeholder | placeholder
