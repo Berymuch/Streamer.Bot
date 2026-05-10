@@ -19,7 +19,7 @@ PiShock | Commands | Prizewheel & Chat GPT | Twitch API
 ## Broadcaster Commands
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Disabler/Enabler (Nuts) | Placeholder | Placeholder | Placeholder | Placeholder
 Disabler/Enabler (PiShock) | Placeholder | Placeholder | Placeholder | Placeholder
 Disabler/Enabler (Redeems) | Placeholder | Placeholder | Placeholder | Placeholder
@@ -36,7 +36,7 @@ Watchstreak (Unset) | Placeholder | Placeholder | Placeholder | Placeholder
 ## Chat Command Unit Conversion
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Conversion C to F | No | No | Controls behavior that uses user input to convert from celsius to farenheit. | Placeholder
 Conversion CM to In | No | No | Controls behavior that uses user input to convert from centimeters to inches. | Placeholder
 Conversion Command Check | No | No | Controls behavior that uses user input to return a list of associated command functions. | Placeholder
@@ -58,7 +58,7 @@ Conversion milliliters to fluid ounces | No | No | Controls behavior that uses u
 ## Chat Commands
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Burp Counter Increase | Placeholder | Placeholder | Placeholder | Placeholder
 Chat Gacha | Placeholder | Placeholder | Placeholder | Placeholder
 Interactive Commands | Placeholder | Placeholder | Placeholder | Placeholder
@@ -77,7 +77,7 @@ Weather | Placeholder | Placeholder | Placeholder | Placeholder
 ## Deathcounter
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Deathcounter | Placeholder | Placeholder | Placeholder | Placeholder
 Deathcounter-(re)Set without changing total | Placeholder | Placeholder | Placeholder | Placeholder
 Deathcounter-Add | Placeholder | Placeholder | Placeholder | Placeholder
@@ -91,7 +91,7 @@ Deathcounter-Set | Placeholder | Placeholder | Placeholder | Placeholder
 ## Moderator Commands
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Alert | Placeholder | Placeholder | Placeholder | Placeholder
 Ban User | Placeholder | Placeholder | Placeholder | Placeholder
 Gold Stars | Placeholder | Placeholder | Placeholder | Placeholder
@@ -104,7 +104,7 @@ Swear Jar | Placeholder | Placeholder | Placeholder | Placeholder
 ## Mustached_Maniac ChatGPT
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 _ChatGPT Set-Up UI_ | Placeholder | Placeholder | Placeholder | Placeholder
 ChatGPT Answers v2 | Placeholder | Placeholder | Placeholder | Placeholder
 ChatGPT Random Messaging v2 | Placeholder | Placeholder | Placeholder | Placeholder
@@ -134,7 +134,7 @@ Team Member Advertisement | Placeholder | Placeholder | Placeholder | Placeholde
 ## PiShock - Twitch Interactions
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 PiShock Information | placeholder | placeholder | placeholder | placeholder
 Random Events | placeholder | placeholder | placeholder | placeholder
 Shock Events | placeholder | placeholder | placeholder | placeholder
@@ -146,7 +146,7 @@ Vibrate Events | placeholder | placeholder | placeholder | placeholder
 ## PiShock V2 - Core
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 !!PiShock Code | placeholder | placeholder | placeholder | placeholder
 !PiShock Setup | placeholder | placeholder | placeholder | placeholder
 PiShock ConfigForm | placeholder | placeholder | placeholder | placeholder
@@ -159,7 +159,7 @@ PiShock ShareCodeForm | placeholder | placeholder | placeholder | placeholder
 ## PiShock V2 - Examples
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 PiShock - Climbing Shock | placeholder | placeholder | placeholder | placeholder
 PiShock - Generic Shock | placeholder | placeholder | placeholder | placeholder
 PiShock - Operation Roulette | placeholder | placeholder | placeholder | placeholder
@@ -171,7 +171,7 @@ PiShock - Pre-vibrate Shock | placeholder | placeholder | placeholder | placehol
 ## PiShock V2 - Operations
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 PiShock Operate | placeholder | placeholder | placeholder | placeholder
 PiShock OperateBeep | placeholder | placeholder | placeholder | placeholder
 PiShock OperateShock | placeholder | placeholder | placeholder | placeholder
@@ -183,7 +183,7 @@ PiShock OperateVibrate | placeholder | placeholder | placeholder | placeholder
 ## Redeems
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Nut Commands | placeholder | placeholder | placeholder | placeholder
 Redeem TTS Bot Source Visibility | placeholder | placeholder | placeholder | placeholder
 Run an Ad | placeholder | placeholder | placeholder | placeholder
@@ -198,7 +198,7 @@ Za Warudo! | placeholder | placeholder | placeholder | placeholder
 ## Spinning Prize Wheel
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Spinning Prize Wheel 0. Code | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel 1. Settings | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel 2. Import | placeholder | placeholder | placeholder | placeholder
@@ -211,7 +211,7 @@ Spinning Prize Wheel Winner | placeholder | placeholder | placeholder | placehol
 ## Spinning Prize Wheel - Custom
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Spinning Prize Wheel 0. Spin (Custom) | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel Add Custom Entry | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel Clear Custom Entries | placeholder | placeholder | placeholder | placeholder
@@ -223,7 +223,7 @@ Spinning Prize Wheel Remove Custom Entry | placeholder | placeholder | placehold
 ## Spinning Prize Wheel - User Group
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Spinning Prize Wheel 0. Spin (User Group) | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel Clear Entries | placeholder | placeholder | placeholder | placeholder
 Spinning Prize Wheel Clear Winners | placeholder | placeholder | placeholder | placeholder
@@ -240,7 +240,7 @@ Spinning Prize Wheel Winner Claim | placeholder | placeholder | placeholder | pl
 ## Twitch Interactions
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Ads | yes | placeholder | placeholder | placeholder
 Ads Timer | placeholder | placeholder | placeholder | placeholder
 Channel | yes | placeholder | placeholder | placeholder
@@ -270,7 +270,7 @@ Watch Streak Writeline | placeholder | placeholder | placeholder | placeholder
 ## 𝘼𝙋𝙄𝙓 Logging
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 𝘼𝙋𝙄𝙓 Logging Core | placeholder | placeholder | placeholder | placeholder
 𝘼𝙋𝙄𝙓 Logging Debug | placeholder | placeholder | placeholder | placeholder
 𝘼𝙋𝙄𝙓 Logging Intake | placeholder | placeholder | placeholder | placeholder
