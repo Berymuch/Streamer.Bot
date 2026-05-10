@@ -5,14 +5,13 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Check back infrequently for more details as I record them.
 
-*Current Action count: 158*
-
-Column 1 | Column 2 | Column 3 | Column 4
+*Current Action count: 130*
+PiShock | Commands | Prizewheel & Chat GPT | Twitch API
 :---: | :---: | :---: | :---:
-[PiShock V2 - Examples](#PiShock-V2---Examples) | [PiShock V2 - Operations](#PiShock-V2---Operations) | [Broadcaster Commands](#Broadcaster-Commands) | [Twitch interactions](#Twitch-interactions)
-[Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Chat Commands](#Chat-Commands) | [Mod Commands](#Mod-Commands) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging)
-[Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [Passive OBS Interactions](#Passive-OBS-Interactions) | [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group)
-[PiShock V2 - Core](#PiShock-V2---Core) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Redeems](#Redeems) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom)
+[PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-OBS-Interactions)
+[PiShock V2 - Core](#PiShock-V2---Core) | [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
+[PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging)
 
 ***
 
@@ -88,7 +87,7 @@ Deathcounter-Set | Placeholder | Placeholder | Placeholder | Placeholder
 
 ***
 
-<a name="Mod-Commands"></a>
+<a name="Moderator-Commands"></a>
 ## Moderator Commands
 
 Action | OBS FX | SFX | Description | Credit
