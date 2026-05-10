@@ -5,12 +5,10 @@
 
 ***
 
->*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick integrations are in development.*
+>*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick integrations are in development. This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. *
 
 > [!NOTE]
 > Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code hierarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
-
-This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. 
 
 **INSTALLATION:**
 
