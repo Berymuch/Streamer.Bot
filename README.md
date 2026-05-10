@@ -9,8 +9,8 @@ Command Documentation | Action Documentation | OBS Documentation | SFX Files | C
 >*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick integrations are in development. This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. *
 
 ***
-
 **INSTALLATION:**
+***
 
 :red_square: ***ALWAYS*** backup your streamerbot prior to updating :red_square:
 
