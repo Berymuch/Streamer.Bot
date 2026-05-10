@@ -3,7 +3,7 @@
 > Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code hierarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
 
 Command Documentation | Action Documentation
-:---: | :---:
+:-: | :-:
 [Chat Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md) | [Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md)  
 
 ***
