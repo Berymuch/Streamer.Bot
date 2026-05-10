@@ -36,7 +36,7 @@ Command | Description | Credit
 !Wolf | Posts a wolf fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !Wolfdragon, !wagon, !drolf, & !wolgon | Posts a wolf-dragon fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !Worg | Posts a worg fact to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦   **TARGETTED INTERACTIONS**   🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦   **TARGETTED**   🟦🟦🟦 | 🟦🟦🟦
 !bonk [name] & !b [name] | Bonk a targeted user in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !boop [name] | Boop a targeted user in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !cook [name] | Cooks something nice for the targetted user! | [ItzApix_](https://www.twitch.tv/ItzApix_)
@@ -55,7 +55,7 @@ Command | Description | Credit
 !angryflip [message] | ANGRILY FLIPS THE MESSAGE >:c! |[Luposity](https://www.twitch.tv/Luposity)
 !convert & !con [value][units]| Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
 !en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦   **DATA TRACKING INTERRACTIONS**   🟦🟦🟦 | 🟦🟦🟦 
+🟦🟦🟦 | 🟦🟦🟦   **DATA TRACKING**   🟦🟦🟦 | 🟦🟦🟦 
 !accountage & !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkgoldstars & !cgs | Display the amount of {golden stars} you have in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkswearjar & !csj | Posts the contents in the swear jar to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -69,7 +69,7 @@ Command | Description | Credit
 !temp, !t, !weather, & !w | Shows the current weather near the streamer. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchtime & !wt | Posts the user's watchtime to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchstreak [username or # or rank or leave blank] | Display current top 5 highest watchstreaks on this channel as a leaderboard in chat. if additional input is included after the command, will post more precise information. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-🟦🟦🟦 | 🟦🟦🟦   **USER SPECIFIC INTERRACTIONS**   🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦   **USER SPECIFIC**   🟦🟦🟦 | 🟦🟦🟦
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
 !edge | Uh... | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -81,7 +81,7 @@ good bot | Publicly praise the chatbot uwu. | [Berymuch](https://www.twitch.tv/B
 !unEnter & !removeEntry | Remove your entry from the prize wheel, if any. | [Rondhi](https://www.twitch.tv/Rondhi)
 !claim | Claim prize on prize wheel, if you have won. | [Rondhi](https://www.twitch.tv/Rondhi)
 !vanish | Holds the user accountable. | [Berymuch](https://www.twitch.tv/Berymuch)
-🟦🟦🟦 | 🟦🟦🟦   **GENERAL INTERRACTIONS**   🟦🟦🟦 | 🟦🟦🟦
+🟦🟦🟦 | 🟦🟦🟦   **GENERAL**   🟦🟦🟦 | 🟦🟦🟦
 !bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE | [Berymuch](https://www.twitch.tv/Berymuch)
 !burp & !bp | Display the global counter for however many times Berymuch has burped on stream in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !clip [duration in sec] [title] | Create a clip with the specified parameters and ending at the time command was sent (a stream marker is also created). If no parameters are specified, a default time of 30s is used. Clips can also be configured to be autodownloaded to a specific folder in your PC by configuring settings within the "Channel" action under Twitch interactions (check inside the command triggered subtree switchcase). | [Luposity](https://www.twitch.tv/Luposity)
