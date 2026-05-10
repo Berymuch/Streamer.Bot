@@ -28,7 +28,6 @@ Disabler/Enabler (Share Screen) | Placeholder | Placeholder | Placeholder | [Ber
 Emergency Mode | Yes | No | A general kill switch to be used in the event of something like a hate raid or other negative channel event. | [Berymuch](https://www.twitch.tv/Berymuch)
 Gacha Mode | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Nom mode | Placeholder | Placeholder | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Watchstreak (Unset) | Placeholder | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
