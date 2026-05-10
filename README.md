@@ -2,10 +2,9 @@
 > [!NOTE]
 > Botymuch v1.4.5 is a major release that reorganizes/consolidates many actions and changes the code hierarchy. This will result in the duplication of some functions if updating from a previous version. Botymuch v1.1.5+ Require Streamer.bot v1.0.0+.
 
-Command Documentation | Action Documentation
-:-: | :-:
-[Chat Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md) | [Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md)  
-
+Command Documentation | Action Documentation | OBS Documentation | SFX Files | Clip Player | StreamDeck Profile
+:-: | :-: | :-: | :-: | :-: | :-:
+[Chat Commands List](https://github.com/Berymuch/Streamer.Bot/blob/main/Chat%20Commands%20List.md) | [Actions List](https://github.com/Berymuch/Streamer.Bot/blob/main/Actions%20List.md) | [OBS Scene/Source List](https://github.com/Berymuch/Streamer.Bot/blob/main/Botymuch%20OBS%20source%20setup.txt) | [SFX Files](https://github.com/Berymuch/Streamer.Bot/blob/main/Streamerbot%20SFX.zip) | [Clip Player](https://github.com/Berymuch/Streamer.Bot/blob/main/shoutouthd.html) | [StreamDeck Profile](https://github.com/Berymuch/Streamer.Bot/blob/main/Botymuch%20Streaming%20Layout.streamDeckProfile)
 
 >*THIS BOT FEATURES COMPLETE TWITCH API INTEGRATION. Youtube/Kick integrations are in development. This is a collection of hundreds of actions/commands I've created and collected to support my Twitch channel! It automates various components that I had previously relied on webserver-based bots for, and does so while running entirely locally from your computer. *
 
