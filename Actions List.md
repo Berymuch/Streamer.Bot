@@ -119,7 +119,7 @@ ChatGPT Shoutouts v2 | No | No | Placeholder | [mustached_maniac](https://www.tw
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :---: | :---:
 Now Playing Enabler/Disabler | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Onscreen Clock | Placeholder | Placeholder | No | [Berymuch](https://www.twitch.tv/Berymuch)
+Onscreen Clock | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Orb Present User Image Cycler | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Random Bot Chat Messages | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Scene Switch (Streamdeck) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
