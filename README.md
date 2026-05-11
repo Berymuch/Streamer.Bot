@@ -12,6 +12,9 @@ Command Documentation | Action Documentation | OBS Documentation | SFX Files | C
 **INSTALLATION:**
 
 :red_square: ***ALWAYS*** backup your streamerbot prior to updating :red_square:
+
+Latest version:
+[Botymuch v1.5.7](https://github.com/Berymuch/Streamer.Bot/blob/main/Botymuch%20v1.5.7.sb)
 ***
 
 *REQUIRED:*
