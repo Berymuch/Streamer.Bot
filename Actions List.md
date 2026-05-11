@@ -1,4 +1,4 @@
-# Introduction
+# ACTIONS LIST
 
 Welcome to the web page made for listing all of the actions provided with the Botymuch streamer bot built and maintained by [Berymuch](https://www.twitch.tv/berymuch). While the majority of these commands were created by me, I have included those made by others that I have found to be useful.
 
