@@ -20,14 +20,14 @@ PiShock | Commands | Prizewheel & Chat GPT | Twitch API
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Disabler/Enabler (Nuts) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Disabler/Enabler (PiShock) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Disabler/Enabler (Redeems) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Disabler/Enabler (Share Browser) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Disabler/Enabler (Share Screen) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Nuts) | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (PiShock) | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Redeems) | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Share Browser) | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Disabler/Enabler (Share Screen) | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Emergency Mode | Yes | No | A general kill switch to be used in the event of something like a hate raid or other negative channel event. | [Berymuch](https://www.twitch.tv/Berymuch)
-Gacha Mode | Placeholder | No | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Nom mode | Placeholder | No | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Gacha Mode | No | No | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Nom mode | No | No | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
@@ -58,17 +58,17 @@ Conversion milliliters to fluid ounces | No | No | Controls behavior that uses u
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Burp Counter Increase | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Chat Gacha | Placeholder | Yes | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Interactive Commands | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Links | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Quick Maths | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Quotes | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Sub-Enhanced Commands | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-User Auto-translate | Placeholder | No | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Auto-translate File & Command | Placeholder | No | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Translate v2.1 | placeholder | No | placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-Weather | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Burp Counter Increase | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Chat Gacha | No | Yes | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Interactive Commands | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Links | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Quick Maths | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Quotes | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Sub-Enhanced Commands | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+User Auto-translate | No | No | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Auto-translate File & Command | No | No | Placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Translate v2.1 | No | No | placeholder | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+Weather | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -77,12 +77,12 @@ Weather | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Bery
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Deathcounter | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-(re)Set without changing total | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Add | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Rem | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Reset-Total-Deaths | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Set | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-(re)Set without changing total | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Add | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Rem | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Reset-Total-Deaths | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Set | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -91,11 +91,11 @@ Deathcounter-Set | Placeholder | No | Placeholder | [Berymuch](https://www.twitc
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Alert | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Ban User | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Gold Stars | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Redeem Cost Modifier | No | Placeholder | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Swear Jar | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Alert | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Ban User | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Gold Stars | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Redeem Cost Modifier | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Swear Jar | Yes | Yes | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -104,12 +104,12 @@ Swear Jar | Placeholder | Yes | Placeholder | [Berymuch](https://www.twitch.tv/B
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-_ChatGPT Set-Up UI_ | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Answers v2 | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Random Messaging v2 | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Recall Behavior | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Set Bot Behavior | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Shoutouts v2 | Placeholder | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+_ChatGPT Set-Up UI_ | No | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Answers v2 | No | Yes | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Random Messaging v2 | No | Yes | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Recall Behavior | No | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Set Bot Behavior | No | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+ChatGPT Shoutouts v2 | No | No | Placeholder | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
 
 ***
 
