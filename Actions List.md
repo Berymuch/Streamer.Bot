@@ -260,7 +260,7 @@ Shared Chat | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 Subscriptions | Yes | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 Pyramid Core | Yes | Yes | placeholder |  [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Pyramid Writeline | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Watch Streak Core | Yes | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [Berymuch](https://www.twitch.tv/Berymuch)
+Watch Streak Core | Yes | Yes | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Watch Streak Writeline | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
