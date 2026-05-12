@@ -23,7 +23,7 @@ Latest version:
 
 2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
 
-3.  Make sure to enable all the commands you import in the commands section of streamer bot. They will be disabled by default after you import the file above.
+3.  **You must enable all the commands you import in the commands section of Streamer Sot.** They will be disabled by default after you import the file above.
 
 *OPTIONAL:*
 
