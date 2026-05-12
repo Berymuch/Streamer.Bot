@@ -27,7 +27,7 @@ Latest version:
 
 *OPTIONAL:*
 
-4.  If you plan to use the built-in SFX features, download and extract the "Streamerbot SFX.zip" archive above and place the resulting folder wherever. Update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to the extracted folder's location. The file path should resemble "yourfilepath/Streamerbot SFX". Do not rename/reorganize the contents of the "Streamerbot SFX" folder (it will break things), but do feel free to add files to it as desired.
+4.  If you plan to use the built-in SFX features, download and extract the [Streamerbot SFX.zip](https://github.com/Berymuch/Streamer.Bot/blob/main/Streamerbot%20SFX.zip) archive above and place the resulting folder wherever. Update the SFX write filepath in "CONFIG ME (OPTIONAL)" to point to the extracted folder's location. The file path should resemble "yourfilepath/Streamerbot SFX". Do not rename/reorganize the contents of the "Streamerbot SFX" folder (it will break things), but do feel free to add files to it as desired.
 
 5.  If you plan to use the built-in Squawk TTS features, update the write filepath to your preferred location in "CONFIG ME (OPTIONAL)". Squawk can be downloaded here: https://obsproject.com/forum/resources/squawk-real-time-local-text-to-speech-with-ai.1965/
 
