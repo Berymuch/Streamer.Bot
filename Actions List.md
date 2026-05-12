@@ -118,14 +118,14 @@ ChatGPT Shoutouts v2 | No | No | Placeholder | [mustached_maniac](https://www.tw
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :---: | :---:
-Now Playing Enabler/Disabler | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Onscreen Clock | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Orb Present User Image Cycler | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Random Bot Chat Messages | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Scene Switch (Streamdeck) | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Stream Duration Timer | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Stream Labels Cycler | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Team Member Advertisement | Placeholder | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Now Playing Enabler/Disabler | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Onscreen Clock | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Orb Present User Image Cycler | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Random Bot Chat Messages | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Scene Switch (Streamdeck) | No | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Stream Duration Timer | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Stream Labels Cycler | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Team Member Advertisement | Yes | No | Placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -134,10 +134,10 @@ Team Member Advertisement | Placeholder | No | Placeholder | [Berymuch](https://
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock Information | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Random Events | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Shock Events | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Vibrate Events | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+PiShock Information | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Random Events | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Shock Events | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Vibrate Events | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -146,11 +146,11 @@ Vibrate Events | placeholder | No | placeholder | [Berymuch](https://www.twitch.
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-!!PiShock Code | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-!PiShock Setup | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock ConfigForm | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock LoginForm | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock ShareCodeForm | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+!!PiShock Code | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+!PiShock Setup | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock ConfigForm | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock LoginForm | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock ShareCodeForm | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -159,10 +159,10 @@ PiShock ShareCodeForm | placeholder | No | placeholder | [mxpuffin](https://mxpu
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock - Climbing Shock | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Generic Shock | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Operation Roulette | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Pre-vibrate Shock | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Climbing Shock | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Generic Shock | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Operation Roulette | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Pre-vibrate Shock | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -171,10 +171,10 @@ PiShock - Pre-vibrate Shock | placeholder | No | placeholder | [mxpuffin](https:
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock Operate | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock OperateBeep | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock OperateShock | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock OperateVibrate | placeholder | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock Operate | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateBeep | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateShock | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock OperateVibrate | No | No | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
@@ -183,13 +183,13 @@ PiShock OperateVibrate | placeholder | No | placeholder | [mxpuffin](https://mxp
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Nut Commands | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Redeem TTS Bot Source Visibility | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Run an Ad | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Tummy Timeout & Vore | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-VIP Nut Redemption | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Za Warudo Screenshot VTuber | placeholder | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Za Warudo! | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Nut Commands | No | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Redeem TTS Bot Source Visibility | No | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Run an Ad | Yes | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Tummy Timeout & Vore | No | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+VIP Nut Redemption | No | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Za Warudo Screenshot VTuber | Yes | No | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
+Za Warudo! | Yes | Yes | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
@@ -198,11 +198,11 @@ Za Warudo! | placeholder | Yes | placeholder | [Berymuch](https://www.twitch.tv/
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Code | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel 1. Settings | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel 2. Import | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Send Group Data | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Code | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 1. Settings | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 2. Import | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Send Group Data | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner | Yes | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -211,10 +211,10 @@ Spinning Prize Wheel Winner | placeholder | No | placeholder | [Rondhi](https://
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (Custom) | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Add Custom Entry | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Custom Entries | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Remove Custom Entry | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Spin (Custom) | Yes | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Add Custom Entry | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Custom Entries | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Remove Custom Entry | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -223,15 +223,15 @@ Spinning Prize Wheel Remove Custom Entry | placeholder | No | placeholder | [Ron
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (User Group) | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Entries | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Winners | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Command Add User to Group | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Command Remove User from Group | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Entries Close | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Entries Open | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner Announce | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner Claim | placeholder | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Spin (User Group) | Yes | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Entries | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Winners | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Add User to Group | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Remove User from Group | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Close | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Open | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Announce | Yes | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Claim | No | No | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -270,8 +270,8 @@ Watch Streak Writeline | No | No | placeholder | [ItzApix_](https://www.twitch.t
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-𝘼𝙋𝙄𝙓 Logging Core | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Debug | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Intake | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Setup | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Writeline | placeholder | placeholder | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Core | No | No | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Debug | No | No | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Intake | No | No | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Setup | No | No | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Writeline | No | No | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
