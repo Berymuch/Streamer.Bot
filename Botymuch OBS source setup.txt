@@ -49,3 +49,7 @@ OBS Scene name: Twitch Elements
 	|--Label Title (GDI+ Text source)
 	|
 	|--Label Icon (Image source)
+	|
+[Shoutout Clips]
+	|
+	|--Shoutout Clip Player (Browser Source)
