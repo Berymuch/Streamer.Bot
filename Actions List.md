@@ -182,7 +182,7 @@ PiShock OperateVibrate | 🟥 | 🟥 | Triggers to activate a Vibrate event on t
 ## Redeems
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
+:--- | :---: | :---: | :---: | :---:
 Nut Commands | 🟥 | 🟩 | Contains logic that helps to run certain Nut commands. Currently this only contains the logic that lets !nut 2002 function due to limitations in VNyan. All other nuts function solely via nodegraphs in VNyan, and in the event that future nuts require additional logic in streamerbot this action will serve as the container for those cases. | [Berymuch](https://www.twitch.tv/Berymuch)
 Redeem TTS Bot Source Visibility | 🟥 | 🟥 | Controls interactions that modify the visual state of a TTS bot using the specified OBS sources. | [Berymuch](https://www.twitch.tv/Berymuch)
 Run an Ad | 🟩 | 🟩 | Controls how an ad is run when the specified channel point redeem is used. | [Berymuch](https://www.twitch.tv/Berymuch)
