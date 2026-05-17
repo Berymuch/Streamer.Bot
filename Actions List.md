@@ -117,7 +117,7 @@ ChatGPT Shoutouts v2 | 🟥 | 🟥 | Allows the usage of ChatGPT to deliver user
 ## Passive OBS Interactions
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Now Playing Enabler/Disabler | 🟩 | 🟥 | Controls the visibility of sources displaying info about the currently streamed category, and determines when and when not to make them visible based off of currently active OBS scenes, timed actions, streamer bot status, Twitch stream status, and clip shoutout commands. | [Berymuch](https://www.twitch.tv/Berymuch)
 Onscreen Clock | 🟩 | 🟥 | Parses system time into the format specified and saves it to the chosen OBS GDI+ text source. | [Berymuch](https://www.twitch.tv/Berymuch)
 Orb Present User Image Cycler | 🟩 | 🟥 | Controls the appearance of a "chat orb". Every 30 seconds, a random present user is chosen and has their profile pic and preferred twitch colour queried. If no preferred colour is specified, a random one is chosen. The resulting colour value is then applied to an OBS Colour Source intended to be referenced as an accent value for other sources on the stream. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -182,7 +182,7 @@ PiShock OperateVibrate | 🟥 | 🟥 | Triggers to activate a Vibrate event on t
 ## Redeems
 
 Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :---: | :---:
+:--- | :---: | :---: | :--- | :---:
 Nut Commands | 🟥 | 🟩 | Contains logic that helps to run certain Nut commands. Currently this only contains the logic that lets !nut 2002 function due to limitations in VNyan. All other nuts function solely via nodegraphs in VNyan, and in the event that future nuts require additional logic in streamerbot this action will serve as the container for those cases. | [Berymuch](https://www.twitch.tv/Berymuch)
 Redeem TTS Bot Source Visibility | 🟥 | 🟥 | Controls interactions that modify the visual state of a TTS bot using the specified OBS sources. | [Berymuch](https://www.twitch.tv/Berymuch)
 Run an Ad | 🟩 | 🟩 | Controls how an ad is run when the specified channel point redeem is used. | [Berymuch](https://www.twitch.tv/Berymuch)
