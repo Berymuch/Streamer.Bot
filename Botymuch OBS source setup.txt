@@ -15,6 +15,8 @@ OBS Scene name: Twitch Elements
 	|
 [Web apps & Browser Overlays]
 	|
+	|--Shoutout Clips (Scene)
+	|
 	|--Prediction & Poll Overlay (Browser Source)
 	|
 	|--Goal Overlay (Browser Source)
@@ -52,7 +54,10 @@ OBS Scene name: Twitch Elements
 	|--Label Title (GDI+ Text source)
 	|
 	|--Label Icon (Image source)
-	|
-[Shoutout Clips]
+
+
+-------------------------------
+OBS Scene name: Shoutout Clips
+-------------------------------
 	|
 	|--Shoutout Clip Player (Browser Source)
