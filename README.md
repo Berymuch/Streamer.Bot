@@ -19,6 +19,8 @@ Latest version:
 
 *REQUIRED:*
 
+0. **Review the provided documentation to see what will be preconfigured when you install any of the actions in this bot.** Links to documentation for commands, actions, and OBS source layout can be found near the top of this page.
+
 1.  Download the latest version of the .sb file and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
 2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
