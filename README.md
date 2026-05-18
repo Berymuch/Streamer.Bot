@@ -39,4 +39,4 @@ Latest version:
 
 Note that some actions rely on specific scenes/filters/transitions/sources to be present in OBS to function- these aspects of this bot will not work out of the box but can be modified to suit your needs. Eventually a method will be provided to autopopulate OBS sources once the bot progresses further along the developmental roadmap.
 
-All credit for the streamer bot application goes to its developers.
+All credit for the streamer bot application goes to its [developers](https://streamer.bot/).
