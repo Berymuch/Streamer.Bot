@@ -198,11 +198,11 @@ Za Warudo! | 🟩 | 🟩 | Controls how redemption of the Za Warudo redeem disab
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Code | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel 1. Settings | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel 2. Import | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Send Group Data | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner | 🟩 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Code | 🟥 | 🟥 | Controls the core functions that other actions related to the spinning prize wheel call back to in order to function. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 1. Settings | 🟥 | 🟥 | Controls how settings are populated via arguments and other subactions for initial setup and subsequent prize wheel spins. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 2. Import | 🟥 | 🟥 | Controls how OBS scenes/sources related to the prize wheel are automatically imported and setup in OBS. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Send Group Data | 🟥 | 🟥 | Controls how streamer bot group data is populated once the prize wheel is spun. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner | 🟩 | 🟥 | Controls the selection of the winner on the prizewheel as well as how selecting the winner is handled via streamer bot user groups. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -211,10 +211,10 @@ Spinning Prize Wheel Winner | 🟩 | 🟥 | placeholder | [Rondhi](https://exten
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (Custom) | 🟩 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Add Custom Entry | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Custom Entries | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Remove Custom Entry | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Spin (Custom) | 🟩 | 🟥 | Controls how the core code for a custom prize wheel spin is handled using a .txt file as input. The associated command also starts the wheel spin. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Add Custom Entry | 🟥 | 🟥 | Controls how custom entries are added to the .txt file used to populate entries on the wheel via the associated command. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Custom Entries | 🟥 | 🟥 | Controls how custom entries on the .txt file are cleared entirely when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Remove Custom Entry | 🟥 | 🟥 | Controls how specific custom entries on the .txt file are removed when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
@@ -223,15 +223,15 @@ Spinning Prize Wheel Remove Custom Entry | 🟥 | 🟥 | placeholder | [Rondhi](
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Spinning Prize Wheel 0. Spin (User Group) | 🟩 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Entries | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Clear Winners | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Command Add User to Group | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Command Remove User from Group | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Entries Close | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Entries Open | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner Announce | 🟩 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
-Spinning Prize Wheel Winner Claim | 🟥 | 🟥 | placeholder | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel 0. Spin (User Group) | 🟩 | 🟥 | Controls how the core code for a custom prize wheel spin is handled using streamer bot user groups as input. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Entries | 🟥 | 🟥 | Controls how custom entries on the streamer bot user group are cleared entirely when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Clear Winners | 🟥 | 🟥 | Controls how winners on the streamer bot winnner user group are cleared entirely when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Add User to Group | 🟥 | 🟥 | Controls how entries are added to the streamer bot user group used to populate entries on the wheel via the associated command. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Command Remove User from Group | 🟥 | 🟥 | Controls how specific entries on the streamer bot user group are removed when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Close | 🟥 | 🟥 | Controls whether or not users are able to make an entry on the prize whell when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Entries Open | 🟥 | 🟥 | Controls whether or not users are able to make an entry on the prize whell when the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Announce | 🟩 | 🟥 | Controls how announcing the winner from the user group prize wheel is chosen and shared. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
+Spinning Prize Wheel Winner Claim | 🟥 | 🟥 | Controls how the chosen winner from the prize wheel spin is able to claim their prize once the associated command is run. | [Rondhi](https://extensions.streamer.bot/t/spinning-prize-wheel-update/1957)
 
 ***
 
