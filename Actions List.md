@@ -240,28 +240,30 @@ Spinning Prize Wheel Winner Claim | 🟥 | 🟥 | Controls how the chosen winner
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-Ads | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Ads Timer | 🟩 | 🟥 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Channel | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
-Channel Goal | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Charity | placeholder | placeholder | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Chat | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Connections | 🟩 | 🟥 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Donations | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-General | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch), [Liminality](https://www.twitch.tv/liminality), & [ItzApix_](https://www.twitch.tv/ItzApix_)
-Guest Star | 🟥 | 🟥 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Hype Train | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
-Moderation | 🟥 | 🟥 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Poll | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Power-up | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Prediction | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
-Raid | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Shared Chat | 🟥 | 🟥 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch)
-Subscriptions | 🟩 | 🟩 | placeholder | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
-Pyramid Core | 🟩 | 🟩 | placeholder |  [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
-Pyramid Writeline | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Watch Streak Core | 🟩 | 🟩 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
-Watch Streak Writeline | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+[CONFIG ME] Initial Setup | 🟥 | 🟥 | **MANDATORY:** Controls how certain arguments are set in order for various other actions to function as intended. The core folder arguments need to be configured as desired by the user, and the optional ones are to preference.
+Ads | 🟩 | 🟩 | Controls how notifications are sent in anticipation of an upcoming ad, what occurs when an ad is run, and also allows snoozing of ads via teh associated command. | [Berymuch](https://www.twitch.tv/Berymuch)
+Ads Timer | 🟩 | 🟥 | Controls how the duration/timer until an ad is completed is displayed when an ad is run. | [Berymuch](https://www.twitch.tv/Berymuch)
+Channel | 🟩 | 🟩 | Controls subactions that are run when your stream is online, offline, and updates. Also handles events when someone follows the channel and when markers, stream category, stream title, and clips are set or made via the associated commands. | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
+Channel Goal | 🟩 | 🟩 | Controls subactions that are run when channel goals of all types are began, in progress, and end. | [Berymuch](https://www.twitch.tv/Berymuch)
+Charity | 🟩 | 🟥 | Controls subactions that occur when charity events are started, in progress, and completed. Also triggers subactions that occur when a charity donation is received. | [Berymuch](https://www.twitch.tv/Berymuch)
+Chat | 🟩 | 🟩 | Controls subactions that occur when cheers are recieved. Also triggers when account and follow age commands are used, bits badge tiers are updated, and when detecting first/second/third chatters of the stream and recognizing them accordingly. | [Berymuch](https://www.twitch.tv/Berymuch)
+Community Goal | 🟩 | 🟥 | Controls subactions that are run when a community goal contribution is received and ended.
+Connections | 🟩 | 🟥 | Controls subactions that are run when the bot account connects/disconnects from chat, when the broadcaster successfully authenticates, when the broadcaster connects/disconnects from chat, and when connection to the Twitch Eventsub is made/lost. | [Berymuch](https://www.twitch.tv/Berymuch)
+Donations | 🟩 | 🟩 | Controls subactions that are run when donation events from KoFi/Streamlabs/StreamElements are received. Requires additional setup with each respective service as specified in the action comments. | [Berymuch](https://www.twitch.tv/Berymuch)
+General | 🟩 | 🟩 | Controls subactions that are run when the !shoutout and !noclipshoutout commands are used, and when the broadcaster receives a shoutout from another streamer. | [Berymuch](https://www.twitch.tv/Berymuch), [Liminality](https://www.twitch.tv/liminality), & [ItzApix_](https://www.twitch.tv/ItzApix_)
+Guest Star | 🟥 | 🟥 | Controls subactions that are run when a guest star sessions begins, updates, and ends. Also triggers when a guest star session's settings are updated. | [Berymuch](https://www.twitch.tv/Berymuch)
+Hype Train | 🟩 | 🟩 | Controls subactions that are run whhen a hype train of any type is started, updated, level ups, and ends. Hype train update subactions are disabled by default to reduce chat and logging spam. | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
+Moderation | 🟥 | 🟥 | Controls numerous subactions that are run in response to all moderation-type API events. | [Berymuch](https://www.twitch.tv/Berymuch)
+Poll | 🟩 | 🟩 | Controls subactions that are run when a Twitch Poll is created, updated, completed, terminated, and archived. Also triggers when the !poll command is used to start a poll via specified parameters as a chat command. The Poll Update subaction is disabled by default to cut back on chat and logging spam. | [Berymuch](https://www.twitch.tv/Berymuch)
+Power-up | 🟩 | 🟩 | Controls subactions that are run when various built in twitch Power-Ups are redeemed in chat, if enabled. | [Berymuch](https://www.twitch.tv/Berymuch)
+Prediction | 🟩 | 🟩 | Controls subactions that are run when a Twitch Prediction is created, updated, completed, locked, and cancelled. Also triggers when the !prediction command is used to start a prediction via specified parameters as a chat command. The Prediction Update subaction is disabled by default to cut back on chat and logging spam. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
+Pyramid Core | 🟩 | 🟩 | Controls subactions that are run when an emote pyramid is successful or broken. Also triggers when the !pyramid command is used and returns information based on the input parameters. |  [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
+Pyramid Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to pyramid events as dictated by the core pyramid action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Raid | 🟩 | 🟩 | Controls subactions that re run when a Raid is received, sent, started, and cancelled. | [Berymuch](https://www.twitch.tv/Berymuch)
+Shared Chat | 🟥 | 🟥 | Controls subactions that are run when various shared chat events are triggered. | [Berymuch](https://www.twitch.tv/Berymuch)
+Subscriptions | 🟩 | 🟩 | Controls subactions that are run when subs of any type are received. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
+Watch Streak Core | 🟩 | 🟩 | Controls subactions that are run when a watchstreak is shared. Also triggers when the !watchstreak command is used and returns information based on the input parameters. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
+Watch Streak Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to watchstreak events as dictated by the core watchstreak action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
@@ -270,7 +272,7 @@ Watch Streak Writeline | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twit
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-𝘼𝙋𝙄𝙓 Logging Core | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Core | 🟥 | 🟥 | Controls core functions and logic that other associated actions call back to in order to run. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 𝘼𝙋𝙄𝙓 Logging Debug | 🟥 | 🟥 | Controls how debug events for this action are tracked, what occurs as a result, and also tracks what happened and further emulates events. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 𝘼𝙋𝙄𝙓 Logging Intake | 🟥 | 🟥 | Controls how Twitch API events are tracked and stores that data for further parsing. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 𝘼𝙋𝙄𝙓 Logging Setup | 🟥 | 🟥 | Controls how aspects of the logging action function and allows you to change what currencies are converted. Requires the usage of the associated command to function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
