@@ -240,14 +240,14 @@ Spinning Prize Wheel Winner Claim | 🟥 | 🟥 | Controls how the chosen winner
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-[CONFIG ME] Initial Setup | 🟥 | 🟥 | **MANDATORY:** Controls how certain arguments are set in order for various other actions to function as intended. The core folder arguments need to be configured as desired by the user, and the optional ones are to preference.
+[CONFIG ME] Initial Setup | 🟥 | 🟥 | **MANDATORY:** Controls how certain arguments are set in order for various other actions to function as intended. The core folder arguments need to be configured as desired by the user, and the optional ones are to preference. | [Berymuch](https://www.twitch.tv/Berymuch)
 Ads | 🟩 | 🟩 | Controls how notifications are sent in anticipation of an upcoming ad, what occurs when an ad is run, and also allows snoozing of ads via teh associated command. | [Berymuch](https://www.twitch.tv/Berymuch)
 Ads Timer | 🟩 | 🟥 | Controls how the duration/timer until an ad is completed is displayed when an ad is run. | [Berymuch](https://www.twitch.tv/Berymuch)
 Channel | 🟩 | 🟩 | Controls subactions that are run when your stream is online, offline, and updates. Also handles events when someone follows the channel and when markers, stream category, stream title, and clips are set or made via the associated commands. | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
 Channel Goal | 🟩 | 🟩 | Controls subactions that are run when channel goals of all types are began, in progress, and end. | [Berymuch](https://www.twitch.tv/Berymuch)
 Charity | 🟩 | 🟥 | Controls subactions that occur when charity events are started, in progress, and completed. Also triggers subactions that occur when a charity donation is received. | [Berymuch](https://www.twitch.tv/Berymuch)
 Chat | 🟩 | 🟩 | Controls subactions that occur when cheers are recieved. Also triggers when account and follow age commands are used, bits badge tiers are updated, and when detecting first/second/third chatters of the stream and recognizing them accordingly. | [Berymuch](https://www.twitch.tv/Berymuch)
-Community Goal | 🟩 | 🟥 | Controls subactions that are run when a community goal contribution is received and ended.
+Community Goal | 🟩 | 🟥 | Controls subactions that are run when a community goal contribution is received and ended. | [Berymuch](https://www.twitch.tv/Berymuch)
 Connections | 🟩 | 🟥 | Controls subactions that are run when the bot account connects/disconnects from chat, when the broadcaster successfully authenticates, when the broadcaster connects/disconnects from chat, and when connection to the Twitch Eventsub is made/lost. | [Berymuch](https://www.twitch.tv/Berymuch)
 Donations | 🟩 | 🟩 | Controls subactions that are run when donation events from KoFi/Streamlabs/StreamElements are received. Requires additional setup with each respective service as specified in the action comments. | [Berymuch](https://www.twitch.tv/Berymuch)
 General | 🟩 | 🟩 | Controls subactions that are run when the !shoutout and !noclipshoutout commands are used, and when the broadcaster receives a shoutout from another streamer. | [Berymuch](https://www.twitch.tv/Berymuch), [Liminality](https://www.twitch.tv/liminality), & [ItzApix_](https://www.twitch.tv/ItzApix_)
