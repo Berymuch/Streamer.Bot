@@ -1,10 +1,10 @@
 # COMMANDS LIST
 Thank you [Itzapix_](https://www.twitch.tv/Itzapix_) for giving me the idea and helping out with putting this site together!
 
-Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted by the user [Berymuch](https://www.twitch.tv/berymuch).
+Welcome to the web page made for listing all of chat-interactive actions on Twitch.tv, hosted and created by the user [Berymuch](https://www.twitch.tv/berymuch).
 
 > [!NOTE]
-> My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch.
+> My commands are all preceeded by an ! and support abbreviations (hp instead of headpat for example). Experiment, and have fun! Remember to also check out [this article](https://help.twitch.tv/s/article/chat-commands) for a list of commands built-in to Twitch. All documentation reflects the latest version of Botymuch.
 
 [General Commands](#General-commands)
 
