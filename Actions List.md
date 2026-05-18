@@ -81,7 +81,7 @@ Deathcounter | 🟩 | 🟥 | Lists deaths for current streaming category as well
 Deathcounter-(re)Set without changing total | 🟥 | 🟥 | Resets deaths for the current streaming category without resetting total global death count using the !deathsreset command. | [Berymuch](https://www.twitch.tv/Berymuch)
 Deathcounter-Add | 🟩 | 🟩 | Increments deaths by 1 for the current streaming category using the !death, !deaths+, or !d command. | [Berymuch](https://www.twitch.tv/Berymuch)
 Deathcounter-Rem | 🟥 | 🟥 | Decrements deaths by 1 for the current streaming category using the !deaths-. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Reset-Total-Deaths | 🟥 | 🟥 | Resets total gloabl deaths across every single streaming category using the !deathsresettotal command. | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter-Reset-Total-Deaths | 🟥 | 🟥 | Resets total global deaths across every single streaming category using the !deathsresettotal command. | [Berymuch](https://www.twitch.tv/Berymuch)
 Deathcounter-Set | 🟥 | 🟥 | Sets the death count for the current stream category to the specified amount using the !deathsset [amount] command. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
