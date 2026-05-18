@@ -146,7 +146,7 @@ Vibrate Events | 🟥 | 🟥 | Controls how the PiShock functions for vibrate ev
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-!!PiShock Code | 🟥 | 🟥 | Contains the core C# logic that runs the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+!!PiShock Code | 🟥 | 🟥 | Contains the core C# logic that runs the streamerbot PiShock integrations. The other actions in this group call back to this one. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 !PiShock Setup | 🟥 | 🟥 | Controls setup parameters for the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock ConfigForm | 🟥 | 🟥 | Controls saved configuration for the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock LoginForm | 🟥 | 🟥 | Controls saved login information for the PiShock service and API. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
@@ -159,7 +159,7 @@ PiShock ShareCodeForm | 🟥 | 🟥 | placeholder | [mxpuffin](https://mxpuffin.
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock - Climbing Shock | 🟥 | 🟥 | Contains an example setup for a climbing shock PiShock event. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock - Climbing Shock | 🟥 | 🟥 | Contains an example setup for a climbing shock PiShock event. This will gradually increase the intensity of the shock. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock - Generic Shock | 🟥 | 🟥 | Contains an example setup for a generic shock PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock - Operation Roulette | 🟥 | 🟥 | Contains an example setup for a operation roulette PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock - Pre-vibrate Shock | 🟥 | 🟥 | Contains an example setup for a pre-vibrate PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
@@ -171,7 +171,7 @@ PiShock - Pre-vibrate Shock | 🟥 | 🟥 | Contains an example setup for a pre-
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-PiShock Operate | 🟥 | 🟥 | Controls which type of operation is triggered when a PiShock event is activated. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock Operate | 🟥 | 🟥 | Controls which type of operation is triggered when a PiShock event is activated. This will activate other actions according to the input it recieves. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock OperateBeep | 🟥 | 🟥 | Triggers to activate a Beep event on the PiShock. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock OperateShock | 🟥 | 🟥 | Triggers to activate a Shock event on the PiShock. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock OperateVibrate | 🟥 | 🟥 | Triggers to activate a Vibrate event on the PiShock. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
