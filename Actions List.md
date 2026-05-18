@@ -271,7 +271,7 @@ Watch Streak Writeline | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twit
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
 𝘼𝙋𝙄𝙓 Logging Core | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Debug | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Intake | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Setup | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Writeline | 🟥 | 🟥 | placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Debug | 🟥 | 🟥 | Controls how debug events for this action are tracked, what occurs as a result, and also tracks what happened and further emulates events. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Intake | 🟥 | 🟥 | Controls how Twitch API events are tracked and stores that data for further parsing. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Setup | 🟥 | 🟥 | Controls how aspects of the logging action function and allows you to change what currencies are converted. Requires the usage of the associated command to function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Logging Writeline | 🟥 | 🟥 | Controls how the information above is written to a specified local file. | [ItzApix_](https://www.twitch.tv/ItzApix_)
