@@ -26,8 +26,8 @@ Disabler/Enabler (Redeems) | 🟩 | 🟥 | This action works as both a chat comm
 Disabler/Enabler (Share Browser) | 🟩 | 🟥 | This action works as an action switch button via the Elgato Streamdeck to toggle on-stream browser sharing functions on and off. In order to sync logic states across the streamdeck and streamerbot, a temp global variable is set when streamerbot is loaded and referenced to determine which state is currently true. The intended default is to have browsershare interactions "off" when the stream is first launched. The action also integrates a live on-stream display to show more easily to viewers whether the current state is active/inactive. | [Berymuch](https://www.twitch.tv/Berymuch) | [Berymuch](https://www.twitch.tv/Berymuch)
 Disabler/Enabler (Share Screen) | 🟩 | 🟥 | This action works as an action switch button via the Elgato Streamdeck to toggle on-stream screen sharing functions on and off. In order to sync logic states across the streamdeck and streamerbot, a temp global variable is set when streamerbot is loaded and referenced to determine which state is currently true. The intended default is to have screenshare interactions "off" when the stream is first launched. The action also integrates a live on-stream display to show more easily to viewers whether the current state is active/inactive. | [Berymuch](https://www.twitch.tv/Berymuch)
 Emergency Mode | 🟩 | 🟥 | A general kill switch to be used in the event of something like a hate raid or other negative channel event. It toggles shield mode/subscriber only mode/stream labels/onstream chat/vtuber/and browser overlays off and on. A confirmation message is also sent to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-Gacha Mode | 🟥 | 🟥 | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Nom mode | 🟥 | 🟥 | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Gacha Mode | 🟥 | 🟥 | Controls whether or not the Chat gacha features are enabled or disabled. A general killswitch activated with the associated command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Nom mode | 🟥 | 🟥 | Controls whether or not the nom command features are enabled or disabled. A general killswitch activated with the associated command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
@@ -150,7 +150,7 @@ Action | GFX | SFX | Description | Credit
 !PiShock Setup | 🟥 | 🟥 | Controls setup parameters for the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock ConfigForm | 🟥 | 🟥 | Controls saved configuration for the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock LoginForm | 🟥 | 🟥 | Controls saved login information for the PiShock service and API. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock ShareCodeForm | 🟥 | 🟥 | placeholder | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
+PiShock ShareCodeForm | 🟥 | 🟥 | Controls how a share code is handled. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
