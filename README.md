@@ -23,7 +23,7 @@ Latest version:
 
 1.  Download the latest version of the .sb file and import it into streamer bot by dragging and dropping the text file into the import window or copying and pasting the hash into the import window.
 
-2.  Update write filepaths to your preferred locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging.
+2.  Update the variables and write filepaths to your preferred values/locations in the "CONFIG ME" action at the top of the Twitch Events action group in order to enable Stream/Moderation/Summary event logging and other features.
 
 3.  **You must enable all the commands you import in the commands section of Streamer Bot.** They will be disabled by default after you import the file above.
 
