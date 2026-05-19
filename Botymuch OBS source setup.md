@@ -9,7 +9,7 @@ Follow and add the sources according to the layout below in order to activate fu
 Group Name: **Audio Sources**
 Source Name | Source Type | Function
 ------ | ------ | ------
-Streamerbot | Application Audio Capture | This source will capture audio from the built-in SFX the bot includes, if enabled (optional)
+Streamerbot | Application Audio Capture | This source will capture audio from the built-in SFX the bot includes as part of certain actions, if enabled (optional)
 	
 Group Name: **Web apps & Browser Overlays**
 Source Name | Source Type | Function
@@ -36,12 +36,12 @@ Ad Timer | GDI+ Text Source | This source is used to display the current time as
 Group Name: **Stream Labels**
 Source Name | Source Type | Function
 ------ | ------ | ------
-Stream Labels User PFP | Browser source | This source displays the profile picture of the latest username in the current label category
-Label Username | GDI+ Text source | This source displays the latest username currently active in the current label category
-Label Title | GDI+ Text source | This source displays the name of the current label category
-Label Icon | Image source | This source displays the icon associated with the current label category
+Stream Labels User PFP | Browser source | This source displays the profile picture of the latest username in the current label category and is cycled
+Label Username | GDI+ Text source | This source displays the latest username currently active in the current label category and is cycled
+Label Title | GDI+ Text source | This source displays the name of the current label category and is cycled
+Label Icon | Image source | This source displays the icon associated with the current label category and is cycled
 		
 # OBS Scene name: Shoutout Clips
 Source Name | Source Type | Function
 ------ | ------ | ------
-Shoutout Clip Player | Browser Source | This source hosts clips played when using the !shoutout command to shout people out
+Shoutout Clip Player | Browser Source | This source hosts clips played when using the !shoutout command to shout people out. Additional setup is also required in the bot setup instructions (optional)
