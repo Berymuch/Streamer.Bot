@@ -168,11 +168,12 @@ Command | Description | Credit
 !entryTextRemove, !removeTextEntry, !removeCustom, & !customRemove | Removes specified entry from the custom text file. | [Rondhi](https://www.twitch.tv/Rondhi)
 !spinCustom, !usercustomSpin, !spinw, & !wspin | Spin the custom prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !clearUserEntries & !clearUser | Clear all entries from the user group prize-wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
-!clearUserWinners | Clears all winners from the user group prize wheel. |
+!clearUserWinners | Clears all winners from the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !closeEntries & !entriesClose | Close entries for the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !openEntries & !entriesOpen | Open entries for the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !spinUser, !userSpin, !uSpin, & !spinU | Spin the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated. | [Rondhi](https://www.twitch.tv/Rondhi)
+!raidmessage & !rmsg | Modifies and saves the message sent to chat when you start raiding out. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
