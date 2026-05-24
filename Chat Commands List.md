@@ -56,11 +56,11 @@ Command | Description | Credit
 !convert & !con [value][units]| Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
 !en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦   **DATA TRACKING**   🟦🟦🟦 | 🟦🟦🟦 
-!accountage & !aa | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!accountage & !aa [username or blank] | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkgoldstars & !cgs | Display the amount of {golden stars} you have in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !checkswearjar & !csj | Posts the contents in the swear jar to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !deaths | Posts total deaths globally and in the current game to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-!followage & !fa | Display the duration you have been following Berymuch in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!followage & !fa [username or blank] | Display the duration you have been following Berymuch in chat. You can specify a specific username after the command to check their information as well. | [Berymuch](https://www.twitch.tv/Berymuch)
 !gacha total | Display current gacha stats in chat. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !pishock, !ps, & !pi | Posts information about PiShock interactions and integrations to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !pyramid & !py | Displays your current emote pyramid made and broken counters in chat. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
