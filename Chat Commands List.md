@@ -238,6 +238,7 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 403 | HTTP Error 403: Wolf forbidden | [HalloweenFoxy](https://www.twitch.tv/halloweenfoxy)
 404 | HTTP Error 404: Wolf not found | [HalloweenFoxy](https://www.twitch.tv/halloweenfoxy)
 418 | HTTP Error 418: I'm a Mugwolf | [HalloweenFoxy](https://www.twitch.tv/halloweenfoxy)
+420 | You think you know what this command might do, but you don't! | [InkEDoodles](https://www.twitch.tv/InkEDoodles)
 577 | Toss some noods  | [JadeSettRadio](https://www.twitch.tv/JadeSettRadio)
 621 | Pixellate Berymuch and play a sound effect. | [Berymuch](https://www.twitch.tv/Berymuch)
 659 | Gremlin detected! | [Itzapix_](https://www.twitch.tv/Itzapix_)
