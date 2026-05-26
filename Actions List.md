@@ -8,7 +8,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 *Current Action count: 129*
 PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 :---: | :---: | :---: | :---:
-[PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-OBS-Interactions)
+[PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
 [PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging)
@@ -113,8 +113,8 @@ ChatGPT Shoutouts v2 | 🟥 | 🟥 | Allows the usage of ChatGPT to deliver user
 
 ***
 
-<a name="Passive-OBS-Interactions"></a>
-## Passive OBS Interactions
+<a name="Passive-Interactions"></a>
+## Passive Interactions
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
