@@ -59,7 +59,7 @@ Conversion milliliters to fluid ounces | 🟥 | 🟥 | Controls behavior that us
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
 Burp Counter Increase | 🟩 | 🟩 | Increments a global variable that stores the amount of times the streamer has burped while live. It includes features the activate GFX/SFX effects and posts a confirmation message to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-Chat Gacha | 🟥 | 🟩 | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
+Stars | 🟥 | 🟩 | Placeholder | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Interactive Commands | 🟩 | 🟩 | This is a massive command switch tree that consolidates 39+ different chat commands. Features range from random facts to user interaction actions- a big thank you to ItzApix_ for the fold/push/sniff/nom commands and to Luposity for the flip/unflip/angryflip commands! | [Berymuch](https://www.twitch.tv/Berymuch), [ItzApix_](https://www.twitch.tv/ItzApix_), & [Luposity](https://www.twitch.tv/luposity)
 Links | 🟥 | 🟥 | This action consolidates around 20 different common website link requests, and ranges from things like discord to tiktok. By default, links are set up to use the Broadcaster's name in the URL and will adapt based off the current twitch account that is set to use streamerbot.| [Berymuch](https://www.twitch.tv/Berymuch)
 Quick Maths | 🟥 | 🟥 | This action powers the interactive "quick maths" chat game. Users are able to use the command to return a random or tiered math problem, and then have a set amount of time to answer it in chat. Antes can even be offered up as an incentive/bet if the user of the command is confident that tthey will be able to answer it first. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -126,7 +126,7 @@ Scene Switch (Streamdeck) | 🟥 | 🟥 | Controls behavior of Elgato StreamDeck
 Stream Duration Timer | 🟩 | 🟥 | Every minute, this action increments a global temp variable by one. This value is then used to calculate total time streamed. | [Berymuch](https://www.twitch.tv/Berymuch)
 Stream Labels Cycler | 🟩 | 🟥 | Controls the current state of the stream labels sources/group. By default, it will rotate every 12 seconds between showing the latest Follower, Subscriber, Bits giver, Donation, Raid, & Watchstreak along with the associated username and profile picture. | [Berymuch](https://www.twitch.tv/Berymuch)
 Team Member Advertisement | 🟩 | 🟥 | Controls the dispay of a randomly selected stream team meber as specified by the execude code command. By default, it is configured to use my stream team  "Go Beyond" and its members and activate every 25 minutes. | [Berymuch](https://www.twitch.tv/Berymuch)
-
+𝘼𝙋𝙄𝙓 | Axeryl UI | 🟥 | 🟥 | Used to help display a UI window when setting up the stars action and other aspects of the bot. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 ***
 
 <a name="PiShock---Twitch-Interactions"></a>
