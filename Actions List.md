@@ -126,7 +126,7 @@ Scene Switch (Streamdeck) | 🟥 | 🟥 | Controls behavior of Elgato StreamDeck
 Stream Duration Timer | 🟩 | 🟥 | Every minute, this action increments a global temp variable by one. This value is then used to calculate total time streamed. | [Berymuch](https://www.twitch.tv/Berymuch)
 Stream Labels Cycler | 🟩 | 🟥 | Controls the current state of the stream labels sources/group. By default, it will rotate every 12 seconds between showing the latest Follower, Subscriber, Bits giver, Donation, Raid, & Watchstreak along with the associated username and profile picture. | [Berymuch](https://www.twitch.tv/Berymuch)
 Team Member Advertisement | 🟩 | 🟥 | Controls the dispay of a randomly selected stream team meber as specified by the execude code command. By default, it is configured to use my stream team  "Go Beyond" and its members and activate every 25 minutes. | [Berymuch](https://www.twitch.tv/Berymuch)
-𝘼𝙋𝙄𝙓 | Axeryl UI | 🟥 | 🟥 | Used to help display a UI window when setting up the stars action and other aspects of the bot. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+𝘼𝙋𝙄𝙓 Axeryl UI | 🟥 | 🟥 | Used to help display a UI window when setting up the stars action and other aspects of the bot. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 ***
 
 <a name="PiShock---Twitch-Interactions"></a>
