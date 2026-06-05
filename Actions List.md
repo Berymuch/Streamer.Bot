@@ -11,7 +11,7 @@ PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
-[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [Mustached_Maniac ChatGPT](#Mustached_Maniac-ChatGPT) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging)
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) | 
 
 ***
 
@@ -99,20 +99,6 @@ Swear Jar | 🟩 | 🟩 | Increments a global "swearjar" variable by 10 or as a 
 
 ***
 
-<a name="Mustached_Maniac-ChatGPT"></a>
-## Mustached_Maniac ChatGPT
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-_ChatGPT Set-Up UI_ | 🟥 | 🟥 | Initializes setup for ChatGPT functions and integration. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Answers v2 | 🟥 | 🟩 | Controls the ability of the chatbot to reply to user input as directed via the ChatGPT servers and your personal API key. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Random Messaging v2 | 🟥 | 🟩 | Controls the random message response function of the ChatGPT bot. By default during setup, a probability of a 1-100% chance for the bot to reply to any message can be set. Unfortunately, this was still far too common- additional logic has been added to cut that chance down further by a factor of 10. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Recall Behavior | 🟥 | 🟥 | Controls how the bot accesses and stores the personality blueprint applied to it during setup. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Set Bot Behavior | 🟥 | 🟥 | Controls how the bot's personality blueprint is stored and set. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-ChatGPT Shoutouts v2 | 🟥 | 🟥 | Allows the usage of ChatGPT to deliver user targetted twitch shoutouts via the !gptso command. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
-
-***
-
 <a name="Passive-Interactions"></a>
 ## Passive Interactions
 
@@ -121,6 +107,7 @@ Action | GFX | SFX | Description | Credit
 Now Playing Enabler/Disabler | 🟩 | 🟥 | Controls the visibility of sources displaying info about the currently streamed category, and determines when and when not to make them visible based off of currently active OBS scenes, timed actions, streamer bot status, Twitch stream status, and clip shoutout commands. | [Berymuch](https://www.twitch.tv/Berymuch)
 Onscreen Clock | 🟩 | 🟥 | Parses system time into the format specified and saves it to the chosen OBS GDI+ text source. | [Berymuch](https://www.twitch.tv/Berymuch)
 Orb Present User Image Cycler | 🟩 | 🟥 | Controls the appearance of a "chat orb". Every 30 seconds, a random present user is chosen and has their profile pic and preferred twitch colour queried. If no preferred colour is specified, a random one is chosen. The resulting colour value is then applied to an OBS Colour Source intended to be referenced as an accent value for other sources on the stream. | [Berymuch](https://www.twitch.tv/Berymuch)
+OpenAI Response | 🟥 | 🟩 | Requires a custom OpemAI API key and additional setup within the action, and allows you to send queries to OpenAI ChatGPT models and then send the responses to Twitch chat. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Random Bot Chat Messages | 🟩 | 🟥 | Randomly selects and sends a "tip" chat message that showcases an aspect of the stream. Frequency by default is once every 20 minutes and if 75 messages have been sent (both have to be true) in chat since the last randomized message was run. | [Berymuch](https://www.twitch.tv/Berymuch)
 Scene Switch (Streamdeck) | 🟥 | 🟥 | Controls behavior of Elgato StreamDeck button presses based off of stored arguments in streamerbot. Using the streamerbot plugin for the streamdeck, this action determines which value the %sceneStatus% and %sceneStatusEnding% arguments are set to by the button press on the stream deck side. This action is then activated and, using a combination of those arguments and the state of the streamdeck button switch, responds accordingly. Values by default are associated with 1 being tied to a "starting" button, 2 with a "brb" button, and 3 with a "ending" button. | [Berymuch](https://www.twitch.tv/Berymuch)
 Stream Duration Timer | 🟩 | 🟥 | Every minute, this action increments a global temp variable by one. This value is then used to calculate total time streamed. | [Berymuch](https://www.twitch.tv/Berymuch)
