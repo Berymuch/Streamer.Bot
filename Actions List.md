@@ -11,7 +11,7 @@ PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
-[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) | 
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [User Translate](#User-Translate) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) 
 
 ***
 
@@ -65,9 +65,6 @@ Links | 🟥 | 🟥 | This action consolidates around 20 different common websit
 Quick Maths | 🟥 | 🟥 | This action powers the interactive "quick maths" chat game. Users are able to use the command to return a random or tiered math problem, and then have a set amount of time to answer it in chat. Antes can even be offered up as an incentive/bet if the user of the command is confident that tthey will be able to answer it first. | [Berymuch](https://www.twitch.tv/Berymuch)
 Quotes | 🟥 | 🟥 | This action consolidates all three major quote interactions into one switch tree. Using this logic, users are able to leverage the built in quotes system provided by streamerbot to add, delete, and display random or specific quotes that have been stored. Editing quotes is more easily done through the built in quote manager and thus a command to do so has not been implemented. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 Sub-Enhanced Commands | 🟩 | 🟩 | This action contains 5 seperate sub-enhanced commands organized under a single switch tree, and also includes functionality when non-subbed accounts try to use the commands. They also provide informative feedback in the case of improper entry and poroduce various onscreen GFX and SFX. | [Berymuch](https://www.twitch.tv/Berymuch)
-User Auto-translate | 🟥 | 🟥 | If enabled, will autopmatically detect and translate non-english chat messages. This tends to be very reactive and thus is disabled by default as common slang and internet shorthand will cause it to go off when not required. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Auto-translate File & Command | 🟥 | 🟥 | Core translation action. This action is required in order to allow other associated translation actions to function as intended. Supports word/term filtering via the !add, !remove, !list, & !clear commands. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Translate v2.1 | 🟥 | 🟥 | Calls the User Auto-translate File & Command action to query Google's API and translate a specified string of text via the '!en' command. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 Weather | 🟩 | 🟥 | Controls toggling visibility of the weather overlay I've set up in my OBS. If you would like to use a similar weather function, please refer to [this website](https://obsproject.com/forum/resources/current-live-weather-and-time-overlay.1605/) in order to get it running. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
@@ -251,6 +248,17 @@ Shared Chat | 🟥 | 🟥 | Controls subactions that are run when various shared
 Subscriptions | 🟩 | 🟩 | Controls subactions that are run when subs of any type are received. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 Watch Streak Core | 🟩 | 🟩 | Controls subactions that are run when a watchstreak is shared. Also triggers when the !watchstreak command is used and returns information based on the input parameters. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Watch Streak Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to watchstreak events as dictated by the core watchstreak action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+
+***
+
+<a name="User-Translate"></a>
+## User Translate
+
+Action | GFX | SFX | Description | Credit
+:--- | :---: | :---: | :--- | :---:
+User Auto-translate | 🟥 | 🟥 | If enabled, will autopmatically detect and translate non-english chat messages. This tends to be very reactive and thus is disabled by default as common slang and internet shorthand will cause it to go off when not required. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Auto-translate File & Command | 🟥 | 🟥 | Core translation action. This action is required in order to allow other associated translation actions to function as intended. Supports word/term filtering via the !add, !remove, !list, & !clear commands. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
+User Translate v2.1 | 🟥 | 🟥 | Calls the User Auto-translate File & Command action to query Google's API and translate a specified string of text via the '!en' command. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 
 ***
 
