@@ -5,7 +5,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Documentation reflects the latest version of Botymuch.
 
-*Current Action count: 129*
+*Current Action count: 123*
 PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive OBS Interactions](#Passive-Interactions)
