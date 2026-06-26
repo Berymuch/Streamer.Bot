@@ -57,7 +57,7 @@ Command | Description | Credit
 !en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦   **DATA TRACKING**   🟦🟦🟦 | 🟦🟦🟦 
 !accountage & !aa [username or blank] | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. | [Berymuch](https://www.twitch.tv/Berymuch)
-!star [total/username/give [username]/steal [username]] | Display the amount of stars you have in chat. You can also give stars to others, check how many stars someone else has, and steal from specified users. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!stars [total/username/give [username]/steal [username]] | Display the amount of stars you have in chat. You can also give stars to others, check how many stars someone else has, and steal from specified users. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !checkswearjar & !csj | Posts the contents in the swear jar to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !deaths | Posts total deaths globally and in the current game to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !followage & !fa [username or blank] | Display the duration you have been following Berymuch in chat. You can specify a specific username after the command to check their information as well. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -150,7 +150,7 @@ Command | Description | Credit
 !alert & !a | Display a sticky note on Berymuch's model saying "Bery DM's", aswell as play a clear sound. ==Use this to grab Berymuch's attention for important stuff that needs immediate attention that cannot be neglected.== Using this also automatically assumes you have already written your message in Berymuch's DMs **on Twitch**. As long as this improves viewing experience for one or more without it being annoying, make sure to use this and grab Berymuch's attention when he DOES end up missing stuff. | [Berymuch](https://www.twitch.tv/Berymuch)
 !alertoff & !ao | Disables the command above, aka "!alert". | [Berymuch](https://www.twitch.tv/Berymuch)
 !death- |  Decrease and display a global counter for each time Berymuch has died in-game. | [Berymuch](https://www.twitch.tv/Berymuch)
-!star [on/off/setup/chance] or [set/add/remove/ban/unban [username]] | Used to turn the chat gacha on or off, setup the gacha, and modify chances. You can also add and remove stars to the targeted user, set a specified amount, or ban and unban them from collecting stars and engaging with the chat currency function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!star [on/off/setup/chance] or [set/add/remove [username]] | Used to turn the chat gacha on or off, setup the gacha, and modify chances. You can also add and remove stars to the targeted user, set a specified amount, or ban and unban them from collecting stars and engaging with the chat currency function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !marker & !m | Create a timestamp for current stream. | [Berymuch](https://www.twitch.tv/Berymuch)
 !nommode, !nom mode, & !nm | Toggles the Nom command on and off. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !poll & !pl | Create a poll on the current stream. Use \| to separate it into: "!poll [pollname] \| [answer 1] \| [answer 2]" etc. You can also terminate the poll early by adding terminate after the command. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
