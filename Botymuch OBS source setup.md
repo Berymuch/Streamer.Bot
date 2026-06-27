@@ -56,7 +56,12 @@ Source Name | Source Type | Function
 ------ | ------ | ------
 Teammate Name | GDI+ Text Source | This source will display the name of a randomly chosen stream team member
 Ad Timer | GDI+ Text Source | This source is used to display the current time as well as the ad timer countdown
-Death Display | GDI+ Text Source | This source is used to display death count information	
+Death Symbol | Image | This source is used to display the icon for deaths (optional)
+Death Display | GDI+ Text Source | This source is used to display death count information (optional)
+Screenshare Status PNG | Image | This source is used to display the icon for an active screenshare (optional)
+PiShock Status PNG | Image | This source is used to display the icon for an active PiShock (optional)
+Nuts Status PNG | Image | This source is used to display the icon for active nut commands (optional)
+Redeem Status PNG | Image | This source is used to display the icon for active redeems (optional)
 
 Group Name: **Stream Labels**
 Source Name | Source Type | Function
