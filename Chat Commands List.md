@@ -65,6 +65,7 @@ Command | Description | Credit
 !pishock, !ps, & !pi | Posts information about PiShock interactions and integrations to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !pyramid & !py | Displays your current emote pyramid made and broken counters in chat. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !quote & !q | Display a random available quote in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!quotelist & !ql | Displays the total amount of quotes. | [Berymuch](https://www.twitch.tv/Berymuch)
 !quote [number] & !q [number] | Display the quote at {quote #} position in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !temp, !t, !weather, & !w | Shows the current weather near the streamer. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchtime & !wt | Posts the user's watchtime to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
