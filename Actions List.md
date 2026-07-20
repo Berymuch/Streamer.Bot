@@ -9,7 +9,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive Interactions](#Passive-Interactions)
-[PiShock V2 - Core](#PiShock-V2---Core) | [Chat Command Unit Conversion](#Chat-Command-Unit-Conversion) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
+[PiShock V2 - Core](#PiShock-V2---Core) |  | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
 [PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | [User Translate](#User-Translate) | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) 
 
@@ -28,28 +28,6 @@ Disabler/Enabler (Share Screen) | 🟩 | 🟥 | This action works as an action s
 Emergency Mode | 🟩 | 🟥 | A general kill switch to be used in the event of something like a hate raid or other negative channel event. It toggles shield mode/subscriber only mode/stream labels/onstream chat/vtuber/and browser overlays off and on. A confirmation message is also sent to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 Gacha Mode | 🟥 | 🟥 | Controls whether or not the Chat gacha features are enabled or disabled. A general killswitch activated with the associated command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Nom mode | 🟥 | 🟥 | Controls whether or not the nom command features are enabled or disabled. A general killswitch activated with the associated command. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-
-***
-
-<a name="Chat-Command-Unit-Conversion"></a>
-## Chat Command Unit Conversion
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-Conversion C to F | 🟥 | 🟥 | Controls behavior that uses user input to convert from celsius to farenheit. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion CM to In | 🟥 | 🟥 | Controls behavior that uses user input to convert from centimeters to inches. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion Command Check | 🟥 | 🟥 | Controls behavior that uses user input to return a list of associated command functions. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion F to C | 🟥 | 🟥 | Controls behavior that uses user input to convert from farenheit to celsius. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion fluid ounces to milliliters | 🟥 | 🟥 | Controls behavior that uses user input to convert from ounces to milliliters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion Ft to CM | 🟥 | 🟥 | Controls behavior that uses user input to convert from feet to centimeters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion Ft to M | 🟥 | 🟥 | Controls behavior that uses user input to convert from feet to meters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion In to CM | 🟥 | 🟥 | Controls behavior that uses user input to convert from inches to centimeters. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion Kg to lbs | 🟥 | 🟥 | Controls behavior that uses user input to convert from kilograms to pounds. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion KM to MI | 🟥 | 🟥 | Controls behavior that uses user input to convert from kilometers to miles. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion lbs to Kg | 🟥 | 🟥 | Controls behavior that uses user input to convert from pounds to kilograms. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion M to Ft | 🟥 | 🟥 | Controls behavior that uses user input to convert from meters to feet. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion Mi to KM | 🟥 | 🟥 | Controls behavior that uses user input to convert from miles to kilometers. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
-Conversion milliliters to fluid ounces | 🟥 | 🟥 | Controls behavior that uses user input to convert from milliliters to fluid ounces. | [Rondhi](https://extensions.streamer.bot/t/chat-command-unit-conversion/69)
 
 ***
 
