@@ -226,7 +226,7 @@ Shared Chat | 🟥 | 🟥 | Controls subactions that are run when various shared
 Subscriptions | 🟩 | 🟩 | Controls subactions that are run when subs of any type are received. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 Watch Streak Core | 🟩 | 🟩 | Controls subactions that are run when a watchstreak is shared. Also triggers when the !watchstreak command is used and returns information based on the input parameters. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Watch Streak Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to watchstreak events as dictated by the core watchstreak action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-Watch Time | 🟥 | 🟥 | Controls subactions that are run when Present Users are updated and watchtime is queried. Also triggers when the !watchtime command is used and returns information based on the input parameters. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+Watch Time | 🟥 | 🟥 | Controls subactions that are run when Present Users are updated and watchtime is queried. Also triggers when the !watchtime command is used and returns information based on the input parameters. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
