@@ -69,7 +69,7 @@ Command | Description | Credit
 !quote [number] & !q [number] | Display the quote at {quote #} position in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !temp, !t, !weather, & !w | Shows the current weather near the streamer. | [Berymuch](https://www.twitch.tv/Berymuch)
 !watchstreak [username or # or rank or leave blank] | Display current top 5 highest watchstreaks on this channel as a leaderboard in chat. if additional input is included after the command, will post more precise information. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-!watchtime [username or blank] & !watchtime as a chat message reply | Display the date of your watchtime for the current channel on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Berymuch](https://www.twitch.tv/Berymuch)
+!watchtime [username or blank] & !watchtime as a chat message reply | Display the date of your watchtime for the current channel on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Berymuch](https://www.twitch.tv/Berymuch) & [GoWMan](https://extensions.streamer.bot/t/watchtime-v2-0-track-user-time/152)
 🟦🟦🟦 | 🟦🟦🟦   **USER SPECIFIC**   🟦🟦🟦 | 🟦🟦🟦
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
