@@ -6,7 +6,7 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > Many of the actions in this bot are in active development and also update irregularly. Documentation reflects the latest version of Botymuch.
 
 *Current Action count: 111*
-PiShock | Commands | Spinning Prizewheel | Twitch API
+PiShock Interactions | Commands | Spinning Prizewheel | Twitch API Interactions
 :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
