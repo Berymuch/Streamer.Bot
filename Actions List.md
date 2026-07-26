@@ -9,9 +9,9 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 PiShock | Commands | Spinning Prizewheel & Chat GPT Integrations | Twitch API
 :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive Interactions](#Passive-Interactions)
-[PiShock V2 - Core](#PiShock-V2---Core) | [User Translate](#User-Translate) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
+[PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
-[PiShock V2 - Operations](#PiShock-V2---Operations) | [Moderator Commands](#Moderator-Commands) | | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) 
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [User Translate](#User-Translate) | | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) 
 
 ***
 
