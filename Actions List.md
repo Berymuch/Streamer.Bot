@@ -36,6 +36,7 @@ Nom mode | 🟥 | 🟥 | Controls whether or not the nom command features are en
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
 Burp Counter Increase | 🟩 | 🟩 | Increments a global variable that stores the amount of times the streamer has burped while live. It includes features the activate GFX/SFX effects and posts a confirmation message to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+Deathcounter | 🟩 | 🟥 | Lists deaths for current streaming category as well as returning total global death count. Also resets/increments/decrements death counts for the current streaming category, allows for reseting the global deathcount across all categories, and lets you set a specific value for deaths in the current stream category using the appropriate commands. Please see the documentation within the action for further details and direction. | [Berymuch](https://www.twitch.tv/Berymuch)
 Gamba | 🟥 | 🟥 | The Gamba command allows users to gamble their chat currency in various ways.  | [Berymuch](https://www.twitch.tv/Berymuch)
 Interactive Commands | 🟩 | 🟩 | This is a massive command switch tree that consolidates 40+ different chat commands. Features range from random facts to user interaction actions- a big thank you to ItzApix_ for the fold/push/sniff/nom commands and to Luposity for the flip/unflip/angryflip commands! | [Berymuch](https://www.twitch.tv/Berymuch), [ItzApix_](https://www.twitch.tv/ItzApix_), & [Luposity](https://www.twitch.tv/luposity)
 Links | 🟥 | 🟥 | This action consolidates around 20 different common website link requests, and ranges from things like discord to tiktok. By default, links are set up to use the Broadcaster's name in the URL and will adapt based off the current twitch account that is set to use streamerbot.| [Berymuch](https://www.twitch.tv/Berymuch)
@@ -45,20 +46,6 @@ Random Bot Chat Messages | 🟩 | 🟥 | Randomly selects and sends a "tip" chat
 Stars system (Award events) | 🟥 | 🟥 | Contains logic that controls how, when, and to what amount stars are awarded for user interactivity with the stream. | [Berymuch](https://www.twitch.tv/Berymuch)
 Stars system (No fuzzy match) | 🟥 | 🟩 | Allows for the implementation of a chat message gacha system! The system is fully customizable when setup using the directions provided in the action, and gives a chance for every chat message to allow a user to earn a currency that can be used however is desired. Allows users to also check the total amount of currency they have, give some to others, steal currency, wager it with various other commands, and have it incremented, set, and decremented by mods. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Sub-Enhanced Commands | 🟩 | 🟩 | This action contains 5 seperate sub-enhanced commands organized under a single switch tree, and also includes functionality when non-subbed accounts try to use the commands. They also provide informative feedback in the case of improper entry and poroduce various onscreen GFX and SFX. | [Berymuch](https://www.twitch.tv/Berymuch)
-
-***
-
-<a name="Chat-Commands"></a>
-## Deathcounter
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-Deathcounter | 🟩 | 🟥 | Lists deaths for current streaming category as well as returning total global death count using the !deaths command. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-(re)Set without changing total | 🟥 | 🟥 | Resets deaths for the current streaming category without resetting total global death count using the !deathsreset command. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Add | 🟩 | 🟩 | Increments deaths by 1 for the current streaming category using the !death, !deaths+, or !d command. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Rem | 🟥 | 🟥 | Decrements deaths by 1 for the current streaming category using the !deaths-. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Reset-Total-Deaths | 🟥 | 🟥 | Resets total global deaths across every single streaming category using the !deathsresettotal command. | [Berymuch](https://www.twitch.tv/Berymuch)
-Deathcounter-Set | 🟥 | 🟥 | Sets the death count for the current stream category to the specified amount using the !deathsset [amount] command. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
