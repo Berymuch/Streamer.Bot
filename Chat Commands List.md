@@ -96,6 +96,7 @@ lose & l | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeTh
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result. | [Berymuch](https://www.twitch.tv/Berymuch)
 win & w | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal" | [Berymuch](https://www.twitch.tv/Berymuch)
 !yarr & !yr | Reminds you that you should, in fact, not yarr at him in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!tip | Sends a chat message with a random tip about how the stream functions | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
