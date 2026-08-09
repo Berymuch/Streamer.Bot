@@ -92,7 +92,7 @@ lose & l | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeTh
 !nut [number] | A sub-trigger for multiple other interactibles. See below for more. | [Berymuch](https://www.twitch.tv/Berymuch)
 !orb | Shares info about The Orb in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !proverb | Posts a random Chinese proverb in chat! | [Berymuch](https://www.twitch.tv/Berymuch)
-!gamba [number or all] | Gamble your stars for a chance at doubling your wager or nothing...or go all-in! | [Berymuch](https://www.twitch.tv/Berymuch)
+!gamba [number, all/half/third/quarter, or 100%/50%/33%/25%] | Gamble your stars for a chance at doubling your wager or nothing...or go all-in! | [Berymuch](https://www.twitch.tv/Berymuch)
 !quickmath [blank or value 1-5] [ante amount]| Start a chat game where the first user to reply with the correct answer wins. Questions are randomized by default, reward Silver Stars when answered correctly, and you can also specify question difficulty by including a number from 1-5 after the command! This command also allows you to bet chat points/stars as a wager and extra reward for whoever answers the question correctly first. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result. | [Berymuch](https://www.twitch.tv/Berymuch)
 win & w | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal" | [Berymuch](https://www.twitch.tv/Berymuch)
