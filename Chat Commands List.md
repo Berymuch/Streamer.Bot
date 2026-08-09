@@ -219,6 +219,7 @@ clothes | Toggle Berymuch's clothes, currently works only on werebery. | [Berymu
 1-100 | Throws this number of nuts at Berymuch. | [VectorVibes_](https://www.twitch.tv/VectorVibes_)
 3.14 | Throw a pie at Berymuch... Ha, get it?... | [Berymuch](https://www.twitch.tv/Berymuch)
 8 | Hit that wolf with the leaf blower! | [Grizzbear7](https://www.twitch.tv/grizzbear7)
+12 | ...do ya'll hear that? | [Grizzbear7](https://www.twitch.tv/grizzbear7)
 13 | We have achieved plap liftoff | [RoseEclipz](https://www.twitch.tv/RoseEclipz)
 15 | Fires of festive and randomized fireworks! Someone's Birthday? A special event? Bery just died? FIREWORKS :D! | [Semphelis](https://www.twitch.tv/semphelis)
 25 | Throw a flashbang on the screen. | [Sylec](https://x.com/lunathal)
