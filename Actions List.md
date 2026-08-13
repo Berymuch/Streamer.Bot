@@ -134,7 +134,6 @@ PiShock OperateVibrate | 🟥 | 🟥 | Triggers to activate a Vibrate event on t
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
 Twitch Redeems | 🟩 | 🟩 | Controls how triggers are sent to VNyan to engage redeem logic and per-user redeem access. Required for my Vnyan redeem logic to function. | [Berymuch](https://www.twitch.tv/Berymuch)
-Za Warudo Screenshot VTuber | 🟩 | 🟥 | Controls when a screenshot is taken of the specified OBS source. Works in tandem with and is called by the Za Warudo! action in streamerbot. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
