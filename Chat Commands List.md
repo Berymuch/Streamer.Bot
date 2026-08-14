@@ -178,8 +178,8 @@ Command | Description | Credit
 !spinUser, !userSpin, !uSpin, & !spinU | Spin the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated. | [Rondhi](https://www.twitch.tv/Rondhi)
 !raidmessage & !rmsg | Modifies and saves the message sent to chat when you start raiding out. | [Berymuch](https://www.twitch.tv/Berymuch)
-!spamjailadd [username] | Adds the specified user to the Spammer Jail user group and blocks them from issuing chat commands. Spending channel points on redeems will also result in those redeems not functioning and points being wasted. | [Berymuch](https://www.twitch.tv/Berymuch)
-!spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
+!spamjailadd [username] | Adds the specified user to the Spammer Jail user group and blocks them from issuing chat commands, redeems, and triggering bits and subs logic. Spending channel points on redeems will also result in those redeems not functioning and points being wasted. | [Berymuch](https://www.twitch.tv/Berymuch)
+!spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands and triggering bits and subs logic. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
