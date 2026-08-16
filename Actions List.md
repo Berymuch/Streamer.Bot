@@ -11,7 +11,7 @@ PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API 
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
 [PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
-[PiShock V2 - Operations](#PiShock-V2---Operations) | [User Translate](#User-Translate) | | [𝘼𝙋𝙄𝙓 Logging](#𝘼𝙋𝙄𝙓-Logging) 
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [User Translate](#User-Translate) | | 
 
 ***
 
@@ -206,6 +206,7 @@ Pyramid Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specif
 Raid | 🟩 | 🟩 | Controls subactions that are run when a Raid is received, sent, started, and cancelled. Also controls how the raid message is set and saved via the !raidmessage command. | [Berymuch](https://www.twitch.tv/Berymuch)
 Shared Chat | 🟥 | 🟥 | Controls subactions that are run when various shared chat events are triggered. | [Berymuch](https://www.twitch.tv/Berymuch)
 Subscriptions | 🟩 | 🟩 | Controls subactions that are run when subs of any type are received. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
+Summarizer Core | 🟥 | 🟥 | Controls core functions and logic that other associated actions call back to in order to run. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Watch Streak Core | 🟩 | 🟩 | Controls subactions that are run when a watchstreak is shared. Also triggers when the !watchstreak command is used and returns information based on the input parameters. | [ItzApix_](https://www.twitch.tv/ItzApix_) & [Berymuch](https://www.twitch.tv/Berymuch)
 Watch Streak Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to watchstreak events as dictated by the core watchstreak action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Watch Time | 🟥 | 🟥 | Controls subactions that are run when Present Users are updated and watchtime is queried. Also triggers when the !watchtime command is used and returns information based on the input parameters. | [Berymuch](https://www.twitch.tv/Berymuch) & [GoWMan](https://extensions.streamer.bot/t/watchtime-v2-0-track-user-time/152)
@@ -221,15 +222,4 @@ User Auto-translate | 🟥 | 🟥 | If enabled, will autopmatically detect and t
 User Auto-translate File & Command | 🟥 | 🟥 | Core translation action. This action is required in order to allow other associated translation actions to function as intended. Supports word/term filtering via the !add, !remove, !list, & !clear commands. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 User Translate v2.1 | 🟥 | 🟥 | Calls the User Auto-translate File & Command action to query Google's API and translate a specified string of text via the '!en' command. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 
-***
 
-<a name="𝘼𝙋𝙄𝙓-Logging"></a>
-## 𝘼𝙋𝙄𝙓 Logging
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-𝘼𝙋𝙄𝙓 Logging Core | 🟥 | 🟥 | Controls core functions and logic that other associated actions call back to in order to run. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Debug | 🟥 | 🟥 | Controls how debug events for this action are tracked, what occurs as a result, and also tracks what happened and further emulates events. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Intake | 🟥 | 🟥 | Controls how Twitch API events are tracked and stores that data for further parsing. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Setup | 🟥 | 🟥 | Controls how aspects of the logging action function and allows you to change what currencies are converted. Requires the usage of the associated command to function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-𝘼𝙋𝙄𝙓 Logging Writeline | 🟥 | 🟥 | Controls how the information above is written to a specified local file. | [ItzApix_](https://www.twitch.tv/ItzApix_)
