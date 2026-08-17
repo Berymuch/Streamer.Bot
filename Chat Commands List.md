@@ -142,7 +142,7 @@ Command | Description | Credit
 !quoteadd [text] & !qa as a chat message reply | [text] or the replied to chat message's contents will be added as the newest available quote. | [Berymuch](https://www.twitch.tv/Berymuch)
 !wolfkisser [name] & !wk [name] | Give a wolfish kiss to a targeted user in chat, and on-screen. | [Berymuch](https://www.twitch.tv/Berymuch)
 !hatchange [message] & !hc | Put a hat on Berymuch's model (only works on wolf Bery and werebery) if there is none, as well as change the text displayed on the hat. This command works alongside my VNyan logic. | [Berymuch](https://www.twitch.tv/Berymuch)
-@Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer. | [mustached_maniac](https://www.twitch.tv/mustached_maniac)
+@Botymuch | Mention @Botymuch to use the current message as a GPT request, and @Botymuch will (probably) respond back with an answer. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
