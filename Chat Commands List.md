@@ -50,6 +50,7 @@ Command | Description | Credit
 !push [name] & !push as a chat message reply | Pushes the target name with a random outcome and amount of force. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !rotate [username] & !rotate as a chat message reply | Randomly rotates target user. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 !sniff [name] & !sniff as a chat message reply | Sniffs the targetted user and tells you how they smell! If there is no target specified, you sniff yourself. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!kidnap | Kidnaps the targeted user. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Berymuch](https://www.twitch.tv/Berymuch) & [Luposity](https://www.twitch.tv/luposity)
 🟦🟦🟦 | 🟦🟦🟦   **CHAT MESSAGE MODIFICATION**   🟦🟦🟦 | 🟦🟦🟦 
 !flip [message] & !flip as a chat message reply | Flips the message. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Luposity](https://www.twitch.tv/Luposity)
 !unflip [message] & !unflip as a chat message reply | Unflips the message :o. If the command is sent as a reply to another message, it will use the targetted messages author as a target. |[Luposity](https://www.twitch.tv/Luposity)
@@ -97,7 +98,8 @@ lose & l | Reply with "NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeTh
 !roll [amount of dice]d[amount of faces]| (General version) Roll the specified number and type of dice and get an approximated result. | [Berymuch](https://www.twitch.tv/Berymuch)
 win & w | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal" | [Berymuch](https://www.twitch.tv/Berymuch)
 !yarr & !yr | Reminds you that you should, in fact, not yarr at him in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-!tip | Sends a chat message with a random tip about how the stream functions | [Berymuch](https://www.twitch.tv/Berymuch)
+!tip | Sends a chat message with a random tip about how the stream functions. | [Berymuch](https://www.twitch.tv/Berymuch)
+!refund | Request a refund to be sent at the time specified (not really). | [Berymuch](https://www.twitch.tv/Berymuch)
 
 ***
 
