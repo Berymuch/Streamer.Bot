@@ -185,7 +185,7 @@ Command | Description | Credit
 !spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands and triggering bits and subs logic. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
 !log | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !summary | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
-!landmine [blank] | Used to plant a chat landmine! Anyone who steps on it with a chat message will trigger it and time themselves out for 15s. If the deactivation code is guessed correctly (chosen randomly between 2-100), the person who defuses the landmine receives +10% of their total chat currency! | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
+!landmine [blank, soft, or hard] | Used to plant a chat landmine! When the soft modifier is used, the landmine will only surprise, and when the hard modifier is used anyone who steps on it with a chat message will trigger it and time themselves out for 15s. If no landmine is currently out the command will default to planting a hardmine when used by a moderator. If the deactivation code is guessed correctly (chosen randomly between 2-100), the person who defuses the landmine receives +10% of their total chat currency! | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
