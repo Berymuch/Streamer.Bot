@@ -19,7 +19,7 @@ Welcome to the web page made for listing all of chat-interactive actions on Twit
 [Nut Commands](#Nut-commands)
 
 ***
-*Current Command count: 143*
+*Current Command count: 190*
 <a name="General-commands"></a>
 ## General commands
 
