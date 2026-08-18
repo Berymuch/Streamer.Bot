@@ -100,6 +100,7 @@ win & w | Reply with "FootGoal FootGoal FootGoal FootGoal FootGoal" | [Berymuch]
 !yarr & !yr | Reminds you that you should, in fact, not yarr at him in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !tip | Sends a chat message with a random tip about how the stream functions. | [Berymuch](https://www.twitch.tv/Berymuch)
 !refund | Request a refund to be sent at the time specified (not really). | [Berymuch](https://www.twitch.tv/Berymuch)
+!landmine [check] | Tells you roughly how close the landmine is... | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
@@ -184,6 +185,7 @@ Command | Description | Credit
 !spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands and triggering bits and subs logic. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
 !log | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !summary | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!landmine [blank] | Used to plant a chat landmine! Anyone who steps on it with a chat message will trigger it and time themselves out for 15s. If the deactivation code is guessed correctly (chosen randomly between 2-100), the person who defuses the landmine receives +10% of their total chat currency! | [Berymuch](https://www.twitch.tv/Berymuch) & [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
