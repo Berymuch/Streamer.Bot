@@ -182,6 +182,8 @@ Command | Description | Credit
 !raidmessage & !rmsg | Modifies and saves the message sent to chat when you start raiding out. | [Berymuch](https://www.twitch.tv/Berymuch)
 !spamjailadd [username] | Adds the specified user to the Spammer Jail user group and blocks them from issuing chat commands, redeems, and triggering bits and subs logic. Spending channel points on redeems will also result in those redeems not functioning and points being wasted. | [Berymuch](https://www.twitch.tv/Berymuch)
 !spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands and triggering bits and subs logic. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
+!log | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
+!summary | Used in tandem with the stream summary function. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 
 ***
 
