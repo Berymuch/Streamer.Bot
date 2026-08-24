@@ -1,6 +1,6 @@
 # Botymuch (Powered by [Streamer.Bot](https://streamer.bot/))
 > [!NOTE]
-> Botymuch v1.6.8 is a major release that changes how redeems are handled on a per-user basis. This will result in the duplication of some functions if updating from a previous version, and also means that both my VNyan and Streamer Bot logic are required in order for my redeems to function. Botymuch requires the latest stable version of Streamer.bot.
+> Botymuch v1.6.8 is a major release that changes how redeems are handled on a per-user basis. This will result in the duplication of some functions if updating from a previous version, and also means that both my latest VNyan and Streamer Bot logic are required in order for my logic to function as intended. Botymuch requires the latest stable version of Streamer.bot.
 
 Command Documentation | Action Documentation | OBS Documentation | SFX Files | Clip Player | StreamDeck Profile
 :-: | :-: | :-: | :-: | :-: | :-:
