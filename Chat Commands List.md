@@ -123,7 +123,7 @@ Command | Description | Credit
 !kofishop & !ks | Posts a link to the streamer's Ko-Fi shop page. This is set to use the Broadcaster's username by default.  | [Berymuch](https://www.twitch.tv/Berymuch)
 !merch | Posts a link to the streamer's Merch page. This is set to use the Broadcaster's username by default.  | [Berymuch](https://www.twitch.tv/Berymuch)
 !song & !s | Display the current song playing in chat as a [Spotify](https://open.spotify.com) link. | [Berymuch](https://www.twitch.tv/Berymuch)
-!team & !tm | Posts a link to the streamer's current team in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!team & !tm | Posts a link to the streamer's current team in chat. Will post multiple links if the streamer is part of multiple teams. | [Berymuch](https://www.twitch.tv/Berymuch)
 !tiktok | Posts a link to the streamer's Tiktok page. This is set to use the Broadcaster's username by default.  | [Berymuch](https://www.twitch.tv/Berymuch)
 !twitter | Posts a link to the streamer's Twitter page. This is set to use the Broadcaster's username by default.  | [Berymuch](https://www.twitch.tv/Berymuch)
 !webpage | Posts a link to the streamer's personal Webpage. This is set to use the Broadcaster's username by default.  | [Berymuch](https://www.twitch.tv/Berymuch)
