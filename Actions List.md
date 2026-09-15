@@ -6,11 +6,11 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > Many of the actions in this bot are in active development and also update irregularly. Documentation reflects the latest version of Botymuch.
 
 *Current Action count: 100*
-PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API Interactions
-:---: | :---: | :---: | :---:
-[PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Passive Interactions](#Passive-Interactions)
+PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API Interactions | Other
+:---: | :---: | :---: | :---: | :---:
+[PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Twitch interactions](#Twitch-interactions) | [Passive Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
-[PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | [Twitch interactions](#Twitch-interactions)
+[PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | |
 [PiShock V2 - Operations](#PiShock-V2---Operations) | [User Translate](#User-Translate) | | 
 
 ***
