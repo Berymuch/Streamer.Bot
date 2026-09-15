@@ -69,7 +69,7 @@ Swear Jar | 🟩 | 🟩 | Increments a global "swearjar" variable by 10 or as a 
 
 Action | GFX | SFX | Description | Credit
 :--- | :---: | :---: | :--- | :---:
-CTRL-Z Tracker | 🟩 | 🟥 | Tracks the amount of times the streamer presses CTRL-Z! Stores both a lifetime total and a session total, and allows usage of the associated comand to post the values for both to Twitch chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+CTRL-Z Tracker | 🟩 | 🟥 | Tracks the amount of times the streamer presses CTRL-Z! Stores both a lifetime total and a session total, and allows usage of the associated command to send the values for both to Twitch chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 Now Playing Enabler/Disabler | 🟩 | 🟥 | Controls the visibility of sources displaying info about the currently streamed category, and determines when and when not to make them visible based off of currently active OBS scenes, timed actions, streamer bot status, Twitch stream status, and clip shoutout commands. | [Berymuch](https://www.twitch.tv/Berymuch)
 Onscreen Clock | 🟩 | 🟥 | Parses system time into the format specified and saves it to the chosen OBS GDI+ text source. | [Berymuch](https://www.twitch.tv/Berymuch)
 Orb Present User Image Cycler | 🟩 | 🟥 | Controls the appearance of a "chat orb". Every 30 seconds, a random present user is chosen and has their profile pic and preferred twitch colour queried. If no preferred colour is specified, a random one is chosen. The resulting colour value is then applied to an OBS Colour Source intended to be referenced as an accent value for other sources on the stream. Will also increment stars amount for the person who is chosen by the orb by 10.| [Berymuch](https://www.twitch.tv/Berymuch)
