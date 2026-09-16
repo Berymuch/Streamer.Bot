@@ -72,7 +72,7 @@ Command | Description | Credit
 !watchtime [username or blank] & !watchtime as a chat message reply | Display the date of your watchtime for the current channel on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. If the command is sent as a reply to another message, it will use the targetted message's author as a target. | [Berymuch](https://www.twitch.tv/Berymuch) & [GoWMan](https://extensions.streamer.bot/t/watchtime-v2-0-track-user-time/152)
 !uptime | Shows how long the stream has been live in minutes. Useful if the stream connection drops or is unstable. | [Berymuch](https://www.twitch.tv/Berymuch)
 !teaminfo [username] & !teaminfo as a chat message reply | Shows which stream teams the target user is a part of. | [Berymuch](https://www.twitch.tv/Berymuch)
-!ctrlz & !undo | Shows how many times the streamer has pressed CTRL-Z total and for the current stream. | [Berymuch](https://www.twitch.tv/Berymuch)
+!ctrlz & !undo | Shows how many times the streamer has pressed CTRL-Z total and for the current stream, as well as the current stream highscore! | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦   **USER SPECIFIC**   🟦🟦🟦 | 🟦🟦🟦
 !8ball [question] | Respond with one of the Magic 8 ball responses in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 bad bot | Publicly execute the chatbot! | [Berymuch](https://www.twitch.tv/Berymuch)
