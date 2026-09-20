@@ -86,7 +86,8 @@ good bot | Publicly praise the chatbot uwu. | [Berymuch](https://www.twitch.tv/B
 !vanish | Holds the user accountable. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦   **GENERAL**   🟦🟦🟦 | 🟦🟦🟦
 !bighug & !bh | Gives a hug big enough to catch every single current viewer in chat! WOWEE | [Berymuch](https://www.twitch.tv/Berymuch)
-!burp & !bp | Display the global counter for however many times Berymuch has burped on stream in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
+!burp & !bp [total or blank] | Display the global counter for however many times Berymuch has burped on stream in chat. If total is included after the command, will return the current value of burps to chat and not increment the counter. | [Berymuch](https://www.twitch.tv/Berymuch)
+!distraction & !dis [total or blank] | Display the global counter for however many times Berymuch has been distracted on stream in chat. If total is included after the command, will return the current value of distractions to chat and not increment the counter. | [Berymuch](https://www.twitch.tv/Berymuch)
 !clip [duration in sec] [title] | Create a clip with the specified parameters and ending at the time command was sent (a stream marker is also created). If no parameters are specified, a default time of 30s is used. Clips can also be configured to be autodownloaded to a specific folder in your PC by configuring settings within the "Channel" action under Twitch interactions (check inside the command triggered subtree switchcase). | [Luposity](https://www.twitch.tv/Luposity)
 !coinflip | Flips a coin and posts the result to chat. | [Berymuch](https://www.twitch.tv/Berymuch)
 !fuzzyfact & !ff | This command is closely tied to the "Fuzzy Fact" redeem. The command displays a random available line in chat, that was added through the redeem, that is always a random fact about somebody's original character. | [Berymuch](https://www.twitch.tv/Berymuch)
