@@ -5,13 +5,13 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Documentation reflects the latest version of Botymuch.
 
-*Current Action count: 100*
+*Current Action count: 96*
 PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API Interactions | Other
 :---: | :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Twitch interactions](#Twitch-interactions) | [Passive Interactions](#Passive-Interactions)
 [PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
-[PiShock V2 - Examples](#PiShock-V2---Examples) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | |
-[PiShock V2 - Operations](#PiShock-V2---Operations) | [User Translate](#User-Translate) | | 
+[PiShock V2 - Operations](#PiShock-V2---Operations) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | |
+ | [User Translate](#User-Translate) | | 
 
 ***
 
@@ -103,18 +103,6 @@ Action | GFX | SFX | Description | Credit
 PiShock ConfigForm | 🟥 | 🟥 | Controls saved configuration for the streamerbot PiShock integrations. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock LoginForm | 🟥 | 🟥 | Controls saved login information for the PiShock service and API. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 PiShock ShareCodeForm | 🟥 | 🟥 | Controls how a share code is handled. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-
-***
-
-<a name="PiShock-V2---Examples"></a>
-## PiShock V2 - Examples
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-PiShock - Climbing Shock | 🟥 | 🟥 | Contains an example setup for a climbing shock PiShock event. This will gradually increase the intensity of the shock. | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Generic Shock | 🟥 | 🟥 | Contains an example setup for a generic shock PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Operation Roulette | 🟥 | 🟥 | Contains an example setup for a operation roulette PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
-PiShock - Pre-vibrate Shock | 🟥 | 🟥 | Contains an example setup for a pre-vibrate PiShock event.  | [mxpuffin](https://mxpuffin.itch.io/streamerbot-pishock-plugin-v2)
 
 ***
 
