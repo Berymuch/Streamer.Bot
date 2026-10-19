@@ -9,9 +9,8 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API Interactions | Other
 :---: | :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Twitch interactions](#Twitch-interactions) | [Passive Interactions](#Passive-Interactions)
-[PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems)
+[PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems) | [User Translate](#User-Translate)
 [PiShock V2 - Operations](#PiShock-V2---Operations) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | |
- | [User Translate](#User-Translate) | | 
 
 ***
 
