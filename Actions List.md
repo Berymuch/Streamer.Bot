@@ -5,11 +5,11 @@ Welcome to the web page made for listing all of the actions provided with the Bo
 > [!NOTE]
 > Many of the actions in this bot are in active development and also update irregularly. Documentation reflects the latest version of Botymuch.
 
-*Current Action count: 96*
+*Current Action count: 92*
 PiShock Interactions | Commands | Spinning Prizewheel Interactions | Twitch API Interactions | Other
 :---: | :---: | :---: | :---: | :---:
 [PiShock - Twitch Interactions](#PiShock---Twitch-Interactions) | [Broadcaster Commands](#Broadcaster-Commands) | [Spinning Prize Wheel](#Spinning-Prize-Wheel) | [Twitch interactions](#Twitch-interactions) | [Passive Interactions](#Passive-Interactions)
-[PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems) | [User Translate](#User-Translate)
+[PiShock V2 - Core](#PiShock-V2---Core) | [Moderator Commands](#Moderator-Commands) | [Spinning Prize Wheel - Custom](#Spinning-Prize-Wheel---Custom) | [Redeems](#Redeems) | 
 [PiShock V2 - Operations](#PiShock-V2---Operations) | [Chat Commands](#Chat-Commands) | [Spinning Prize Wheel - User Group](#Spinning-Prize-Wheel---User-Group) | |
 
 ***
@@ -200,16 +200,5 @@ Twitch Moderation Event Tracker | 🟥 | 🟥 | Controls numerous data tracking 
 Twitch Stream Event Tracker | 🟥 | 🟥 | Controls numerous data tracking subactions that are run in response to all Stream-type API events. | [Berymuch](https://www.twitch.tv/Berymuch)
 Watch Streak Writeline | 🟥 | 🟥 | Controls how a local leaderboard at the specified .txt file location is written to and pupolated in response to watchstreak events as dictated by the core watchstreak action. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 Watch Time | 🟥 | 🟥 | Controls subactions that are run when Present Users are updated and watchtime is queried. Also triggers when the !watchtime command is used and returns information based on the input parameters. | [Berymuch](https://www.twitch.tv/Berymuch) & [GoWMan](https://extensions.streamer.bot/t/watchtime-v2-0-track-user-time/152)
-
-***
-
-<a name="User-Translate"></a>
-## User Translate
-
-Action | GFX | SFX | Description | Credit
-:--- | :---: | :---: | :--- | :---:
-User Auto-translate | 🟥 | 🟥 | If enabled, will autopmatically detect and translate non-english chat messages. This tends to be very reactive and thus is disabled by default as common slang and internet shorthand will cause it to go off when not required. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Auto-translate File & Command | 🟥 | 🟥 | Core translation action. This action is required in order to allow other associated translation actions to function as intended. Supports word/term filtering via the !add, !remove, !list, & !clear commands. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
-User Translate v2.1 | 🟥 | 🟥 | Calls the User Auto-translate File & Command action to query Google's API and translate a specified string of text via the '!en' command. | [rez1dev](https://ko-fi.com/s/60e0aab91d)
 
 
