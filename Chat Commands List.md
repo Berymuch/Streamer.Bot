@@ -56,7 +56,6 @@ Command | Description | Credit
 !unflip [message] & !unflip as a chat message reply | Unflips the message :o. If the command is sent as a reply to another message, it will use the targetted messages author as a target. |[Luposity](https://www.twitch.tv/Luposity)
 !angryflip [message] & !boop as a chat message reply | ANGRILY FLIPS THE MESSAGE >:c! If the command is sent as a reply to another message, it will use the targetted messages author as a target. |[Luposity](https://www.twitch.tv/Luposity)
 !convert & !con [value][units]| Converts values into other similar values. Available converts: c ↔ f, floz ↔ mllbs, lbs ↔ kg, ft ↔ m ↔ in ↔ cm, mi ↔ km | [Berymuch](https://www.twitch.tv/Berymuch)
-!en [text] | Translates the input text into English. | [Berymuch](https://www.twitch.tv/Berymuch)
 🟦🟦🟦 | 🟦🟦🟦   **DATA TRACKING**   🟦🟦🟦 | 🟦🟦🟦 
 !accountage [username or blank] & !accountage as a chat message reply | Display the date of your account creation on [Twitch](https://www.twitch.tv) in chat. You can specify a specific username after the command to check their information as well. If the command is sent as a reply to another message, it will use the targetted messages author as a target. | [Berymuch](https://www.twitch.tv/Berymuch)
 !stars [total/username/give [username]/steal [username]] | Display the amount of stars you have in chat. You can also give stars to others, check how many stars someone else has, and steal from specified users. | [ItzApix_](https://www.twitch.tv/ItzApix_)
@@ -182,7 +181,6 @@ Command | Description | Credit
 !closeEntries & !entriesClose | Close entries for the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !openEntries & !entriesOpen | Open entries for the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
 !spinUser, !userSpin, !uSpin, & !spinU | Spin the user group prize wheel. | [Rondhi](https://www.twitch.tv/Rondhi)
-!add [text] | Add following text into the exclude dictionary, disallowing that text from being automatically translated. | [Rondhi](https://www.twitch.tv/Rondhi)
 !raidmessage & !rmsg | Modifies and saves the message sent to chat when you start raiding out. | [Berymuch](https://www.twitch.tv/Berymuch)
 !spamjailadd [username] | Adds the specified user to the Spammer Jail user group and blocks them from issuing chat commands, redeems, and triggering bits and subs logic. Spending channel points on redeems will also result in those redeems not functioning and points being wasted. | [Berymuch](https://www.twitch.tv/Berymuch)
 !spamjailremove [username] | Removes the specified user from the Spammer Jail user group and allows them to start issuing chat commands and triggering bits and subs logic. Redeems usage will also be restored to its normal function. | [Berymuch](https://www.twitch.tv/Berymuch)
@@ -213,9 +211,6 @@ Command | Description | Credit
 !deathsset |  Sets death counter for the current game to the value specified. | [Berymuch](https://www.twitch.tv/Berymuch)
 !logger | Writes the post stream log to the logging file. | [ItzApix_](https://www.twitch.tv/ItzApix_)
 !resetswearjar & !rsj | Resets the contents of the swear jar. | [Berymuch](https://www.twitch.tv/Berymuch)
-!list | Display the entirety of the exclude dictionary in chat. | [Berymuch](https://www.twitch.tv/Berymuch)
-!clear | Clears the list of excluded auto-translate words. | [Berymuch](https://www.twitch.tv/Berymuch)
-!remove [text] | Removes the specified terms from the auto-translate exclude list. | [Berymuch](https://www.twitch.tv/Berymuch)
 !nutban & !nb [Twitch Username] (case sensitive) | Bans the specified user from using Nut Commands. | [Berymuch](https://www.twitch.tv/Berymuch)
 !nutunban & !nub [Twitch Username] (case sensitive) | Unbans the specified user from using Nut Commands. | [Berymuch](https://www.twitch.tv/Berymuch)
 
